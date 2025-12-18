@@ -1,0 +1,472 @@
+/* General page settings */
+body {
+    margin: 0;
+    /* Removes default margin around the page */
+    font-family: Arial, sans-serif;
+    /* Sets default font for the page */
+    background-image: url(nasa.jpg);
+    /* Sets background image */
+    background-size: cover;
+    /* Makes the background cover the entire page */
+    background-position: center;
+    /* Centers the background image */
+    color: white;
+    /* Default text color is white */
+}
+
+/* Header settings */
+header {
+    display: flex;
+    /* Uses flexbox layout for header content */
+    justify-content: space-between;
+    /* Space between items (title and nav) */
+    align-items: center;
+    /* Vertically centers items */
+    height: 120px;
+    /* Sets header height */
+    padding: 0 40px;
+    /* Horizontal padding inside header */
+    position: relative;
+    /* Allows absolute positioning of child elements */
+}
+
+header h1 {
+    margin: 0;
+    /* Removes default margin */
+    font-size: 2rem;
+    /* Sets font size for the main heading */
+}
+
+/* Class for special title effect */
+.cooltitle {
+    font-size: 3rem;
+    /* Large font size */
+    font-weight: 900;
+    /* Extra bold */
+    background: linear-gradient(90deg, #ffffff, #4f8e9e);
+    /* Gradient background */
+    background-clip: text;
+    /* Clips the background to text */
+    -webkit-background-clip: text;
+    /* Webkit support for background clipping */
+    -webkit-text-fill-color: transparent;
+    /* Makes text transparent to show gradient */
+    text-align: center;
+    /* Centers the text */
+    transition: all 0.4s ease;
+    /* Smooth transition for hover effects */
+}
+
+.cooltitle:hover {
+    transform: scale(1.2);
+    /* Enlarges title slightly when hovered */
+}
+
+/* Buttons */
+#Home,
+#About {
+    position: absolute;
+    /* Positioned absolutely inside header */
+    text-decoration: none;
+    /* Removes underline */
+    color: white;
+    /* Text color white */
+    font-weight: bold;
+    /* Bold font */
+    font-size: 15px;
+    /* Font size */
+    padding: 17px 40px;
+    /* Padding inside button */
+    border-radius: 50px;
+    /* Rounded corners */
+    cursor: pointer;
+    /* Changes cursor to pointer on hover */
+    border: 0;
+    /* Removes border */
+    background-color: hsl(261, 80%, 48%);
+    /* Purple-ish background color */
+    box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
+    /* Soft shadow behind button */
+    letter-spacing: 1.5px;
+    /* Spacing between letters */
+    text-transform: uppercase;
+    /* Makes text uppercase */
+    transition: all 0.4s ease;
+    /* Smooth transitions on hover */
+}
+
+#Home {
+    left: 50%;
+    /* Centers horizontally */
+    transform: translateX(-50%);
+    /* Adjust exact centering */
+}
+
+#About {
+    right: 20px;
+    /* Positions 20px from the right */
+    transform: none;
+    /* No extra transform */
+}
+
+#Home:hover,
+#About:hover {
+    letter-spacing: 3px;
+    /* Increases letter spacing on hover */
+    background-color: hsl(261, 80%, 38%);
+    /* Darker purple on hover */
+    box-shadow: rgb(93 24 220) 0px 7px 29px 0px;
+    /* Glowing shadow effect */
+}
+
+#Home:active,
+#About:active {
+    letter-spacing: 3px;
+    /* Keep spacing while clicked */
+    background-color: hsl(261, 80%, 38%);
+    /* Same hover color */
+    box-shadow: none;
+    /* Remove shadow */
+    transform: translateY(4px);
+    /* Button presses down slightly */
+    transition: 100ms;
+    /* Quick transition */
+}
+
+/* Main content area */
+main {
+    display: flex;
+    /* Flex container for main content and sidebar */
+    height: 675px;
+    /* Fixed height for main section */
+}
+
+/* Main content div */
+#mainContent {
+    flex: 5;
+    /* Takes 5 parts of available flex space */
+    background: rgba(0, 0, 0, 0.7);
+    /* Semi-transparent black background */
+    border-radius: 14px;
+    /* Rounded corners */
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+    /* Shadow around the box */
+    padding: 40px;
+    /* Padding inside content */
+    margin: 20px;
+    /* Margin around content */
+    min-height: 400px;
+    /* Minimum height */
+    transition: all 0.3s ease;
+    /* Smooth transitions */
+    display: flex;
+    /* Flex layout inside mainContent */
+    justify-content: center;
+    /* Center content horizontally */
+    align-items: center;
+    /* Center content vertically */
+    text-align: center;
+    /* Center text */
+    flex-direction: column;
+    /* Stack content vertically */
+}
+
+/* Home style paragraph */
+#mainContent.home-style p {
+    font-family: 'Poppins', sans-serif;
+    /* Uses imported Poppins font */
+    font-size: 48px;
+    /* Large text size */
+    font-weight: 700;
+    /* Bold text */
+    line-height: 1.4;
+    /* Spacing between lines */
+    background: linear-gradient(90deg, #ffffff, #4f8e9e);
+    /* Gradient text */
+    background-clip: text;
+    /* Clips gradient to text */
+    -webkit-background-clip: text;
+    /* Webkit support */
+    -webkit-text-fill-color: transparent;
+    /* Shows gradient in text */
+    text-shadow: 0 4px 15px rgba(0, 0, 0, 0.6);
+    /* Text shadow for depth */
+    animation: fadeInUp 1s ease forwards;
+    /* Fade-in animation */
+}
+
+/* About Me box */
+#aboutMe {
+    display: none;
+    /* Hidden by default, probably shown via JS */
+    flex-direction: column;
+    /* Vertical stacking */
+    justify-content: center;
+    /* Center content */
+    align-items: center;
+    /* Center horizontally */
+    text-align: center;
+    /* Text centered */
+    max-width: 700px;
+    /* Max width */
+    margin: 30px auto;
+    /* Center horizontally with margin */
+    background: rgba(0, 0, 0, 0.6);
+    /* Semi-transparent black */
+    padding: 25px 30px;
+    /* Inner padding */
+    border-radius: 12px;
+    /* Rounded corners */
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.4);
+    /* Shadow for depth */
+    color: #ffffff;
+    /* White text */
+    font-family: 'Poppins', sans-serif;
+    /* Poppins font */
+    font-size: 20px;
+    /* Text size */
+    line-height: 1.6;
+    /* Line spacing */
+}
+
+#aboutMe h2 {
+    font-size: 28px;
+    /* Heading size */
+    font-weight: 700;
+    /* Bold heading */
+    margin-bottom: 20px;
+    /* Spacing below heading */
+}
+
+#aboutMe p {
+    margin-bottom: 16px;
+    /* Paragraph spacing */
+    font-size: 18px;
+    /* Paragraph size */
+}
+
+/* GitHub icon style */
+.github-link {
+    display: inline-block;
+    /* Inline block for spacing */
+    margin-top: 10px;
+    /* Space above */
+    transition: transform 0.3s ease;
+    /* Smooth hover transform */
+}
+
+.github-link:hover {
+    transform: scale(1.2);
+    /* Enlarge on hover */
+}
+
+.github-icon {
+    width: 40px;
+    /* Icon width */
+    height: 40px;
+    /* Icon height */
+}
+
+/* Right sidebar */
+#Sag {
+    background: rgba(255, 255, 255, 0.17);
+    /* Transparent white background */
+    border-radius: 14px;
+    /* Rounded corners */
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    /* Shadow */
+    backdrop-filter: blur(2.3px);
+    /* Blur behind element */
+    -webkit-backdrop-filter: blur(2.3px);
+    /* Webkit support */
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    /* Border */
+    padding: 20px;
+    /* Inner padding */
+    color: #000;
+    /* Text color */
+    margin-top: 20px;
+    /* Top margin */
+    flex: 1;
+    /* Takes 1 part of flex space */
+    display: flex;
+    /* Flex layout */
+    flex-direction: column;
+    /* Stack items vertically */
+    justify-content: flex-start;
+    /* Start from top */
+    align-items: stretch;
+    /* Fill width */
+    height: 100%;
+    /* Full height */
+}
+
+#Sag ul {
+    list-style: none;
+    /* Remove bullets */
+    padding: 0;
+    /* Remove padding */
+    margin: 0;
+    /* Remove margin */
+}
+
+#Sag li {
+    font-family: Arial, sans-serif;
+    /* Font */
+    padding: 1.3em 3em;
+    /* Padding inside list item */
+    font-size: 12px;
+    /* Font size */
+    text-transform: uppercase;
+    /* Uppercase text */
+    letter-spacing: 2.5px;
+    /* Space between letters */
+    font-weight: 500;
+    /* Medium font */
+    color: #000;
+    /* Text color */
+    background-color: #fff;
+    /* White background */
+    border: none;
+    /* No border */
+    border-radius: 45px;
+    /* Rounded pill shape */
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    /* Shadow */
+    transition: all 0.3s ease 0s;
+    /* Smooth transitions */
+    cursor: pointer;
+    /* Pointer cursor */
+    outline: none;
+    /* Removes focus outline */
+}
+
+#Sag li:hover {
+    background-color: hsl(204, 44%, 50%);
+    /* Blue background on hover */
+    box-shadow: rgb(47 123 194) 0px 7px 29px 0px;
+    /* Shadow glow */
+    color: #fff;
+    /* White text */
+    transform: translateY(-7px);
+    /* Lift up slightly */
+}
+
+#Sag li:active {
+    transform: translateY(-1px);
+    /* Press down effect */
+}
+
+/* Footer */
+.impressum {
+    display: flex;
+    /* Flex container */
+    flex-direction: row;
+    /* Horizontal layout */
+    font-size: 10px;
+    /* Small font */
+    color: white;
+    /* White text */
+    height: auto;
+    /* Automatic height */
+    margin-top: 80px;
+    /* Space above */
+    padding: 20px;
+    /* Padding inside footer */
+    background: #0000008b;
+    /* Semi-transparent black background */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.04), 0 8px 20px rgba(0, 0, 0, 0.08);
+    /* Shadow for depth */
+    backdrop-filter: blur(2.3px);
+    /* Blur effect behind footer */
+}
+
+.impressum .left {
+    text-align: left;
+    /* Align text left */
+    width: 33%;
+    /* Take 1/3 width */
+    margin-top: 50px;
+    /* Top spacing */
+}
+
+.impressum .center {
+    text-align: center;
+    /* Center text */
+    width: 33%;
+    /* Take 1/3 width */
+    margin-top: 30px;
+    /* Top spacing */
+}
+
+.impressum .right {
+    text-align: right;
+    /* Right-aligned text */
+    width: 33%;
+    /* Take 1/3 width */
+    margin-top: 30px;
+    /* Top spacing */
+}
+
+/* Footer GitHub icon */
+.github-link-footer {
+    display: inline-block;
+    /* Inline-block for alignment */
+    margin-left: 8px;
+    /* Space between text and icon */
+    vertical-align: middle;
+    /* Align vertically */
+    transition: transform 0.3s ease;
+    /* Smooth hover transform */
+}
+
+.github-link-footer:hover {
+    transform: scale(1.2);
+    /* Enlarge icon on hover */
+}
+
+.github-icon-footer {
+    width: 25px;
+    /* Icon width */
+    height: 25px;
+    /* Icon height */
+    vertical-align: middle;
+    /* Align vertically */
+}
+
+/* Fade-in animation */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        /* Invisible at start */
+        transform: translateY(30px);
+        /* Start below */
+    }
+
+    to {
+        opacity: 1;
+        /* Fully visible at end */
+        transform: translateY(0);
+        /* Move to original position */
+    }
+}
+
+/* Responsive design for screens under 768px */
+@media (max-width:768px) {
+    #mainContent.home-style p {
+        font-size: 32px;
+        /* Reduce main text size on small screens */
+    }
+
+    #aboutMe {
+        font-size: 18px;
+        /* Smaller About Me text */
+        padding: 20px;
+        /* Less padding */
+    }
+
+    #aboutMe h2 {
+        font-size: 24px;
+        /* Smaller heading */
+    }
+}

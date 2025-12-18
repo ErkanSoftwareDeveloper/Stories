@@ -1,0 +1,74 @@
+<!DOCTYPE html> <!-- Declares this document as HTML5, telling the browser how to interpret it -->
+
+<html lang="en"> <!-- Root element of the HTML page; lang="en" sets the primary language to English -->
+
+<head> <!-- Head section contains metadata, links, and the title of the page -->
+    <meta charset="UTF-8"> <!-- Sets character encoding to UTF-8 for supporting all characters -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Makes the site responsive on mobile devices -->
+    <title>StoryWhiteBlue</title> <!-- Title of the webpage, displayed in browser tab -->
+    <link rel="stylesheet" href="style.css"> <!-- Links external CSS file for styling the page -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;900&display=swap" rel="stylesheet">
+    <!-- Imports "Poppins" font from Google Fonts -->
+</head>
+
+<body> <!-- Body section contains all visible content of the webpage -->
+
+    <!-- HEADER -->
+    <header> <!-- Represents the header of the page, usually contains logo and navigation -->
+        <h1 class="cooltitle">StoryWhiteBlue</h1> <!-- Main heading of the page with a CSS class "cooltitle" -->
+        <nav class="main-nav"> <!-- Navigation section with class "main-nav" -->
+            <a href="#" id="Home">Homepage</a> <!-- Navigation link to homepage -->
+            <a href="#" id="About">About Me</a> <!-- Navigation link to About Me section -->
+        </nav>
+    </header>
+
+    <!-- MAIN CONTENT -->
+    <main> <!-- Main content section of the page -->
+
+        <!-- Home section -->
+        <div id="mainContent" class="center home-style">
+            <!-- A div with id "mainContent" and classes "center" and "home-style" for styling -->
+            <p>Explore, Read, and Enjoy your journey through our stories</p> <!-- A paragraph with introductory text -->
+        </div>
+
+        <!-- About Me section -->
+        <div id="aboutMe"></div> <!-- Empty div with id "aboutMe", probably filled dynamically with JavaScript -->
+
+        <!-- Right sidebar menu -->
+        <aside id="Sag"> <!-- Sidebar container with id "Sag" (means "right" in Turkish) -->
+            <ul id="sectionList"> <!-- Unordered list to display sections -->
+                <li data-section="kotuAdam">The Legend of Alsbans</li>
+                <!-- List item with a custom data attribute "data-section" used for JS interactions -->
+            </ul>
+        </aside>
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="impressum"> <!-- Footer section with class "impressum" for legal information -->
+        <div class="left">
+            Impressum – Legal Notice <!-- Left section of the footer with legal text -->
+            <a href="https://github.com/ErkanSoftwareDeveloper" target="_blank" class="github-link-footer">
+                <!-- Link to GitHub profile, opens in a new tab -->
+                <img src="github-mark-white.svg" alt="GitHub" class="github-icon-footer">
+                <!-- GitHub logo image in the footer -->
+            </a>
+        </div>
+        <div class="center">
+            Operator (§ 55 Abs. 2 RStV):<br> <!-- Center section with operator info -->
+            Erkan, Berlin, Germany<br>
+            Email: your@email.com
+        </div>
+        <div class="right">
+            Legal Disclaimer:<br> <!-- Right section with legal disclaimer -->
+            This website is a non-commercial personal publication.<br>
+            All content is protected by copyright.<br>
+            No liability is assumed for external links.
+        </div>
+    </footer>
+
+    <script src="script.js"></script> <!-- Links an external JavaScript file "script.js" for dynamic behavior -->
+
+</body>
+
+</html>
