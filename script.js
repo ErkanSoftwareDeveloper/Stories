@@ -13,7 +13,7 @@ const homeContent = `<p>Explore, Read, and Enjoy your journey through our storie
 // Define the About Me section HTML content
 const aboutContent = `
     <h2>About Me</h2>
-    <p>I am proud to share the beautiful dreams from my imagination with you. Everything written comes entirely from the worlds I visit each night when I close my eyes. I hope you enjoy it and take the time to read it. If you have any suggestions or find any bugs on the site, please do not hesitate to contact me at "StoryWhiteBlue@gmail.com". Let’s make our site even better.</p>
+    <p>I am proud to share the beautiful dreams from my imagination with you. Everything written comes entirely from the worlds I visit each night when I close my eyes. I hope you enjoy it and take the time to read it. If you have any suggestions or find any bugs on the site, please do not hesitate to contact me at "erkansoftwaredeveloper@gmail.com". Let’s make our site even better.</p>
     <p>Sincerely,<br>Erkan</p>
     <p>Check out my GitHub:</p>
     <a href="https://github.com/ErkanSoftwareDeveloper" target="_blank" class="github-link">
