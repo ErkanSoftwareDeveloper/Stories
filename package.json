@@ -1,0 +1,20 @@
+{
+  "name": "storywhiteblue",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A small, fully static independent literature website.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/dev.mjs",
+    "preview": "node scripts/serve.mjs",
+    "check": "node scripts/check-build.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "gray-matter": "4.0.3",
+    "markdown-it": "14.3.0"
+  }
+}

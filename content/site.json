@@ -1,0 +1,22 @@
+{
+  "name": "StoryWhiteBlue",
+  "tagline": "A small library of stories born from dreams.",
+  "description": "A small independent library of fiction by Erkan, made for unhurried reading.",
+  "author": {
+    "name": "Erkan",
+    "location": "Berlin, Germany",
+    "email": "erkansoftwaredeveloper@gmail.com",
+    "github": "https://github.com/ErkanSoftwareDeveloper",
+    "githubHandle": "ErkanSoftwareDeveloper"
+  },
+  "about": [
+    "I write from Berlin, collecting the small worlds that appear behind closed eyes and trying to remember them before morning fades them away.",
+    "StoryWhiteBlue is a quiet shelf for those stories. There's no schedule, no algorithm, no rush. New tales arrive whenever the sky decides to hum again.",
+    "If you spot a bug, or want to say hello, or have a thought about something you've read I'd love to hear from you."
+  ],
+  "legal": {
+    "operatorNote": "§ 55 Abs. 2 RStV",
+    "disclaimer": "No liability is assumed for the content of external links.",
+    "copyrightNote": "A non-commercial personal publication. All content protected by copyright."
+  }
+}
