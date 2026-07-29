@@ -134,7 +134,10 @@ The workflow installs from `package-lock.json`, runs the production build and ou
 - Put cover and inline story images in `public/images/stories/`.
 - Do not edit `out/`; it is recreated on every build.
 
-## Licence
+## Copyright and usage
 
-The website software is available under the MIT License. Story text, artwork, author information, and other publication content are excluded from that software licence and remain protected by copyright. See [LICENSE](LICENSE).
+Copyright © 2026 Erkan. All rights reserved.
 
+The stories, prose, artwork, images, design, source code, documentation, and all other original materials in this repository are proprietary. No licence is granted. Copying, reproduction, modification, distribution, republication, commercial use, AI training, text or data mining, and creation of derivative works are prohibited without Erkan's prior written permission, except where applicable law expressly permits otherwise.
+
+The public website may be accessed for personal reading only. See [LICENSE](LICENSE) for the complete terms.

@@ -283,6 +283,9 @@ const legalBody = `
       <section>
         <h2>Copyright</h2>
         <p>${escapeHtml(site.legal.copyrightNote)}</p>
+        ${(site.legal.copyrightDetails || [])
+          .map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`)
+          .join("")}
       </section>
       <section>
         <h2>External links</h2>

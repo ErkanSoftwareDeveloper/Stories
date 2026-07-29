@@ -2,6 +2,8 @@
   "name": "storywhiteblue",
   "version": "1.0.0",
   "private": true,
+  "license": "UNLICENSED",
+  "author": "Erkan",
   "type": "module",
   "description": "A small, fully static independent literature website.",
   "scripts": {

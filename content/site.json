@@ -17,6 +17,11 @@
   "legal": {
     "operatorNote": "§ 55 Abs. 2 RStV",
     "disclaimer": "No liability is assumed for the content of external links.",
-    "copyrightNote": "A non-commercial personal publication. All content protected by copyright."
+    "copyrightNote": "All stories, artwork, website content, and original source code are owned by Erkan. All rights reserved. No reuse without prior written permission.",
+    "copyrightDetails": [
+      "No licence or permission is granted to copy, reproduce, republish, distribute, modify, adapt, translate, publicly display, sell, sublicense, commercially exploit, or create derivative works from any original material on this website.",
+      "The materials may not be used for text or data mining or to train, fine-tune, evaluate, or otherwise develop artificial-intelligence or machine-learning systems without prior written permission.",
+      "Access to this website is permitted solely for personal reading through its ordinary user interface. Statutory exceptions under applicable law remain unaffected."
+    ]
   }
 }
