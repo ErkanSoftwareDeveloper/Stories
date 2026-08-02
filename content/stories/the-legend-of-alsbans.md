@@ -81,7 +81,7 @@ Uzak dismounted and walked toward the square.
 
 His boots sank into the mud. Water ran from his hair across his face, though those nearest to him could not tell whether all of it was rain. Babies stopped crying in their mothers' arms. The animals near the trough lowered their heads but did not drink. Even the wind appeared to weaken as he passed.
 
-He had carried the news for seven days. Every mile home, he had imagined himself speaking it. He had found brave words in the mountains, gentle words beside the rivers, and honest words while riding beneath the stars.
+He had carried the news for seven days. With every step toward home, he had imagined himself speaking it. He had found brave words in the mountains, gentle words beside the rivers, and honest words while riding beneath the stars.
 
 Now, surrounded by the people who trusted him, he could remember none of them.
 
@@ -691,7 +691,7 @@ This time, it was not because looking back would break his courage.
 
 It was because he feared some part of him might still wish to remain.
 
-Beyond the forest, the sky seemed impossibly large. Sunlight hurt his eyes. The road toward Humpellia stretched across mountains and open fields, and with every mile, anticipation grew within him.
+Beyond the forest, the sky seemed impossibly large. Sunlight hurt his eyes. The road toward Humpellia stretched across mountains and open fields, and with every step, anticipation grew within him.
 
 He had conquered the Tree Contest. He had endured the last eight wizards. He was returning as the future governor, prepared to take his place and repair all that the long years had broken.
 
@@ -1123,7 +1123,7 @@ None of them knew what was coming.
 
 Morning came, but peace did not come with it.
 
-The village awoke before sunrise. Men followed the tracks left by the soldiers of Meras, searching the road and the forest beyond it. They found broken branches, deep hoofprints, and one strip of red cloth caught upon a thorn. Then, less than a mile from the boundary stones, the tracks divided and vanished across hard ground.
+The village awoke before sunrise. Men followed the tracks left by the soldiers of Meras, searching the road and the forest beyond it. They found broken branches, deep hoofprints, and one strip of red cloth caught upon a thorn. Then, less than a step from the boundary stones, the tracks divided and vanished across hard ground.
 
 It was as if the soldiers had not retreated at all, but simply stepped out of sight.
 
