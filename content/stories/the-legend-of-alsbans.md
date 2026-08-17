@@ -2762,3 +2762,358 @@ A woman stirred a pot over the fire. Two children repaired a fishing net. An old
 Alsbans studied their movements. He searched for concealed weapons, fear, and lies. He told himself he was deciding whether to steal food after dark.
 
 What he did not know was that the people had seen him long before he found the courage to approach.
+
+That night, Alsbans's stomach was hurting from hunger.
+
+He had not eaten properly for days. He had been surviving on a few fruits he found in the forest, some water, and whatever else he could manage to find. But hunger was something that knew how to silence even a person's pride.
+
+Alsbans whispered to himself,
+
+"I have to do it tonight."
+
+He sat there quietly for a while.
+
+"Yes... I'm hungry. I'm starving. If I steal because I'm hungry, what will happen? That doesn't make me a bad person."
+
+He repeated the words to himself, as if he were trying to convince someone else.
+
+"I'm not a bad person. Why would I be? I need it. They already have food."
+
+He waited a little longer.
+
+Then he stood up.
+
+Under the cover of darkness, he began walking toward the settlement.
+
+In the distance, a few windows were still glowing with light. Others had already gone dark. Alsbans stood at the edge of the settlement for a while, watching the houses.
+
+Eventually, he chose the house whose lamp had been the last to go out.
+
+"Everyone must be asleep."
+
+He approached quietly.
+
+With every step, he looked around. Whenever a branch snapped beneath his feet, he froze, held his breath, and waited several seconds before moving again.
+
+He slowly pushed the door open.
+
+He stepped inside.
+
+The house was dark.
+
+For a moment, he could see nothing. Then his eyes adjusted to the darkness. He could hear the people sleeping inside, their breathing soft and steady.
+
+Alsbans's heart began to race.
+
+He had never entered another person's home like this before.
+
+For a moment, he thought about turning back.
+
+Then his stomach growled.
+
+That sound made the decision for him.
+
+He quietly made his way into the kitchen.
+
+He found where the food was stored.
+
+He took a piece of bread.
+
+Then another.
+
+For a moment, he stared at the bread in his hands.
+
+"No one is going to die because of this," he whispered.
+
+He took a little more food and placed everything into a bag.
+
+Then, as quietly as he had entered, he slipped outside.
+
+He closed the door.
+
+For several seconds, he simply stood there.
+
+No one had woken up.
+
+No one had seen him.
+
+Alsbans took a deep breath.
+
+Then he ran.
+
+He disappeared into the darkness.
+
+He looked back several times, but he could not see anyone following him. Still, he did not stop.
+
+He ran until his legs could carry him no farther.
+
+When he was far enough from the settlement, he hid among the bushes. He looked around carefully.
+
+No one would find him here.
+
+He opened the bag.
+
+He took out the bread.
+
+For a moment, he simply stared at it.
+
+Then he began to eat.
+
+Quickly.
+
+As though someone might come and take it away from him.
+
+He barely finished one bite before reaching for another, trying not to let even the smallest crumbs fall to the ground.
+
+That night, for the first time in a long while, he felt the emptiness inside his stomach slowly disappear.
+
+When the food was gone, he leaned his back against a tree.
+
+His eyes grew heavy.
+
+"I'm not a bad person," he whispered.
+
+This time, he said it more quietly.
+
+Perhaps even he did not believe it.
+
+But he had no strength left to say anything else.
+
+He closed his eyes.
+
+And fell asleep.
+
+When morning came, Alsbans first felt the warmth of the sun against his face.
+
+Then he heard a voice.
+
+"He's awake."
+
+Alsbans's eyes opened instantly.
+
+He sat upright.
+
+And froze.
+
+There were people standing around him.
+
+Not one.
+
+Not two.
+
+Almost the entire settlement was there.
+
+Alsbans could barely breathe.
+
+His bag lay beside him.
+
+Empty.
+
+Not a single piece of food remained.
+
+But it no longer mattered.
+
+Because they had found him.
+
+Alsbans slowly backed away.
+
+"What do you want?"
+
+No one answered.
+
+There was anger on their faces.
+
+Some looked at him with contempt.
+
+Others simply looked curious.
+
+Finally, an old man stepped forward.
+
+He stopped in front of Alsbans.
+
+"Are you ready to be ashamed, young man?"
+
+Alsbans frowned.
+
+"Why should I be ashamed? What did I do?"
+
+The man's expression did not change.
+
+"You stole our food."
+
+Alsbans's eyes dropped to the ground for a moment.
+
+Then he looked back at the man.
+
+"You wouldn't have given me any if I had asked!"
+
+His voice rose.
+
+"You wouldn't have!"
+
+Several people in the crowd exchanged glances.
+
+But the old man remained calm.
+
+"No," he said. "Perhaps we would have."
+
+Alsbans fell silent.
+
+"Sometimes a person does not want to take what they need by force. Sometimes they simply do not know how to ask. And sometimes they are afraid of being refused, so they choose the easier path."
+
+The man took a step closer.
+
+"But whatever the reason, what you did has consequences."
+
+Alsbans clenched his fists.
+
+"I was hungry."
+
+"I know."
+
+"I haven't eaten properly for days."
+
+"I know."
+
+"Then why are you here?"
+
+The old man stared at him for a long moment.
+
+"Because being hungry does not change what you did."
+
+The anger slowly disappeared from Alsbans's face.
+
+Fear took its place.
+
+The man glanced back at the others, then turned toward Alsbans again.
+
+"But we will give you a choice, young man."
+
+Alsbans looked at him in confusion.
+
+"What choice?"
+
+The man's voice became colder.
+
+"You can stay with us."
+
+A brief silence followed.
+
+"You will do all the work we do. You will work. And in return, you will be allowed to live."
+
+Alsbans frowned.
+
+"So..."
+
+The man finished the sentence.
+
+"You will be our slave."
+
+Alsbans's expression changed instantly.
+
+"What?"
+
+The people behind the man watched in silence.
+
+"Or..."
+
+The man paused.
+
+"We kill you here."
+
+Alsbans's eyes widened.
+
+"No..."
+
+His voice was no longer angry.
+
+It was frightened.
+
+"No. What do you mean?"
+
+He took a step backward.
+
+"A slave?"
+
+The man said nothing.
+
+Alsbans shook his head.
+
+"I'm not a slave."
+
+"Then choose the other option."
+
+Alsbans looked around.
+
+For the first time, he truly felt alone.
+
+Trixalisse was gone.
+
+Jelin was gone.
+
+There was no one left to protect him.
+
+And when he searched the people's eyes for mercy, he found none.
+
+"I..."
+
+His voice trembled.
+
+"I don't want to be a slave."
+
+The man shrugged.
+
+"Then make your choice."
+
+Alsbans could not answer.
+
+For a while, he simply stared at the ground.
+
+Finally, the man turned away.
+
+"Then the young man has made his choice."
+
+The crowd slowly began to disperse.
+
+Alsbans remained where he was, unable to move.
+
+As the people passed him, one of them suddenly stopped.
+
+He leaned toward Alsbans's ear.
+
+"Don't worry," he whispered. "They won't kill you."
+
+Then he walked away as if nothing had happened.
+
+Alsbans stared after him.
+
+"What...?"
+
+The man had already disappeared into the crowd.
+
+Someone at the front turned around and shouted,
+
+"Come on! Follow us!"
+
+Alsbans did not move.
+
+The man shouted again.
+
+"Where are you, young man?"
+
+Alsbans lifted his head.
+
+For a moment, he watched them.
+
+Then, slowly, he stood.
+
+He lowered his head.
+
+And began walking after them.
+
+But there was something no one noticed.
+
+Alsbans's hands had tightened into fists.
+
+And in that moment, for the first time in his life, he began to understand just how precious freedom truly was.
+
