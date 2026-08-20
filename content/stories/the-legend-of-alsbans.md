@@ -3117,3 +3117,600 @@ Alsbans's hands had tightened into fists.
 
 And in that moment, for the first time in his life, he began to understand just how precious freedom truly was.
 
+## Chapter 4: A Place to Belong
+
+As the days passed, Alsbans began to understand that life was not made of suffering alone.
+
+In the beginning, he woke each morning with the same thought: how he might escape.
+
+Every day among the people of Fenis felt like a day taken from him by force. He did the work they gave him, listened when they spoke, and obeyed when he had to, but none of it felt like his own choice.
+
+To him, they were simply the people who had made him a slave.
+
+And perhaps, in those first days, he had every reason to see them that way.
+
+But days became weeks, and weeks slowly turned into months.
+
+And something strange began to happen.
+
+No one treated him like a slave anymore.
+
+When he woke in the morning, there was no one standing over him waiting to give him orders. Instead, someone would call him to breakfast.
+
+When he worked, the others did not merely tell him what to do. They showed him how to do it.
+
+And when evening came, no one sent him away from the others.
+
+They made room for him beside the fire.
+
+At first, Alsbans did not understand it.
+
+Perhaps he did not want to.
+
+Hating someone was easy.
+
+But when the person you hated began treating you with kindness, hatred became far more difficult to hold onto.
+
+Little by little, Alsbans stopped feeling like a slave among them.
+
+He began to feel like a friend.
+
+No one announced the change.
+
+No one stood before him one morning and said, *You are one of us now.*
+
+It happened quietly.
+
+One day, he realized he was laughing with them.
+
+Another day, someone asked what he thought before making a decision.
+
+Once, a child ran toward him, grabbed his hand, and pulled him toward the others without the slightest hesitation.
+
+Alsbans had stared at the child for a moment.
+
+*He isn't afraid of me.*
+
+Perhaps that was what had truly changed.
+
+People were no longer afraid of him.
+
+And Alsbans was slowly learning not to be afraid of them.
+
+He began to love the place.
+
+He tried to live as they lived, to understand what they understood, to learn what they knew.
+
+But there was something else happening inside him.
+
+Something he did not yet recognize.
+
+Alsbans was not only learning about their world.
+
+He was learning about himself.
+
+He had no idea how much potential existed within him.
+
+He did not even think of it as talent.
+
+He was simply curious.
+
+And perhaps the thing Alsbans loved most in the world was learning.
+
+If he did not know something, he asked.
+
+If he did not understand the answer, he asked again.
+
+If one person's answer was not enough, he found another person.
+
+Sometimes he asked so many questions that people laughed and sent him away.
+
+The next morning, Alsbans would return.
+
+And ask another.
+
+He learned to fight.
+
+In the beginning, he swung a sword with nothing but anger. To him, strength meant striking harder than the person standing in front of him.
+
+Over time, he learned that strength was something else entirely.
+
+He learned where to place his feet.
+
+He learned to notice the smallest movement of an opponent's shoulder and understand where the next attack would come from.
+
+He learned when to strike.
+
+More importantly, he learned when not to.
+
+He learned to read.
+
+At first, letters had looked like meaningless marks scratched across a page.
+
+Then those marks became words.
+
+Words became sentences.
+
+And sentences opened doors to worlds he had never known existed.
+
+One day, Alsbans closed a book and stared at its cover for a long time.
+
+The thought fascinated him.
+
+A person could die, disappear from the world for hundreds of years, and yet still speak to someone through the words they had left behind.
+
+He learned to write.
+
+He learned to take the thoughts trapped inside his mind and leave them on paper.
+
+He learned to think.
+
+He began to understand people not only through what they said, but through what they chose not to say.
+
+He learned how to grow.
+
+How to lose.
+
+Sometimes, how to forget.
+
+Sometimes, how to remember.
+
+And perhaps the most difficult thing he had ever learned...
+
+was how to be loved.
+
+Alsbans had known what it was like for people to need him.
+
+But he had never understood that someone could remain beside him without needing anything from him at all.
+
+He had never truly believed that someone might love him simply because he was himself.
+
+In Trixalisse, they had cared for him.
+
+Jelin had protected him.
+
+But everything that happened afterward had tied love and fear together inside his heart.
+
+Whenever Alsbans loved someone, a part of him expected them to leave.
+
+That was why trusting the people of Fenis had taken so long.
+
+He expected every good thing to end.
+
+But the days continued to pass.
+
+And no one left.
+
+The child who had once stolen their food and stood trembling before them had become a young man known by everyone in the settlement.
+
+Children ran toward him when they saw him.
+
+The elderly invited him to sit beside the fire and listen to stories of times long gone.
+
+The young trained with him, worked beside him, argued with him, and laughed with him.
+
+The boy people once watched with suspicion had become someone they were happy to see.
+
+And time did not stop for him.
+
+Alsbans was growing.
+
+The last traces of childhood were slowly disappearing from his face.
+
+He was becoming a young man.
+
+He was handsome, of average height, with striking blue eyes. People sometimes told him so, though Alsbans rarely cared much about his appearance.
+
+Other things interested him far more.
+
+Questions.
+
+Conversation.
+
+Knowledge.
+
+He could sit across from someone and speak for hours.
+
+Perhaps his favorite word had always been:
+
+*Why?*
+
+Why do people fight?
+
+Why are we afraid?
+
+Why do we love?
+
+Why do some people become good while others become cruel?
+
+And perhaps the question that interested him most was this:
+
+*Can a person truly change?*
+
+One evening, he and his closest friend, Cesa, sat outside the settlement.
+
+The sun was slowly disappearing behind the trees, and the color of the sky was growing darker.
+
+Cesa had been watching Alsbans for some time.
+
+Eventually, he broke the silence.
+
+"How are you, Alsbans?"
+
+Alsbans looked at him.
+
+"I'm fine."
+
+Cesa waited.
+
+He knew Alsbans too well to believe that would be the entire answer.
+
+Sure enough, a few seconds later, Alsbans continued.
+
+"But I feel strange."
+
+"Strange how?"
+
+Alsbans pulled his knees closer to himself and stared into the distance.
+
+"I feel as though my life is somewhere else."
+
+Cesa frowned.
+
+"What does that mean?"
+
+"I don't know."
+
+Alsbans searched for the right words.
+
+"It feels like everything is moving so quickly."
+
+"Everything does move."
+
+"No. That's not what I mean."
+
+Alsbans shook his head.
+
+"People are growing. Things are changing. Everyone seems to know where they are going. Something happens every day. Everyone keeps moving forward."
+
+He fell silent for a moment.
+
+"But sometimes I feel as though I've stopped."
+
+Cesa watched him.
+
+Alsbans continued.
+
+"As though the entire world is passing in front of me while I'm standing in the same place."
+
+Cesa smiled faintly.
+
+"You know something, Alsbans?"
+
+"What?"
+
+"Maybe we're all like that."
+
+Alsbans turned toward him.
+
+"All of us?"
+
+"Yes."
+
+Cesa picked up a small stone from the ground and turned it between his fingers.
+
+"Sometimes we run."
+
+He threw the stone into the distance.
+
+"Sometimes we walk."
+
+Then he looked at Alsbans.
+
+"And sometimes we stop."
+
+"Isn't that a bad thing?"
+
+"Who said it was?"
+
+Alsbans had no answer.
+
+Cesa shrugged.
+
+"Maybe sometimes a person has to stop before he can understand where he's going."
+
+Alsbans thought about it for a few seconds.
+
+Then he smiled.
+
+"You might be right."
+
+"I am right."
+
+"And how are you so sure?"
+
+"Because I said it."
+
+Alsbans laughed.
+
+Before he could answer, a voice came from the settlement.
+
+"CESA! ALSBANS!"
+
+They both turned.
+
+Kesal was calling them.
+
+"Food is ready! Where have you two been?"
+
+Cesa immediately stood.
+
+"Run."
+
+Alsbans looked at him.
+
+"Why?"
+
+"Because if we're late, everyone else will eat the best food."
+
+Cesa started running.
+
+Alsbans shouted after him.
+
+"That's cheating!"
+
+"Life isn't fair!"
+
+Laughing, Alsbans ran after him.
+
+They reached the others together.
+
+That evening, the tables seemed more crowded than usual.
+
+Food had been placed everywhere. People sat beside one another, conversations overlapping as laughter rose from one side of the table and arguments from another.
+
+Alsbans sat beside Cesa.
+
+Everything seemed normal.
+
+Then Kesal stood.
+
+He held a cup in one hand.
+
+With a spoon, he struck it gently.
+
+The conversations slowly faded.
+
+Kesal looked around.
+
+"People of Fenis!"
+
+Everyone turned toward him.
+
+"Today is an important day."
+
+The people at the tables exchanged confused looks.
+
+Alsbans looked at Cesa.
+
+Cesa shrugged.
+
+Kesal continued.
+
+"Today, someone new will join us."
+
+Whispers immediately spread across the tables.
+
+"Someone new?"
+
+"Who?"
+
+"Did someone come here?"
+
+"I didn't see anyone."
+
+Cesa leaned toward Alsbans.
+
+"What's happening?"
+
+Alsbans shook his head.
+
+"Why are you asking me? I don't know either."
+
+No one at the table seemed to understand.
+
+Kesal watched their confusion for a moment.
+
+Then his eyes settled on one person.
+
+"Alsbans."
+
+The whispers stopped.
+
+Alsbans looked around before pointing toward himself.
+
+"Me?"
+
+Kesal smiled.
+
+"Yes. You. Come here."
+
+Alsbans slowly stood.
+
+He had no idea what was happening.
+
+Everyone was watching him.
+
+He walked toward Kesal.
+
+"What happened?"
+
+For several seconds, Kesal said nothing.
+
+Then he placed a hand on Alsbans's shoulder.
+
+"Alsbans."
+
+His voice was calm, but serious.
+
+"Do you remember the first day you came here?"
+
+How could Alsbans forget?
+
+He remembered waking among the bushes.
+
+The people surrounding him.
+
+The fear.
+
+The bread he had stolen.
+
+And the two choices they had given him.
+
+He nodded slowly.
+
+"I remember."
+
+"We gave you a choice."
+
+The smile disappeared from Alsbans's face.
+
+Kesal continued.
+
+"You would work for us."
+
+A short silence followed.
+
+"And you would be our slave."
+
+No one at the table spoke.
+
+Alsbans looked into Kesal's eyes.
+
+He could still feel the man's hand resting on his shoulder.
+
+"But today..."
+
+A small smile appeared on Kesal's face.
+
+"You are no longer a slave."
+
+Alsbans did not move.
+
+It was as though he had heard the words but his mind had not yet understood them.
+
+Kesal stepped slightly closer.
+
+"From this day forward, you are not merely a young man who happens to live among us."
+
+He raised his cup.
+
+"You are a free man."
+
+Alsbans's eyes widened.
+
+Then Kesal raised his voice so that everyone could hear him.
+
+"You are now a true **Humpellian.**"
+
+For a single moment, there was complete silence.
+
+Then everything erupted at once.
+
+People rose from their seats.
+
+Cups were lifted into the air.
+
+Voices filled the settlement.
+
+"ALSBANS!"
+
+Cesa jumped from his seat and wrapped his arms around him.
+
+"I knew it!"
+
+Alsbans still did not know what to say.
+
+People slapped him on the back, embraced him, shouted his name, and laughed with such joy that some of them looked almost like children.
+
+But in the middle of all that noise, Alsbans suddenly heard nothing.
+
+Only Kesal's words remained inside his mind.
+
+*You are no longer a slave.*
+
+He was free.
+
+Alsbans closed his eyes.
+
+He remembered the days when he had thought death would be better than remaining in this place.
+
+He remembered how deeply he had hated these people.
+
+The nights he had imagined escaping.
+
+Then he thought of Cesa.
+
+Of Kesal.
+
+Of the words he had learned.
+
+The first sword he had held.
+
+The first book he had read.
+
+The first evening someone had moved aside and made room for him at the table.
+
+They were all pieces of the same life.
+
+And that night, Alsbans understood something important.
+
+Becoming someone new did not mean he had to kill the person he had once been.
+
+The child from Trixalisse was still him.
+
+The child who had screamed at Jelin was still him.
+
+The child who escaped death inside the cave was still him.
+
+The child who stole food was still him.
+
+The slave was still him.
+
+And the young man now standing before everyone was still him.
+
+They were all Alsbans.
+
+He could not erase his past.
+
+Perhaps he was never supposed to.
+
+Because the new Alsbans had not been born from the destruction of the old one.
+
+**He had been built upon him.**
+
+That night, he understood that everything he had learned had to stand beside everything he had once been.
+
+His pain.
+
+His anger.
+
+His fears.
+
+The people he had loved.
+
+The people he had hated.
+
+Everything he had lost.
+
+Everything he had found.
+
+The old Alsbans and the new Alsbans were no longer two different people.
+
+They were one.
+
+And perhaps that was what growing up truly meant.
+
+Not escaping your past...
+
+but becoming strong enough to carry it with you.
