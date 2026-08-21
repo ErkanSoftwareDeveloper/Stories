@@ -3715,7 +3715,7 @@ Not escaping your past...
 
 but becoming strong enough to carry it with you.
 
-# Chapter 5: The Price of Brotherhood
+## Chapter 5: The Price of Brotherhood
 
 Alsbans was no longer a child.
 
