@@ -3714,3 +3714,1363 @@ And perhaps that was what growing up truly meant.
 Not escaping your past...
 
 but becoming strong enough to carry it with you.
+
+# Chapter 5: The Price of Brotherhood
+
+Alsbans was no longer a child.
+
+The years he had spent in Fenis had changed more than his face and body. They had changed the way he looked at people, the way he spoke, the way he walked, even the way he remained silent.
+
+The boy who had once been caught stealing food and forced to choose between death and slavery had grown into a young man.
+
+And according to the traditions of Fenis, another time had come for him.
+
+The time to find a partner.
+
+In Fenis, reaching the age when a young man was expected to seek a companion was no ordinary occasion. On that day, the men dressed more carefully than usual, fixed their hair, wore the finest clothes they owned, and stood before the women hoping to leave the best impression they could.
+
+Some tried to display their strength.
+
+Some their wealth.
+
+Some their intelligence.
+
+Others simply tried to be themselves.
+
+Alsbans found the whole tradition rather strange.
+
+He stood before a mirror for a long time while getting ready.
+
+He brushed back his blond hair and put on one of the finest outfits he had been given.
+
+Against the pale fabric, his blue eyes appeared even brighter.
+
+Cesa was already waiting outside and had begun to lose his patience.
+
+"Alsbans!"
+
+"I'm coming."
+
+"You've said that three times."
+
+Alsbans opened the door.
+
+Cesa looked at him.
+
+For a moment, he said nothing.
+
+Alsbans raised an eyebrow.
+
+"What?"
+
+Cesa shook his head.
+
+"Nothing."
+
+"You were about to say something."
+
+"No."
+
+"Cesa."
+
+Cesa sighed.
+
+"I'm going to hate you today."
+
+Alsbans laughed.
+
+"Why?"
+
+"You'll understand soon enough."
+
+They walked toward the square together.
+
+And it did not take long for Alsbans to understand what Cesa had meant.
+
+Young men had gathered on one side of the square, while the women stood on the other. People talked, laughed, and studied one another from across the open space.
+
+But when Alsbans entered the square, several conversations stopped.
+
+A few heads turned toward him.
+
+Then a few more.
+
+And soon, almost everyone was looking.
+
+When Alsbans noticed, he leaned awkwardly toward Cesa.
+
+"Why is everyone staring at me?"
+
+Cesa did not even look at him.
+
+"I told you."
+
+"Told me what?"
+
+"That I was going to hate you today."
+
+Alsbans laughed.
+
+"You're exaggerating."
+
+He was not.
+
+There was hardly a woman among them who did not find Alsbans attractive.
+
+The other young men had prepared for this day for months. They had worn their finest clothes and done everything they could to stand out.
+
+Yet most of the attention had settled on Alsbans.
+
+Cesa folded his arms.
+
+"Wonderful."
+
+"What happened?"
+
+"Nothing."
+
+"You're lying again."
+
+"I'm having the greatest day of my life, Alsbans."
+
+Alsbans laughed.
+
+"I can tell."
+
+When the choices were made, the result was hardly surprising.
+
+Alsbans had been chosen by far the greatest number of women.
+
+Cesa was among the most popular as well, but beside Alsbans, the attention he received seemed almost insignificant.
+
+Everyone assumed the competition was already over.
+
+Then Kesal stepped forward.
+
+He raised a hand.
+
+"Wait."
+
+The crowd fell silent.
+
+Kesal looked at the young men.
+
+"It is easy to choose a person by looking at his face."
+
+A few people smiled.
+
+"But you will not spend your life looking only at his face."
+
+He paused.
+
+"You will see his anger."
+
+"You will see his sorrow."
+
+"You will see his silence."
+
+"And years from now, when the beauty of his face has changed, what will remain is his mind and his soul."
+
+Alsbans listened carefully.
+
+Kesal smiled.
+
+"So today, the winner will not be decided only by the women's choice."
+
+The crowd stirred.
+
+"This year, we will do something different."
+
+Kesal pointed toward Alsbans and Cesa.
+
+"The two men who received the most choices, come forward."
+
+Cesa looked at Alsbans.
+
+"Of course."
+
+Alsbans smiled and tapped him on the shoulder.
+
+"Come on, soul brother."
+
+They walked to the center of the square.
+
+They were seated opposite one another.
+
+Kesal turned toward the crowd.
+
+"Everyone, close your eyes."
+
+People exchanged confused looks.
+
+"Close them."
+
+This time, everyone obeyed.
+
+Kesal continued.
+
+"Now you will not judge beauty."
+
+"You will only listen."
+
+"Each of them will speak one short poem. It does not need to be long."
+
+Cesa opened his eyes.
+
+"Who starts?"
+
+Kesal looked at him.
+
+"You."
+
+"Why me?"
+
+A few people in the crowd laughed.
+
+Kesal answered without hesitation.
+
+"Because fewer people chose you."
+
+Laughter erupted.
+
+Cesa lowered his head.
+
+"Thank you, Kesal."
+
+Alsbans bit his lip, trying not to laugh.
+
+Cesa looked at him.
+
+"Don't laugh too much."
+
+Then he took a deep breath.
+
+He thought for a moment.
+
+And spoke.
+
+"The meaning is not hidden in books written about love.
+
+It is hidden in the worth of every sentence you read."
+
+The crowd remained silent.
+
+Kesal nodded.
+
+"Good."
+
+Then he looked at Alsbans.
+
+"Your turn, Alsbans."
+
+Cesa turned toward him.
+
+"Let's hear it, soul brother."
+
+Alsbans closed his eyes.
+
+For a moment, he said nothing.
+
+Then he spoke.
+
+"With every breath I take,
+
+let your scent become the air inside me.
+
+And tonight...
+
+let us become
+
+the song sung by the stars."
+
+A few quiet breaths could be heard from the crowd.
+
+Alsbans opened his eyes.
+
+Cesa was staring at him.
+
+Alsbans smiled.
+
+"Soul brother."
+
+Cesa raised an eyebrow.
+
+"What?"
+
+"You can't defeat my heart."
+
+Cesa's smile disappeared.
+
+"Come on," Alsbans said. "Your turn."
+
+This time, Cesa spoke more seriously.
+
+The warmth in his voice had been replaced by the beginning of anger.
+
+"I am a lonely man
+
+waiting at the edge of your lips.
+
+And wherever I may fall...
+
+every place I fall
+
+becomes your heart."
+
+The crowd reacted more loudly this time.
+
+Alsbans looked at his friend.
+
+Cesa really was good.
+
+But the small smile on Alsbans's face only irritated him further.
+
+Alsbans leaned forward.
+
+"Then I want you to know something, soul brother..."
+
+He paused.
+
+The playfulness disappeared from his voice.
+
+"The greatest pain
+
+is to be abandoned while you still love."
+
+Cesa looked at him.
+
+Alsbans continued.
+
+"Not once...
+
+but twice."
+
+For a moment, he remembered Jelin.
+
+He remembered Trixalisse.
+
+He remembered standing in the darkness and listening to the people he had once loved speak as though his death meant nothing.
+
+"Not dying once...
+
+but twice."
+
+The crowd had become completely silent.
+
+Alsbans did not take his eyes from Cesa.
+
+"And I think tonight...
+
+I will die here once again."
+
+Cesa was about to answer.
+
+But Kesal raised his hand.
+
+"Enough."
+
+Cesa fell silent.
+
+Kesal turned toward the crowd.
+
+"In that case..."
+
+"Everyone choose your side."
+
+One by one, the people made their choice.
+
+One side for Cesa.
+
+The other for Alsbans.
+
+At first, the numbers seemed close.
+
+Then Alsbans's side began to grow.
+
+One person.
+
+Then another.
+
+Then another.
+
+Until the result became undeniable.
+
+Alsbans had won.
+
+The crowd applauded.
+
+Alsbans rose with a smile.
+
+The first person he looked toward was Cesa.
+
+But Cesa was not smiling.
+
+He stood.
+
+Without saying a word to anyone, he began walking away from the crowd.
+
+Alsbans immediately tried to follow him.
+
+But Kesal caught him by the wrist.
+
+"Wait."
+
+"Cesa is leaving."
+
+"Let him."
+
+Alsbans watched his friend disappear into the distance.
+
+Kesal turned toward him.
+
+"Now it is your turn."
+
+"My turn for what?"
+
+Kesal gestured toward the women.
+
+"Who do you choose?"
+
+The conversations in the square stopped again.
+
+Everyone looked at Alsbans.
+
+Alsbans looked toward the women.
+
+Then toward the direction Cesa had gone.
+
+He thought for a moment.
+
+"No one."
+
+Kesal frowned.
+
+"What?"
+
+"I'm choosing no one."
+
+Angry murmurs rose from the crowd.
+
+"So many people chose you!"
+
+"Are you insulting us?"
+
+"What do you mean, no one?"
+
+Alsbans did not answer.
+
+Suddenly, he turned and ran.
+
+"Alsbans!"
+
+Kesal shouted after him.
+
+But Alsbans was already gone.
+
+He caught up with Cesa.
+
+He grabbed him by the arm.
+
+"Soul brother."
+
+Cesa pulled his arm away.
+
+"Leave me alone."
+
+"What happened?"
+
+"Nothing."
+
+"You're lying again."
+
+Cesa stopped.
+
+Slowly, he turned toward Alsbans.
+
+There was an anger in his eyes that Alsbans had rarely seen before.
+
+"You stole what should have been mine."
+
+Alsbans stared at him.
+
+"What?"
+
+"You took it from me!"
+
+"Cesa, it was only a competition."
+
+"For you, maybe."
+
+Cesa struck his own chest.
+
+"For me, it wasn't."
+
+Alsbans fell silent.
+
+Cesa shook his head.
+
+"Go."
+
+"Where?"
+
+"Go choose the most beautiful one."
+
+"I chose no one."
+
+"How noble of you."
+
+"Cesa—"
+
+"We are brothers, aren't we?"
+
+Alsbans answered without hesitation.
+
+"Yes."
+
+Cesa laughed bitterly.
+
+Then he shouted:
+
+"You aren't even from here, Alsbans!"
+
+Every expression vanished from Alsbans's face.
+
+Cesa realized the weight of what he had said.
+
+But it was already too late.
+
+"What did you say?"
+
+Cesa was breathing heavily.
+
+Anger had spoken before thought could stop it.
+
+"Go!"
+
+"Cesa..."
+
+"Go choose the most beautiful girl!"
+
+His voice rose even higher.
+
+"And then don't come back!"
+
+Alsbans said nothing.
+
+For a moment, Fenis disappeared.
+
+Cesa disappeared.
+
+The years disappeared.
+
+Alsbans was a child again.
+
+The child standing alone at the edge of Trixalisse.
+
+The child no one wanted.
+
+The child sealed inside a cave.
+
+The child who had listened from the shadows as the people who raised him spoke as though his death meant nothing.
+
+*You aren't even from here.*
+
+Those words hurt more than everything else Cesa had said.
+
+Because Cesa was his closest friend.
+
+The person he called his soul brother.
+
+The closest thing Alsbans had ever had to a real brother.
+
+And now that person was telling him that he did not belong.
+
+Alsbans's lips moved slightly.
+
+But no words came.
+
+Cesa turned away.
+
+He began to walk.
+
+Alsbans did not stop him.
+
+He simply watched him disappear.
+
+That night, both of them returned to their homes.
+
+***
+
+When morning came, a strange silence hung over Fenis.
+
+No one knew exactly what had happened.
+
+But everyone could feel that something had changed.
+
+Alsbans did not leave his house.
+
+He did not answer anyone who came to his door.
+
+Even when food was brought to him, he pretended not to hear.
+
+Kesal knocked several times.
+
+"Alsbans."
+
+No answer.
+
+"Open the door."
+
+Still nothing.
+
+Eventually, Kesal left.
+
+He went to Cesa's home.
+
+The same silence greeted him there.
+
+"Cesa."
+
+No answer.
+
+Kesal shook his head.
+
+"You're both idiots."
+
+Then he walked away.
+
+Hours passed.
+
+The sun had climbed high into the sky as noon approached.
+
+But that day, noon suddenly became night in Fenis.
+
+First came the sound of horses.
+
+Then dust.
+
+Then shouting.
+
+"SOLDIERS!"
+
+People rushed out of their homes.
+
+Within minutes, the square was full.
+
+At the entrance to Fenis stood soldiers of Meras.
+
+There were many of them.
+
+Their armor shone beneath the sun.
+
+Their weapons were ready.
+
+Kesal stepped forward.
+
+"What do you want?"
+
+One of the soldiers moved his horse several steps closer.
+
+"Kesal."
+
+Kesal said nothing.
+
+The soldier pulled out a scroll.
+
+"By the great command of Meras."
+
+Silence settled over the square.
+
+"Every man capable of holding a weapon will come to Meras."
+
+Kesal's expression hardened.
+
+The soldier continued.
+
+"For the war."
+
+Kesal looked at the people around him.
+
+Fenis was small.
+
+Very small.
+
+Nearly all of its young men were already standing there.
+
+"We cannot."
+
+The soldier raised an eyebrow.
+
+"What did you say?"
+
+"We cannot."
+
+Kesal raised his voice.
+
+"There are already too few of us. If you take every man from this place, there will be no people left here to survive."
+
+The soldier watched him for a moment.
+
+Then shrugged.
+
+"Very well."
+
+Kesal hesitated.
+
+Was it really going to be that simple?
+
+At that moment, Cesa stepped out of his house.
+
+He had not slept the entire night.
+
+His anger was gone.
+
+All that remained was shame for the words he had spoken.
+
+He wanted to find Alsbans.
+
+He would knock on his door and apologize.
+
+Perhaps Alsbans would send him away.
+
+Perhaps he would not even look at him.
+
+But Cesa needed to say it.
+
+*You aren't even from here.*
+
+Those words had echoed through his mind all night.
+
+"What have I done?" he had whispered to himself.
+
+When he stepped outside, he saw the soldiers gathered in the square.
+
+He stopped.
+
+One of them noticed him.
+
+"You!"
+
+Cesa began walking toward the square.
+
+Kesal looked at him.
+
+"Cesa, go back."
+
+But it was too late.
+
+One of Meras's soldiers lifted his bow.
+
+Before anyone understood what he was doing, he drew the string.
+
+Kesal shouted.
+
+"STOP!"
+
+The arrow was released.
+
+Its flight was almost silent.
+
+It struck Cesa.
+
+Cesa stumbled backward.
+
+He looked down.
+
+He saw the arrow.
+
+Then his knees gave way beneath him.
+
+The square erupted into screams.
+
+"CESA!"
+
+People began running.
+
+Some dragged children back toward the houses.
+
+Others reached for weapons.
+
+A woman screamed.
+
+Kesal drew his sword.
+
+And at that moment, Alsbans stepped outside his home.
+
+He had heard the shouting.
+
+At first, he had refused to leave.
+
+Then he heard a name.
+
+Cesa.
+
+Alsbans looked toward the square.
+
+He saw someone lying on the ground among the people.
+
+There was blood on the pale earth.
+
+And it took him only a second to understand who it was.
+
+"Cesa..."
+
+He ran.
+
+"CESA!"
+
+He pushed through the crowd and dropped to his knees beside him.
+
+Cesa was still breathing.
+
+Barely.
+
+Alsbans pulled him into his arms.
+
+"No."
+
+Cesa struggled to open his eyes.
+
+"Soul..."
+
+"Don't speak."
+
+Alsbans saw the arrow.
+
+"We can fix this."
+
+Cesa shook his head weakly.
+
+"Alsbans."
+
+"Be quiet."
+
+"Listen."
+
+"No."
+
+Alsbans's voice trembled.
+
+"Don't speak. I'll carry you. We'll find someone."
+
+Cesa managed the faintest smile.
+
+"For once...
+
+you're asking very few questions."
+
+Alsbans's eyes filled with tears.
+
+"Shut up."
+
+Cesa struggled for another breath.
+
+"Yesterday..."
+
+Alsbans shook his head.
+
+"We are not talking about yesterday."
+
+"We are."
+
+Cesa's voice was growing weaker.
+
+"I'm sorry."
+
+Alsbans closed his eyes.
+
+"I know."
+
+"No."
+
+Cesa slowly lifted his hand.
+
+Alsbans took it.
+
+"I need you to know."
+
+One breath.
+
+Then another.
+
+"You belong here."
+
+A tear fell from Alsbans's eye.
+
+Cesa continued.
+
+"I was...
+
+angry."
+
+"I know."
+
+"You are my..."
+
+His voice disappeared.
+
+Alsbans leaned closer.
+
+"I'm your what?"
+
+Cesa smiled faintly.
+
+"My soul brother."
+
+Alsbans tightened his grip on his hand.
+
+"And you're mine."
+
+Cesa's eyes began to close.
+
+"Forgive me."
+
+Alsbans did not hesitate.
+
+"I forgive you."
+
+A faint sense of peace crossed Cesa's face.
+
+Then his hand became heavy inside Alsbans's.
+
+"Cesa?"
+
+No answer.
+
+"Cesa."
+
+Alsbans shook him gently.
+
+"Soul brother."
+
+Silence.
+
+"Cesa!"
+
+The sounds of the square disappeared for Alsbans.
+
+The angry words they had exchanged the night before meant nothing now.
+
+The competition.
+
+The women.
+
+The poems.
+
+Who had won.
+
+None of it mattered.
+
+Alsbans slowly lowered Cesa's body to the ground.
+
+Then he stood.
+
+The grief did not leave his face.
+
+But something else rose beneath it.
+
+Rage.
+
+He picked up the sword lying on the ground.
+
+He looked toward the soldier of Meras.
+
+The man who had fired the arrow was still standing there.
+
+Alsbans began walking toward him.
+
+Kesal shouted:
+
+"Alsbans!"
+
+Alsbans did not stop.
+
+The soldier drew his sword.
+
+Alsbans ran.
+
+The first clash came in the middle of the square.
+
+The sound of steel echoed between the houses of Fenis.
+
+Then everything began.
+
+The people of Fenis reached for their weapons.
+
+The soldiers of Meras dismounted.
+
+A bloody battle erupted.
+
+Alsbans had fought many times before.
+
+But never like this.
+
+This time, he was not fighting to prove something.
+
+He was not even fighting simply to survive.
+
+Cesa lay dead only a few steps behind him.
+
+Alsbans saw him with every strike.
+
+A soldier rushed toward him.
+
+Alsbans blocked the attack.
+
+Turned.
+
+Struck back.
+
+The man fell.
+
+Another came.
+
+Then another.
+
+The people of Fenis were few.
+
+But they knew their homes.
+
+They knew their streets.
+
+They knew one another.
+
+And they knew exactly what they stood to lose.
+
+The battle did not last long.
+
+But to them, it felt like hours.
+
+At last, not a single soldier of Meras remained standing.
+
+Silence returned.
+
+But it was not the silence of the morning.
+
+This time, bodies lay upon the ground.
+
+People of Fenis.
+
+Alsbans let his sword fall.
+
+He wanted to turn back toward Cesa.
+
+Then someone shouted.
+
+"Kesal!"
+
+Alsbans ran.
+
+Kesal was leaning against the wall of a house.
+
+A deep wound had opened across his stomach.
+
+The people beside him were trying to stop the bleeding.
+
+Alsbans dropped to his knees.
+
+"Kesal."
+
+Kesal looked at him.
+
+Strangely, he smiled.
+
+"So you came."
+
+"Don't speak."
+
+Kesal laughed weakly.
+
+"Everyone keeps telling me not to speak today."
+
+Alsbans looked at the wound.
+
+"We can close this."
+
+"No."
+
+"Kesal—"
+
+"Alsbans."
+
+Something in Kesal's voice changed.
+
+Alsbans fell silent.
+
+Kesal drew a deep breath.
+
+"Listen to me."
+
+"I'm listening."
+
+"Fenis cannot remain here."
+
+Alsbans looked around.
+
+There were bodies.
+
+There were wounded people.
+
+Children were crying.
+
+Kesal continued.
+
+"Meras will return."
+
+Alsbans already knew.
+
+When these soldiers failed to return, others would come.
+
+More of them.
+
+Perhaps hundreds.
+
+"Get the people out of here."
+
+"Where?"
+
+Kesal answered.
+
+"Legacy."
+
+Alsbans looked at him.
+
+He had heard that name before.
+
+"Legacy?"
+
+"You may have a chance there."
+
+Kesal closed his eyes.
+
+Then opened them again.
+
+"And one more thing."
+
+Alsbans held his hand.
+
+"What?"
+
+Kesal looked at him for a long time.
+
+As if he were searching the young man's face for the child who had once stolen food from them.
+
+Perhaps he could still see him.
+
+"You are the new leader of Fenis."
+
+Alsbans froze.
+
+"What?"
+
+"You heard me."
+
+"No."
+
+Alsbans immediately shook his head.
+
+"I can't."
+
+Kesal smiled faintly.
+
+"Good."
+
+Alsbans stared at him.
+
+"What's good about that?"
+
+"I would never make someone a leader if he were certain he could do it."
+
+Alsbans's eyes filled with tears.
+
+"Kesal..."
+
+"Be afraid for your people."
+
+Alsbans frowned.
+
+Kesal continued.
+
+"Be afraid for their lives. Be afraid of the wrong choices you might make. Be afraid of losing them."
+
+His breathing grew heavier.
+
+"But never let fear make your decisions for you."
+
+He tightened his grip on Alsbans's hand.
+
+"Take them to Legacy."
+
+"You are coming too."
+
+Kesal did not answer.
+
+"Kesal."
+
+Silence.
+
+"You are coming too."
+
+Kesal's eyes slowly closed.
+
+Alsbans did not release his hand.
+
+For the second time that day, the hand of someone he loved became heavy inside his own.
+
+Alsbans lowered his head.
+
+He wanted to cry.
+
+For Cesa.
+
+For Kesal.
+
+For himself.
+
+But when he looked around, he saw that everyone was watching him.
+
+Children.
+
+Women.
+
+Wounded men.
+
+The elderly.
+
+All of them were afraid.
+
+And for the first time...
+
+they were all waiting to hear what Alsbans would say.
+
+Slowly, he stood.
+
+For a moment, he could not speak.
+
+Then he remembered Kesal's final words.
+
+*Take them to Legacy.*
+
+Alsbans drew a deep breath.
+
+"Listen to me!"
+
+The people fell silent.
+
+"We cannot stay here."
+
+Someone began to cry.
+
+Alsbans continued.
+
+"The soldiers of Meras will return. When the men who came here fail to return, more will come in their place."
+
+A man asked:
+
+"What are we going to do?"
+
+Alsbans looked toward the distance.
+
+Then he answered.
+
+"Everyone takes only what they can carry."
+
+"Food."
+
+"Water."
+
+"Weapons."
+
+"Whatever the children need."
+
+A woman asked:
+
+"Where are we going?"
+
+Alsbans remained silent for a moment.
+
+Then, for the first time in his life, he gave an order that would change the fate of an entire people.
+
+"Legacy."
+
+Whispers spread through the crowd.
+
+Alsbans raised his voice.
+
+"We leave slowly and together. No one travels alone. We leave no wounded person behind."
+
+Then he looked toward the center of the square.
+
+Cesa was still there.
+
+The night before, he had told Alsbans:
+
+*Don't come back.*
+
+And only hours later, with his final breath:
+
+*You belong here.*
+
+Alsbans closed his eyes.
+
+Then opened them again.
+
+He was no longer crying.
+
+The people of Fenis began to prepare.
+
+Doors opened for the last time.
+
+Food was packed into sacks.
+
+Children held tightly to their mothers' hands.
+
+The wounded were lifted onto horses.
+
+Quiet prayers were spoken for the dead.
+
+And Alsbans stood in the center of the settlement while everyone prepared.
+
+Only yesterday, he had been a young man expected to choose a partner.
+
+Today, he was deciding where an entire people would go.
+
+Sometimes life did not give a person years in which to grow.
+
+Sometimes it gave them only a single day.
+
+Alsbans looked at Fenis one last time.
+
+Then he moved to the front of the road.
+
+"When you're ready..."
+
+He looked back at the people behind him.
+
+His people now.
+
+"We leave."
+
+And so the people of Fenis abandoned their homes and began their journey toward Legacy.
+
+Alsbans walked at the front.
+
+Cesa was no longer beside him.
+
+Kesal's voice no longer followed from behind.
+
+But he carried both of them with him.
+
+One had taught him what brotherhood meant.
+
+The other had taught him what it meant to carry the lives of others.
+
+That day, Alsbans had failed to find a partner.
+
+Instead, he had lost a brother...
+
+lost a leader...
+
+and inherited something he had never asked for.
+
+**The fate of a people.**
