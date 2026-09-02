@@ -5073,4 +5073,699 @@ lost a leader...
 
 and inherited something he had never asked for.
 
-**The fate of a people.**
+The fate of a people.
+
+# Chapter 6: The Red Ink of Fate
+
+Everyone followed behind Alsbans.
+
+The farther they walked, the farther the end of the road seemed to move away from them.
+
+They had been traveling for days, yet none of them truly knew where they were going.
+
+Legacy existed on their maps.
+
+It existed in the stories told by the elderly.
+
+And Kesal, with his final breath, had told them to go there.
+
+But no one among the people of Fenis had ever been to Legacy.
+
+None of them had seen its lands.
+
+None of them even knew whether they would be accepted when they arrived.
+
+Perhaps the gates would be closed before them.
+
+Perhaps, while fleeing the soldiers of Meras, they would find themselves standing before another enemy.
+
+Perhaps Legacy was nothing more than a hopeful story people had repeated for generations because reality was too cruel to bear.
+
+Still, they kept walking.
+
+Because there was nothing left behind them to return to.
+
+Sometimes people did not move forward because they knew where they were going.
+
+Sometimes they walked simply because there was nowhere left to go back to.
+
+And the people of Fenis had become exactly that kind of people.
+
+When evening came, they stopped in a clearing deep within the forest.
+
+Over the course of the journey, they had created a simple routine.
+
+Women and children slept close to the fires.
+
+Some of the men slept while the others kept watch.
+
+After several hours, they changed places. Those who had been awake finally rested, while the others rose to guard the camp.
+
+No one ever truly relaxed.
+
+Every sound from the forest resembled the footsteps of a soldier.
+
+Whenever a branch snapped, someone lifted his head.
+
+Every distant cry of an animal made the children move a little closer to their mothers.
+
+Alsbans remained among them.
+
+He did not ask for a separate place to sleep.
+
+He did not keep the best food for himself.
+
+When his turn came to stand watch, he stood like everyone else.
+
+One of the men once told him,
+
+"You should rest. Tomorrow, you must lead us again."
+
+Alsbans shook his head.
+
+"My exhaustion is no more important than yours."
+
+Another man said,
+
+"But you are our leader now."
+
+Alsbans looked at him.
+
+"That does not make my life more valuable than yours."
+
+He meant those words.
+
+He did not want the people merely to hear them.
+
+He wanted them to see them.
+
+He slept on the same ground.
+
+Drank from the same water.
+
+Shared the same bread.
+
+Feared the same darkness.
+
+Their fate had become one.
+
+And perhaps that was the first duty of a true leader:
+
+to walk ahead of his people without ever believing he stood above them.
+
+That night, the sky was almost completely black.
+
+The fires had grown weak.
+
+Most of the children were asleep.
+
+Even the quiet conversations among the adults slowly disappeared.
+
+But fear remained.
+
+No one spoke about it.
+
+They did not need to.
+
+Everyone felt it.
+
+What would happen tomorrow?
+
+How much farther was Legacy?
+
+Was Meras following them?
+
+Would their food last?
+
+How long could the wounded survive the journey?
+
+In the middle of all those questions, the people had only one thing left.
+
+Hope.
+
+And that hope had a name.
+
+**Alsbans.**
+
+They believed in him.
+
+And the more Alsbans understood how deeply they believed in him, the heavier that belief became.
+
+Sometimes, he believed in himself too.
+
+Sometimes, he truly thought he could do it.
+
+They would reach Legacy.
+
+He would protect his people.
+
+He would carry the responsibility Kesal had placed upon him.
+
+And then there were other nights.
+
+Nights when everyone was asleep and a single question would return to him.
+
+*What if I cannot?*
+
+What if he was leading them in the wrong direction?
+
+What if Legacy refused them?
+
+What if Meras found them first?
+
+What if Cesa would have been better at this than he was?
+
+Alsbans sat beside the dying fire and looked toward the sky.
+
+Stars could be seen between the branches above him.
+
+One of them appeared brighter than all the others.
+
+He stared at it for a long time.
+
+There was something strange about it.
+
+It did not seem merely to shine.
+
+It seemed to watch him.
+
+Then...
+
+Alsbans heard a voice.
+
+"Come."
+
+He turned.
+
+No one was there.
+
+The guards stood far away.
+
+None of the sleeping people had moved.
+
+Alsbans looked back toward the sky.
+
+"Alsbans..."
+
+This time, the voice was clearer.
+
+"Come."
+
+He stood.
+
+His heart began to beat faster.
+
+For a moment, he considered telling the guards where he was going.
+
+Then he changed his mind.
+
+He did not know why.
+
+He took his sword and quietly entered the forest.
+
+The farther he walked between the trees, the smaller the fires behind him became.
+
+Soon, all that remained of the Fenis camp was a distant orange glow.
+
+Alsbans kept walking.
+
+Leaves broke beneath his boots.
+
+He had no idea where he was going.
+
+And yet, strangely, he did not feel lost.
+
+It felt as though he had walked this path before.
+
+As though his body already knew every turn.
+
+Eventually, he stopped before a large tree.
+
+He looked up.
+
+At first, the tree appeared no different from the others.
+
+But the longer Alsbans stared at it, the more uneasy he became.
+
+He knew this tree.
+
+He was certain of it.
+
+He simply could not remember from where.
+
+Perhaps from a dream.
+
+Perhaps from his childhood.
+
+Perhaps he had never truly seen it at all.
+
+Still, something deep inside him whispered:
+
+*You have seen this before.*
+
+Alsbans slowly reached toward the trunk.
+
+Before his fingers touched the bark, a thin voice spoke from below.
+
+"Humpellian."
+
+Alsbans froze.
+
+His hand immediately moved toward his sword.
+
+"Who's there?"
+
+Silence.
+
+Then the voice came again.
+
+"Humpellian, what do you seek in these woods?"
+
+Alsbans looked down.
+
+For several seconds, he could not speak.
+
+A small turtle stood between the roots of the tree.
+
+Alsbans looked around, expecting someone to be playing a trick on him.
+
+"Who said that?"
+
+The turtle lifted its head.
+
+"I did."
+
+Alsbans stepped backward.
+
+The turtle had spoken.
+
+It had actually spoken.
+
+Alsbans had seen wizards in Trixalisse.
+
+He had heard voices in the darkness that imitated his father's voice.
+
+He had once touched a red rose and fallen into another place.
+
+His life had never been ordinary.
+
+But even after all of that, the sight of a small talking turtle felt like an omen.
+
+The turtle watched him.
+
+"Do not be afraid, Alsbans."
+
+Alsbans tightened his hand around the hilt of his sword.
+
+"No harm will come to you from me."
+
+Alsbans frowned.
+
+"I'm not afraid of you, turtle."
+
+Something almost resembling a smile appeared on the creature's face.
+
+"Of course not."
+
+Alsbans grew irritated.
+
+"We are going to Legacy."
+
+The turtle said nothing.
+
+"I'm saving my people."
+
+"Ah, Alsbans..."
+
+Alsbans's expression changed.
+
+"Wait."
+
+The turtle slowly raised its head.
+
+"What is it?"
+
+"How do you know my name?"
+
+The turtle did not answer.
+
+Instead, it asked another question.
+
+"Do you believe everyone among your people is good, Alsbans?"
+
+Alsbans narrowed his eyes.
+
+"What do you mean?"
+
+"Do you believe you know your people?"
+
+"Of course I do."
+
+"All of them?"
+
+Alsbans did not answer.
+
+The turtle began to move slowly between the roots of the tree.
+
+"How important do you think this journey is, Alsbans?"
+
+"I don't know."
+
+"Do you think it is great?"
+
+Alsbans remained silent.
+
+The turtle turned its head toward him.
+
+"Perhaps it is great to you."
+
+Then it looked toward the sky.
+
+"But in the book where your fate is written..."
+
+It paused.
+
+"This journey is nothing more than a small page."
+
+Alsbans's anger slowly gave way to curiosity.
+
+"What book?"
+
+"The book of your fate."
+
+Alsbans laughed.
+
+But there was no amusement in it.
+
+"So someone wrote my fate?"
+
+"The gods."
+
+The smile disappeared from Alsbans's face.
+
+The turtle continued.
+
+"The gods wrote your fate with their own hands."
+
+"But..."
+
+Its voice became quieter.
+
+"One day, a drop of red ink fell upon the book."
+
+Alsbans's breathing changed.
+
+Red.
+
+For a moment, he saw a rose in his mind.
+
+A single flawless red rose.
+
+The turtle continued.
+
+"The drop spread."
+
+"It erased a word."
+
+"Then a sentence."
+
+"Then a page."
+
+"And eventually..."
+
+The turtle looked directly at Alsbans.
+
+"It erased the entire fate the gods had written for you."
+
+Alsbans stared at it in silence.
+
+The turtle continued.
+
+"We gave you—"
+
+"Stop."
+
+Something had changed in Alsbans's voice.
+
+The turtle fell silent.
+
+Alsbans took several steps closer.
+
+"Are you a god?"
+
+The turtle did not answer.
+
+"Are you one of them?"
+
+Silence.
+
+Alsbans's voice rose.
+
+"Answer me!"
+
+The turtle simply watched him.
+
+And that look only made Alsbans angrier.
+
+"If you are a god..."
+
+His voice trembled.
+
+"If all of this was truly your doing..."
+
+Everything he had held inside for years began to rise at once.
+
+"Where was my mother when I was a child?"
+
+The turtle said nothing.
+
+"Where was my father?"
+
+Alsbans's eyes filled with tears.
+
+"Why did I grow up without even knowing who they were?"
+
+"Why was I left in Trixalisse?"
+
+"Why did Jelin lock me inside that cave?"
+
+"Why did Cesa die?"
+
+"Why did Kesal die?"
+
+Each question came louder than the one before.
+
+"Did you write all of this?"
+
+Alsbans looked toward the sky.
+
+"Was this my fate?"
+
+Then he looked back toward the turtle.
+
+"Was leaving a child alone part of your plan?"
+
+"Was taking everyone he loved away from him part of it too?"
+
+He did not draw his sword.
+
+But his hands were shaking.
+
+"If you are gods..."
+
+His voice was no longer loud.
+
+That was worse.
+
+It was broken.
+
+"Why am I the one who has to pay for everything you wrote?"
+
+For a long time, nothing happened.
+
+Then the turtle spoke.
+
+"You are always the same, Alsbans."
+
+Alsbans frowned.
+
+"What does that mean?"
+
+"You always ask first."
+
+The turtle paused.
+
+"Then you become angry."
+
+Alsbans said nothing.
+
+The turtle lifted its head toward the sky.
+
+"Fate does not have to follow what was written."
+
+Alsbans remained silent.
+
+"Your story was supposed to end well."
+
+Alsbans looked at it.
+
+"What?"
+
+"A good life."
+
+"People you loved."
+
+"A home."
+
+"An ending."
+
+The turtle looked back at him.
+
+"But you..."
+
+For a long moment, it studied his eyes.
+
+"You are different."
+
+"Why?"
+
+"Because you are the only one who can rewrite your fate from beginning to end."
+
+Alsbans said nothing.
+
+The sounds of the forest seemed to disappear around them.
+
+"You were chosen, Alsbans."
+
+Alsbans stared at the turtle for a long time.
+
+Then he asked only one question.
+
+"Why me?"
+
+The turtle answered:
+
+"Because you already made your choice."
+
+Alsbans frowned in confusion.
+
+"What choice?"
+
+The turtle said nothing.
+
+"What did I choose?"
+
+Alsbans stepped closer.
+
+"Tell me."
+
+The turtle interrupted him.
+
+"Your journey will be with the gods, Alsbans."
+
+Alsbans fell silent.
+
+"Do not be afraid."
+
+Then the turtle spoke more firmly.
+
+"But whatever happens, do not fear."
+
+"Why?"
+
+"Because when fear takes hold of you, the gods will no longer walk beside you."
+
+Alsbans tried to understand.
+
+The turtle continued.
+
+"There is a long road ahead of you."
+
+"You will have enemies."
+
+"You will have friends."
+
+"And sometimes, you will not know which is which."
+
+Then it added, calmly:
+
+"But this road..."
+
+"You will cross it without receiving a single wound."
+
+Alsbans's expression changed.
+
+He looked at his own body.
+
+Then toward the darkness behind him.
+
+He thought of the camp.
+
+The women.
+
+The children.
+
+The wounded.
+
+The people of Fenis.
+
+He immediately lifted his head.
+
+"And what about my people?"
+
+The turtle was gone.
+
+Alsbans froze.
+
+"Turtle?"
+
+Silence.
+
+He looked around the roots of the tree.
+
+Nothing.
+
+"Hey!"
+
+He dropped to one knee.
+
+"What about my people?"
+
+No answer came.
+
+Only the wind moved through the forest.
+
+Alsbans slowly stood.
+
+Had any of this truly happened?
+
+Perhaps he was exhausted.
+
+Perhaps the long journey and lack of sleep had finally begun to break his mind.
+
+Then he noticed something near the roots of the tree.
+
+Something small.
+
+He bent down.
+
+He touched it with one finger.
+
+A tiny red stain.
+
+It looked like ink.
+
+Alsbans stared at it for a long time.
+
+Then he closed his hand around it.
+
+The turtle's final words echoed inside his mind.
+
+*You will cross this road without receiving a single wound.*
+
+Alsbans looked into the darkness of the forest.
+
+But the one question that mattered most had still gone unanswered.
+
+What about his people?
+
