@@ -106,7 +106,7 @@ function layout({ title, description, current, body, bodyClass = "", route = "" 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="${escapeHtml(description)}">
     <meta name="author" content="${escapeHtml(site.author.name)}">
-    <meta name="theme-color" content="#f5f2ea">
+    <meta name="theme-color" content="#193c50">
     <meta property="og:type" content="${route.startsWith("stories/") ? "article" : "website"}">
     <meta property="og:title" content="${escapeHtml(fullTitle)}">
     <meta property="og:description" content="${escapeHtml(description)}">
@@ -160,7 +160,7 @@ const homeBody = `
   <main id="main">
     <section class="home-intro measure-wide">
       <p class="kicker">Independent fiction · Berlin</p>
-      <h1>${escapeHtml(site.name)}</h1>
+      <h1>Stories to<br>get lost <em>in.</em></h1>
       <p class="home-intro__lede">${escapeHtml(site.description)}</p>
       <a class="button-link" href="${routeUrl("library")}">Browse the library</a>
     </section>
@@ -346,6 +346,20 @@ for (const story of stories.publishedStories) {
         </details>`
             : ""
         }
+        ${story.chapters.length ? `<div class="reader-tools" aria-label="Reading controls">
+          <details class="chapter-picker reader-contents">
+            <summary><span class="chapter-picker__label">Chapters</span><span data-current-chapter>Choose a chapter</span><span aria-hidden="true">⌃</span></summary>
+            <nav aria-label="Jump to chapter"><p class="kicker">${escapeHtml(story.title)}</p><ol>${toc}</ol></nav>
+          </details>
+          <div class="reader-tools__steps" hidden data-reader-steps>
+            <button type="button" data-previous aria-label="Previous chapter">←</button>
+            <button type="button" data-next aria-label="Next chapter">→</button>
+          </div>
+          <div class="reader-tools__type" hidden data-reader-type aria-label="Text size">
+            <button type="button" data-smaller aria-label="Decrease text size">A−</button>
+            <button type="button" data-larger aria-label="Increase text size">A+</button>
+          </div>
+        </div>` : ""}
         <div class="story-body">${bodyHtml}</div>
         <footer class="story-end">
           <p aria-hidden="true">— End —</p>
