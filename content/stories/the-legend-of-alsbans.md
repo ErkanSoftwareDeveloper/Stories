@@ -3,7 +3,7 @@ title: "The Legend of Alsbans"
 slug: "legend-of-alsbans"
 description: "In the green forests of Humpellia and the towering dark of Trixalisse, Alsbans grows from loss into legend. His story moves through ancient wizards, broken families, war against Meras, and the hard search for a place to belong."
 publishedAt: "2025-12-18"
-updatedAt: "2026-07-30"
+updatedAt: "2026-09-25"
 status: "published"
 coverImage: "/images/stories/alsbans-cover.png"
 coverAlt: "A cloaked figure lifting a newborn beneath a sky filled with stars."
@@ -5768,4 +5768,528 @@ Alsbans looked into the darkness of the forest.
 But the one question that mattered most had still gone unanswered.
 
 What about his people?
+
+The first morning of the long and difficult journey had finally arrived.
+
+The entire people of Fenis were ready.
+
+The old, the young, the children… Everyone had looked back one last time at what they were leaving behind and accepted the uncertainty that stretched ahead of them. No one knew how long the road to Legacy would take. No one knew whether they would even be accepted once they arrived.
+
+But they had to walk.
+
+Alsbans walked at the very front.
+
+Like a leader.
+
+But not above his people.
+
+Among them.
+
+He ate the same food they did, slept on the same ground, stood beneath the same rain, and grew tired on the same road. He refused to let leadership mean a larger portion, a warmer place to sleep, or an easier night.
+
+Kesal had entrusted the people to him.
+
+Alsbans had quickly learned that this was not a title.
+
+It meant carrying the lives of others on his shoulders.
+
+The first day passed easily.
+
+So did the first night.
+
+The men hunted, the women cared for the children and the elderly, and whatever food they found was shared among the people. Fires were lit, guards were posted, and when morning came, they continued on.
+
+But Alsbans was waiting.
+
+The turtle’s words would not leave his mind.
+
+He believed the gods would test them.
+
+He did not know when.
+
+He did not know how.
+
+He only knew that when the trial came, he wanted every one of his people to survive it.
+
+Sometimes, while walking, he turned and looked back at the people of Fenis.
+
+The children.
+
+The elderly.
+
+The wounded.
+
+The faces that followed him because they trusted him.
+
+And he remembered the turtle’s final words.
+
+*You will cross this road without receiving a single wound.*
+
+But Alsbans did not care about his own body.
+
+His question had never changed.
+
+*What about my people?*
+
+He did not know the answer.
+
+Perhaps fate was no longer something the gods had already written for him.
+
+Perhaps now he would write it himself.
+
+It would become the story of a hero…
+
+or the story of evil.
+
+On the second night, the first problem began.
+
+The men returned from hunting empty-handed.
+
+For the first time, unease spread through the people.
+
+“Alsbans, we have no food.”
+
+“What are we going to do?”
+
+“What will we give the children?”
+
+Alsbans looked at what little food remained.
+
+There was hardly enough.
+
+“We endure,” he said. “Whatever we have, we share.”
+
+But hunger had already begun to change people.
+
+Some refused to share what they had.
+
+Some hid the small pieces of food they still carried. Others turned their faces away so they would not have to look at someone else’s hunger.
+
+Alsbans noticed.
+
+He watched in silence.
+
+And slowly, he began to understand.
+
+Perhaps this was it.
+
+Perhaps the gods’ first trial would be about food.
+
+He gathered the people.
+
+“Come together, my people.”
+
+They slowly formed a circle around him.
+
+They were tired.
+
+They were hungry.
+
+But they were still listening.
+
+Alsbans looked at them.
+
+“Soon, the gods will test us.”
+
+Whispers immediately spread through the crowd.
+
+“The gods?”
+
+“What gods?”
+
+Some were confused.
+
+Others seemed frightened by the word itself.
+
+After a moment, someone called out:
+
+“And what will our first trial be about, Alsbans?”
+
+Alsbans answered.
+
+“Food.”
+
+Their expressions changed.
+
+“What kind of trial?”
+
+“Are we supposed to starve?”
+
+“Our babies too?”
+
+“What about our elderly?”
+
+Alsbans did not raise his voice.
+
+“Trust me.”
+
+The crowd went quiet.
+
+“If you do what I tell you, nothing will happen to any of you.”
+
+The weight of those words struck him as soon as he spoke them.
+
+Because he was no longer making promises only for himself.
+
+He was speaking for hundreds of lives.
+
+Days passed.
+
+Each night they went to sleep a little hungrier.
+
+Each morning they woke a little weaker.
+
+Their supplies grew smaller.
+
+Eventually, almost nothing remained.
+
+The people of Fenis began to wear down.
+
+At night, the cries of hungry babies echoed between the fires. The elderly stopped more often while walking. Some children moved silently beside their mothers, holding tightly to their hands.
+
+Even the adults had less strength left for conversation.
+
+Nights followed days.
+
+Days followed nights.
+
+And the longer the road became, the longer hunger walked beside them.
+
+Then one morning, they woke.
+
+The first people to open their eyes could hardly believe what stood before them.
+
+Lambs.
+
+Goats.
+
+Not one.
+
+Not two.
+
+A whole herd.
+
+The animals stood there as though they had been waiting for them.
+
+For a moment, no one moved.
+
+Then people slowly began to rise.
+
+For the first time in days, something other than exhaustion appeared on their faces.
+
+Hope.
+
+Some thought it was incredible luck.
+
+Others did not hesitate at all.
+
+“A gift from the gods!”
+
+One man raised his voice.
+
+“Wake up, people of Fenis! The gods have finally rewarded us for all the days we have gone hungry!”
+
+People rose to their feet.
+
+Some began walking toward the animals.
+
+That was when Alsbans stepped forward.
+
+“No.”
+
+The crowd stopped.
+
+For a moment, no one knew what to say.
+
+Then several people turned toward him.
+
+“Who are you to decide that, Alsbans?”
+
+Another voice rose.
+
+“Do you want our babies to die?”
+
+“What about our elderly?”
+
+“There is food standing right in front of us!”
+
+Alsbans listened to their anger.
+
+“This is a trial, my people of Fenis.”
+
+Before he could finish, one of the oldest among them stepped forward.
+
+The old man stood directly before him.
+
+“You, Alsbans…”
+
+The crowd fell silent.
+
+“You have not forgotten the day you stole our food, have you?”
+
+Voices of agreement rose from different parts of the crowd.
+
+Alsbans did not answer immediately.
+
+He thought.
+
+Because the old man was not lying.
+
+Once, he really had stolen their food.
+
+He had been hungry.
+
+Alone.
+
+And at the time, he had tried to convince himself that what he did was justified.
+
+At last, he looked at the old man.
+
+“I have not forgotten.”
+
+The voices quieted.
+
+Alsbans continued.
+
+“When someone takes what belongs to another and later repays that debt, the old wrong cannot remain a debt forever.”
+
+The old man narrowed his eyes and listened.
+
+Alsbans turned toward the crowd.
+
+“If the person you wronged chooses to trust you again after you have made things right, then what remains is no longer only a repaid debt.”
+
+He paused.
+
+“That trust becomes a gift.”
+
+Then his voice hardened.
+
+“I stole your food. You gave me a chance to live. I worked. I repaid what I owed. And then you accepted me among you.”
+
+He looked at their faces.
+
+“If all you still see today is the thief I once was, then you never truly trusted me.”
+
+Silence.
+
+“If you do not believe what I am telling you here…”
+
+He paused.
+
+“…then do not follow me.”
+
+Those words divided the people of Fenis.
+
+Most of them did not move.
+
+They remained with Alsbans.
+
+They were hungry.
+
+They could hear their children crying.
+
+They stared at the lambs and goats standing before them.
+
+But they did not touch them.
+
+The others stepped away.
+
+“Enough.”
+
+One of them walked toward the animals.
+
+Others followed.
+
+“We are no longer with you, Alsbans.”
+
+Another shouted:
+
+“Do whatever you want!”
+
+They slaughtered the lambs.
+
+They slaughtered the goats.
+
+They lit fires.
+
+Before long, the smell of meat spread through the entire area.
+
+For people who had been starving for days, there could hardly have been a greater torment.
+
+Those who remained with Alsbans sat in silence, watching the others eat.
+
+The children smelled the food.
+
+The elderly turned their faces away.
+
+Some people cried.
+
+On the other side, they ate.
+
+Until they were full.
+
+They feasted on the meal they had dreamed about for days.
+
+Alsbans said nothing.
+
+He only watched.
+
+Because he knew the trial had begun.
+
+But he still did not know what the trial truly was.
+
+Morning came.
+
+Those on the other side woke with full stomachs.
+
+Those who had stayed with Alsbans were still hungry.
+
+Voices began to rise from across the camp.
+
+“Do you still not regret refusing to eat?”
+
+Some laughed.
+
+Some cursed Alsbans.
+
+Even a few who had stayed with him through the night finally gave in to their hunger and crossed to the other side.
+
+The people of Fenis were no longer merely hungry.
+
+They were divided.
+
+Alsbans saw it and said nothing.
+
+That day, he went hunting with several young men.
+
+They needed food for the people who had remained.
+
+He looked back at them once before walking into the forest.
+
+He did not know how far they had gone when voices suddenly came from behind them.
+
+At first, shouting.
+
+Then more.
+
+Alsbans stopped.
+
+The young men beside him stopped as well.
+
+Another scream echoed through the forest.
+
+This was not the sound of an argument.
+
+Alsbans turned immediately.
+
+He began to run.
+
+The young men ran behind him.
+
+As they moved through the trees, the voices became clearer.
+
+“What happened?”
+
+“You are still going to follow that outsider?”
+
+“You are still going to follow that filth who once stole our food?”
+
+Alsbans ran faster.
+
+But when he returned, it was already too late.
+
+He stopped where he stood.
+
+Blood.
+
+The blood of Fenis.
+
+For the first time on this journey, people had not died because of an enemy from outside.
+
+Meras was not there.
+
+His soldiers were not there.
+
+No foreign people stood against them.
+
+Fenis had killed Fenis.
+
+Those who had turned against Alsbans had attacked those who remained loyal to him.
+
+They had begun killing anyone who resisted.
+
+As Alsbans looked at the bodies on the ground, only one thought remained in his mind.
+
+He had taken this road to protect his people from Meras.
+
+He had wanted to lead them through the gods’ trial.
+
+He had believed he could bring them safely to Legacy.
+
+But he had failed to protect the people of Fenis from the evil growing within their own people.
+
+Alsbans drew his sword.
+
+The young men beside him did the same.
+
+After that, there was no more talking.
+
+Alsbans and the others moved against the attackers.
+
+Steel struck steel.
+
+Shouts filled the trees.
+
+People who had sat around the same fires only the night before were now killing one another.
+
+People who had walked the same road were now raising swords against each other.
+
+Alsbans showed no mercy to those who stood before him.
+
+They killed those who had rebelled against him and attacked the people of Fenis.
+
+When the fighting finally ended, the forest became quiet again.
+
+But this silence was different from the silences before it.
+
+This silence was no longer innocent.
+
+The earth drank the blood.
+
+It ran slowly toward the roots of the trees.
+
+Some of the roots became completely red.
+
+Alsbans lowered his sword.
+
+He looked around.
+
+The people he had tried to save were lying dead.
+
+The people he had killed had once been part of Fenis too.
+
+Once, they had eaten from the same table.
+
+Once, they had slept in the same place.
+
+Once, they had lived beneath the same name.
+
+Now they lay dead upon the same earth.
+
+No one truly slept that night.
+
+When morning came, the blood was still visible around the roots of the trees.
+
+Before the surviving people of Fenis left that place behind, they gave it a name.
+
+**Peranit.**
+
+**The Bloody Trees of Betrayal.**
+
+Because that day, they understood something for the first time:
+
+A people did not always need an enemy from outside to be destroyed.
+
+Sometimes, the greatest danger was already growing inside those who sat around the same fire.
 
