@@ -38,6 +38,9 @@ jobs:
           SITE_URL: https://${{ github.repository_owner }}.github.io
         run: npm run build
 
+      - name: Test reader and content rendering
+        run: npm test
+
       - name: Validate static output
         run: npm run check
 
@@ -56,4 +59,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-

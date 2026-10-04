@@ -141,3 +141,42 @@ Copyright © 2026 Erkan. All rights reserved.
 The stories, prose, artwork, images, design, source code, documentation, and all other original materials in this repository are proprietary. No licence is granted. Copying, reproduction, modification, distribution, republication, commercial use, AI training, text or data mining, and creation of derivative works are prohibited without Erkan's prior written permission, except where applicable law expressly permits otherwise.
 
 The public website may be accessed for personal reading only. See [LICENSE](LICENSE) for the complete terms.
+
+## Reader preferences and bookmarks
+
+The header theme button cycles through System, Light, and Dark. System follows
+`prefers-color-scheme`; an explicit preference is applied before CSS loads to
+avoid a flash. The reader's **Aa** menu adjusts the text size.
+
+Reading controls stay at the top of the reading column. **All chapters** opens
+an accessible, scrollable list; Escape closes it and restores focus. Chapter
+links and end-of-chapter navigation work without JavaScript. The foreword and
+all chapters remain on one static story page, preserving existing anchor URLs.
+Legacy `# Chapter N` headings are normalized to level two during rendering only.
+
+When browser storage is available, the site saves the current section and an
+approximate position within it. **Continue reading** appears on Home, Stories,
+and the story overview. Position restoration happens only when that link is
+chosen, so an ordinary visit or shared chapter URL remains predictable. Progress
+is stored separately for each story and Pages base path. There are no accounts,
+analytics, network bookmark requests, or external font downloads. Clearing site
+data removes these preferences; unavailable storage does not interrupt reading.
+
+Original image files remain in `public/images/stories/`. The Alsbans cover also
+has smaller JPEG derivatives in `public/images/optimized/`, selected using
+`srcset`. If that cover is replaced, regenerate its 480px and 800px versions.
+Other covers continue to work automatically using the original image.
+
+## Verification
+
+```sh
+npm test
+npm run build
+npm run check
+```
+
+Tests cover chapter detection and prose preservation, navigation boundaries,
+keyboard dismissal, text sizing, theme persistence, invalid/blocked storage,
+and explicit bookmark restoration. The build checker validates every generated
+page's internal routes, anchor targets, responsive images, heading IDs, and draft
+exclusion. GitHub Actions runs these checks before publishing.

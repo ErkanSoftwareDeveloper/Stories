@@ -14,6 +14,7 @@ const requiredFiles = [
   "reader.html",
   "404.html",
   "assets/styles.css",
+  "assets/theme.js",
   "assets/site.js"
 ];
 
@@ -37,13 +38,32 @@ for (const filePath of htmlFiles) {
     errors.push(`${relative} exposes the draft example.`);
   }
 
+  const ids = [...html.matchAll(/\bid="([^"]+)"/g)].map(match => match[1]);
+  if (new Set(ids).size !== ids.length) errors.push(`${relative} contains duplicate HTML ids.`);
+  if (!html.includes('http-equiv="refresh"') && (html.match(/<h1\b/g) || []).length !== 1) {
+    errors.push(`${relative} must contain exactly one primary heading.`);
+  }
+
+  for (const match of html.matchAll(/\bsrcset="([^"]+)"/g)) {
+    for (const candidate of match[1].split(",")) {
+      const url = candidate.trim().split(/\s+/)[0];
+      if (!url.startsWith(basePath) || !(await exists(path.join(outDir, url.slice(basePath.length))))) {
+        errors.push(`${relative} has a missing responsive image: ${url}`);
+      }
+    }
+  }
+
   for (const match of html.matchAll(/\b(?:href|src)="([^"]+)"/g)) {
     const reference = match[1];
     if (
       !reference ||
-      reference.startsWith("#") ||
       /^(?:https?:|mailto:|tel:|data:)/i.test(reference)
     ) {
+      continue;
+    }
+
+    if (reference.startsWith("#")) {
+      if (!ids.includes(reference.slice(1))) errors.push(`${relative} links to missing section: ${reference}`);
       continue;
     }
 
@@ -61,6 +81,10 @@ for (const filePath of htmlFiles) {
     const resolved = artifactPath.endsWith("/") ? path.join(target, "index.html") : target;
     if (!(await exists(resolved))) {
       errors.push(`${relative} links to a missing artifact: ${reference}`);
+    } else if (reference.includes("#")) {
+      const targetHtml = await fs.readFile(resolved, "utf8");
+      const fragment = reference.split("#")[1];
+      if (!targetHtml.includes(`id="${fragment}"`)) errors.push(`${relative} links to missing section: ${reference}`);
     }
   }
 }
@@ -92,4 +116,3 @@ async function collectFiles(directory, extension) {
   }
   return results;
 }
-

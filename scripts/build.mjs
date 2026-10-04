@@ -9,6 +9,7 @@ const publicDir = path.join(rootDir, "public");
 const sourceDir = path.join(rootDir, "src");
 const basePath = getBasePath();
 const site = JSON.parse(await fs.readFile(path.join(rootDir, "content", "site.json"), "utf8"));
+const copyrightNotice = `© ${new Date().getUTCFullYear()} ${site.author.name}. All rights reserved.`;
 const stories = await loadStories({ rootDir, production: true });
 const hasSocialCard = await fileExists(path.join(publicDir, "images", "social-card.png"));
 
@@ -21,6 +22,7 @@ await fs.mkdir(path.join(outDir, "assets"), { recursive: true });
 await fs.cp(publicDir, outDir, { recursive: true });
 await fs.copyFile(path.join(sourceDir, "styles.css"), path.join(outDir, "assets", "styles.css"));
 await fs.copyFile(path.join(sourceDir, "site.js"), path.join(outDir, "assets", "site.js"));
+await fs.copyFile(path.join(sourceDir, "theme.js"), path.join(outDir, "assets", "theme.js"));
 await fs.writeFile(path.join(outDir, ".nojekyll"), "", "utf8");
 
 function routeUrl(route = "") {
@@ -44,7 +46,9 @@ function metadataItems(story) {
   ];
 
   if (story.chapters.length) {
-    items.push(`${story.chapters.length} ${story.chapters.length === 1 ? "chapter" : "chapters"}`);
+    const hasForeword = /^Foreword\b/i.test(story.chapters[0].title);
+    const count = story.chapters.length - Number(hasForeword);
+    items.push(`${count} ${count === 1 ? "chapter" : "chapters"}${hasForeword ? " + foreword" : ""}`);
   }
 
   return items.map((item) => `<span>${item}</span>`).join("");
@@ -53,15 +57,14 @@ function metadataItems(story) {
 function siteHeader(current) {
   const links = [
     ["home", "", "Home"],
-    ["library", "library", "Library"],
-    ["about", "about", "About"],
-    ["impressum", "impressum", "Impressum"]
+    ["library", "library", "Stories"],
+    ["about", "about", "About"]
   ];
 
   return `
     <header class="site-header">
       <a class="wordmark" href="${routeUrl()}" aria-label="${escapeHtml(site.name)} home">
-        <span class="wordmark__initials" aria-hidden="true">SWB</span>
+        <span class="wordmark__initials" aria-hidden="true">✦</span>
         <span>${escapeHtml(site.name)}</span>
       </a>
       <nav class="site-nav" aria-label="Primary navigation">
@@ -72,6 +75,7 @@ function siteHeader(current) {
           )
           .join("")}
       </nav>
+      <button class="theme-toggle" type="button" data-theme-toggle hidden aria-label="Theme: system. Switch to light theme."><span aria-hidden="true">◐</span> <span data-theme-label>System</span></button>
     </header>`;
 }
 
@@ -87,7 +91,7 @@ function siteFooter() {
         <a href="${routeUrl("impressum")}">Impressum &amp; legal</a>
         <a href="${escapeHtml(site.author.github)}" rel="noreferrer">GitHub</a>
       </div>
-      <p class="site-footer__copyright">© ${new Date().getUTCFullYear()} ${escapeHtml(site.name)}. ${escapeHtml(site.legal.copyrightNote)}</p>
+      <p class="site-footer__copyright">${escapeHtml(copyrightNotice)}</p>
     </footer>`;
 }
 
@@ -106,7 +110,8 @@ function layout({ title, description, current, body, bodyClass = "", route = "" 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="${escapeHtml(description)}">
     <meta name="author" content="${escapeHtml(site.author.name)}">
-    <meta name="theme-color" content="#193c50">
+    <meta name="theme-color" content="#f6f3ec">
+    <meta name="color-scheme" content="light dark">
     <meta property="og:type" content="${route.startsWith("stories/") ? "article" : "website"}">
     <meta property="og:title" content="${escapeHtml(fullTitle)}">
     <meta property="og:description" content="${escapeHtml(description)}">
@@ -114,10 +119,11 @@ function layout({ title, description, current, body, bodyClass = "", route = "" 
     <meta name="twitter:card" content="${socialImage ? "summary_large_image" : "summary"}">
     ${canonical ? `<link rel="canonical" href="${escapeHtml(canonical)}">` : ""}
     <title>${escapeHtml(fullTitle)}</title>
+    <script src="${assetUrl("assets/theme.js")}"></script>
     <link rel="stylesheet" href="${assetUrl("assets/styles.css")}">
     <script src="${assetUrl("assets/site.js")}" defer></script>
   </head>
-  <body class="${escapeHtml(bodyClass)}">
+  <body class="${escapeHtml(bodyClass)}" data-base-path="${escapeHtml(basePath)}">
     <a class="skip-link" href="#main">Skip to main content</a>
     ${siteHeader(current)}
     ${body}
@@ -127,12 +133,19 @@ function layout({ title, description, current, body, bodyClass = "", route = "" 
 `;
 }
 
-function coverMarkup(story, className = "story-cover") {
+function coverMarkup(story, className = "story-cover", priority = false) {
   if (!story.coverImage) {
     return `<div class="${className} story-cover--empty" aria-hidden="true">${escapeHtml(story.title.charAt(0))}</div>`;
   }
 
-  return `<img class="${className}" src="${assetUrl(story.coverImage)}" alt="${escapeHtml(story.coverAlt || `Cover of ${story.title}`)}">`;
+  const optimized = story.coverImage === "/images/stories/alsbans-cover.png";
+  const source = optimized ? "/images/optimized/alsbans-cover-800.jpg" : story.coverImage;
+  const responsive = optimized ? ` srcset="${assetUrl("images/optimized/alsbans-cover-480.jpg")} 480w, ${assetUrl("images/optimized/alsbans-cover-800.jpg")} 800w" sizes="(max-width: 600px) 160px, 280px" width="800" height="1200"` : "";
+  return `<img class="${className}" src="${assetUrl(source)}"${responsive} alt="${escapeHtml(story.coverAlt || `Cover of ${story.title}`)}" loading="${priority ? "eager" : "lazy"}" decoding="async"${priority ? ' fetchpriority="high"' : ""}>`;
+}
+
+function resumeLink(story) {
+  return `<a class="resume-link" hidden data-resume-story="${escapeHtml(story.slug)}" data-chapter-ids="${escapeHtml(JSON.stringify(story.chapters.map(chapter => chapter.id)))}" href="${routeUrl(`stories/${story.slug}`)}">Continue reading <span aria-hidden="true">→</span><small data-resume-label></small></a>`;
 }
 
 function storyCard(story) {
@@ -152,17 +165,17 @@ function storyCard(story) {
     return `<article class="library-item library-item--upcoming">${content}</article>`;
   }
 
-  return `<article class="library-item"><a href="${routeUrl(`stories/${story.slug}`)}">${content}</a></article>`;
+  return `<article class="library-item"><a href="${routeUrl(`stories/${story.slug}`)}">${content}</a>${resumeLink(story)}</article>`;
 }
 
 const [featuredStory] = stories.publishedStories;
 const homeBody = `
   <main id="main">
     <section class="home-intro measure-wide">
-      <p class="kicker">Independent fiction · Berlin</p>
-      <h1>Stories to<br>get lost <em>in.</em></h1>
+      <p class="kicker">Original fiction by ${escapeHtml(site.author.name)}</p>
+      <h1>Stories to get <em>lost in.</em></h1>
       <p class="home-intro__lede">${escapeHtml(site.description)}</p>
-      <a class="button-link" href="${routeUrl("library")}">Browse the library</a>
+      ${featuredStory ? `<a class="text-link" href="${routeUrl(`stories/${featuredStory.slug}`)}#${featuredStory.chapters[0]?.id || "story-title"}">Start reading <span aria-hidden="true">→</span></a>` : `<a class="text-link" href="${routeUrl("library")}">Browse stories <span aria-hidden="true">→</span></a>`}
     </section>
     ${
       featuredStory
@@ -173,7 +186,7 @@ const homeBody = `
       </div>
       <article class="featured-story measure-wide">
         <a class="featured-story__cover-link" href="${routeUrl(`stories/${featuredStory.slug}`)}" aria-label="Read ${escapeHtml(featuredStory.title)}">
-          ${coverMarkup(featuredStory)}
+          ${coverMarkup(featuredStory, "story-cover", true)}
         </a>
         <div class="featured-story__copy">
           <p class="kicker">${escapeHtml(featuredStory.kicker || "Story")}</p>
@@ -181,16 +194,18 @@ const homeBody = `
           ${featuredStory.subtitle ? `<p class="featured-story__subtitle">${escapeHtml(featuredStory.subtitle)}</p>` : ""}
           <p>${escapeHtml(featuredStory.description)}</p>
           <div class="story-meta">${metadataItems(featuredStory)}</div>
-          <a class="text-link" href="${routeUrl(`stories/${featuredStory.slug}`)}">Begin reading <span aria-hidden="true">→</span></a>
+          <div class="story-actions"><a class="button-link" href="${routeUrl(`stories/${featuredStory.slug}`)}#${featuredStory.chapters[0]?.id || "story-title"}">Begin reading <span aria-hidden="true">→</span></a>
+          <a class="text-link" href="${routeUrl(`stories/${featuredStory.slug}`)}">Explore the story</a></div>
+          ${resumeLink(featuredStory)}
         </div>
       </article>
     </section>`
         : ""
     }
     <section class="home-note measure-wide" aria-labelledby="home-note-title">
-      <p class="kicker">The publication</p>
-      <h2 id="home-note-title">A clear page, a comfortable measure, and time to read.</h2>
-      <p>${escapeHtml(site.tagline)} Every published story is available here without sign-in, tracking, or interruption.</p>
+      <p class="kicker">A note from the author</p>
+      <h2 id="home-note-title">A small library of stories born from dreams.</h2>
+      <p>${escapeHtml(site.about[0])}</p>
       <a class="text-link" href="${routeUrl("about")}">About ${escapeHtml(site.name)} <span aria-hidden="true">→</span></a>
     </section>
   </main>`;
@@ -211,7 +226,7 @@ const libraryBody = `
   <main id="main" class="page-shell">
     <header class="page-heading measure-wide">
       <p class="kicker">The collection</p>
-      <h1>Library</h1>
+      <h1>The story shelf.</h1>
       <p>Published and forthcoming stories, arranged by publication date.</p>
     </header>
     <section class="library-list measure-wide" aria-label="Stories">
@@ -282,6 +297,7 @@ const legalBody = `
       </section>
       <section>
         <h2>Copyright</h2>
+        <p>${escapeHtml(copyrightNotice)}</p>
         <p>${escapeHtml(site.legal.copyrightNote)}</p>
         ${(site.legal.copyrightDetails || [])
           .map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`)
@@ -310,16 +326,16 @@ for (const story of stories.publishedStories) {
   const bodyHtml = renderStoryBody(story, basePath);
   const toc = story.chapters
     .map(
-      (chapter, index) =>
-        `<li><a href="#${escapeHtml(chapter.id)}"><span>${String(index + 1).padStart(2, "0")}</span>${escapeHtml(chapter.title)}</a></li>`
+      (chapter) =>
+        `<li><a href="#${escapeHtml(chapter.id)}"><span>${chapter.title.match(/^Chapter\s+(\d+)/i)?.[1].padStart(2, "0") || "—"}</span>${escapeHtml(chapter.title)}</a></li>`
     )
     .join("");
 
   const storyBody = `
     <div class="reading-progress" aria-hidden="true"><span data-reading-progress></span></div>
-    <main id="main" class="reader-shell">
+    <main id="main" class="reader-shell" data-story-slug="${escapeHtml(story.slug)}">
       <aside class="reader-sidebar">
-        <a class="back-link" href="${routeUrl("library")}">← Library</a>
+        <a class="back-link" href="${routeUrl("library")}">← All stories</a>
         <div class="reader-sidebar__cover">${coverMarkup(story)}</div>
         ${
           story.chapters.length
@@ -333,36 +349,34 @@ for (const story of stories.publishedStories) {
       <article class="reader-article">
         <header class="story-heading">
           <p class="kicker">${escapeHtml(story.kicker || "Story")}</p>
-          <h1>${escapeHtml(story.title)}</h1>
+          <h1 id="story-title" tabindex="-1">${escapeHtml(story.title)}</h1>
           ${story.subtitle ? `<p class="story-heading__subtitle">${escapeHtml(story.subtitle)}</p>` : ""}
           <p class="story-heading__description">${escapeHtml(story.description)}</p>
           <div class="story-meta">${metadataItems(story)}</div>
+          ${resumeLink(story)}
         </header>
-        ${
-          story.chapters.length
-            ? `<details class="reader-contents reader-contents--mobile">
-          <summary>Table of contents</summary>
-          <ol>${toc}</ol>
-        </details>`
-            : ""
-        }
-        ${story.chapters.length ? `<div class="reader-tools" aria-label="Reading controls">
-          <details class="chapter-picker reader-contents">
-            <summary><span class="chapter-picker__label">Chapters</span><span data-current-chapter>Choose a chapter</span><span aria-hidden="true">⌃</span></summary>
+        <div class="reader-tools" aria-label="Reading controls">
+          ${story.chapters.length ? `<details id="chapters" class="chapter-picker reader-contents">
+            <summary><span class="chapter-picker__label">All chapters <span aria-hidden="true">⌄</span></span><span data-current-chapter>Choose a chapter</span></summary>
             <nav aria-label="Jump to chapter"><p class="kicker">${escapeHtml(story.title)}</p><ol>${toc}</ol></nav>
-          </details>
+          </details>` : '<a class="back-link" href="#story-title">Story overview</a>'}
           <div class="reader-tools__steps" hidden data-reader-steps>
             <button type="button" data-previous aria-label="Previous chapter">←</button>
             <button type="button" data-next aria-label="Next chapter">→</button>
           </div>
-          <div class="reader-tools__type" hidden data-reader-type aria-label="Text size">
-            <button type="button" data-smaller aria-label="Decrease text size">A−</button>
-            <button type="button" data-larger aria-label="Increase text size">A+</button>
-          </div>
-        </div>` : ""}
+          <details class="reader-settings" hidden data-reader-type>
+            <summary aria-label="Reading settings">Aa</summary>
+            <div class="reader-settings__panel"><p class="kicker">Text size</p><div class="reader-tools__type">
+              <button type="button" data-smaller aria-label="Decrease text size">A−</button>
+              <span data-size-label aria-live="polite">100%</span>
+              <button type="button" data-larger aria-label="Increase text size">A+</button>
+            </div><p>Your place is saved on this browser when storage is available.</p></div>
+          </details>
+          <span class="reader-percentage" data-progress-label aria-label="Chapter progress" hidden>0%</span>
+        </div>
         <div class="story-body">${bodyHtml}</div>
         <footer class="story-end">
-          <p aria-hidden="true">— End —</p>
+          <p>You’re all caught up.</p>
           <a class="text-link" href="${routeUrl("library")}">Return to the library <span aria-hidden="true">→</span></a>
         </footer>
       </article>
@@ -382,12 +396,9 @@ for (const story of stories.publishedStories) {
 }
 
 if (featuredStory) {
-  const chapterAliases = {
-    foreword: featuredStory.chapters[0]?.id,
-    "chapter-1": featuredStory.chapters[1]?.id,
-    "chapter-2": featuredStory.chapters[2]?.id,
-    "chapter-3": featuredStory.chapters[3]?.id
-  };
+  const chapterAliases = Object.fromEntries(featuredStory.chapters.map(chapter => [
+    /^Chapter\s+(\d+)/i.test(chapter.title) ? `chapter-${chapter.title.match(/^Chapter\s+(\d+)/i)[1]}` : "foreword", chapter.id
+  ]));
   const target = routeUrl(`stories/${featuredStory.slug}`);
   const redirectScript = `
     <script>

@@ -13,7 +13,7 @@ const WORDS_PER_MINUTE = 225;
 const markdown = new MarkdownIt({
   html: false,
   linkify: true,
-  typographer: true
+  typographer: false
 });
 
 function storyError(filePath, message, rootDir) {
@@ -74,6 +74,12 @@ function addChapterIds(tokens) {
 
   for (let index = 0; index < tokens.length; index += 1) {
     const token = tokens[index];
+    // Some existing chapters use a level-one heading. Normalize only the
+    // rendered structure; the author's Markdown and heading text stay intact.
+    if (token.type === "heading_open" && token.tag === "h1" && /^Chapter\s+\d+\b/i.test(inlineText(tokens[index + 1]))) {
+      token.tag = "h2";
+      tokens[index + 2].tag = "h2";
+    }
     if (token.type !== "heading_open" || token.tag !== "h2") {
       continue;
     }
@@ -234,6 +240,7 @@ export function renderStoryBody(story, basePath) {
       return `<section class="story-chapter" aria-labelledby="${escapeHtml(chapter.id)}">
         ${markdown.renderer.render(sectionTokens, markdown.options, {})}
         ${pagination}
+        <nav class="chapter-return" aria-label="Story navigation"><a href="#chapters">All chapters</a><a href="#story-title">Story overview ↑</a></nav>
       </section>`;
     })
     .join("");
