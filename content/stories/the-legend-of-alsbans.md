@@ -3,7 +3,7 @@ title: "The Legend of Alsbans"
 slug: "legend-of-alsbans"
 description: "In the green forests of Humpellia and the towering dark of Trixalisse, Alsbans grows from loss into legend. His story moves through ancient wizards, broken families, war against Meras, and the hard search for a place to belong."
 publishedAt: "2025-12-18"
-updatedAt: "2026-09-25"
+updatedAt: "2026-10-08"
 status: "published"
 coverImage: "/images/stories/alsbans-cover.png"
 coverAlt: "A cloaked figure lifting a newborn beneath a sky filled with stars."
@@ -6292,4 +6292,712 @@ Because that day, they understood something for the first time:
 A people did not always need an enemy from outside to be destroyed.
 
 Sometimes, the greatest danger was already growing inside those who sat around the same fire.
+
+# The Legend of Alsbans — The Road to Legacy
+
+In the darkness of the night, Alsbans saw a woman.
+
+Her entire body was concealed beneath layers of cloth. Only her eyes were visible through the fabric covering her face.
+
+Green eyes.
+
+They were so vivid and deep that Alsbans could see nothing else in the darkness.
+
+The woman slowly approached him.
+
+Alsbans tried to step back, but he could not move. He could neither lift his hands nor move his legs. He tried to call out. His lips parted, yet not a single word escaped his mouth.
+
+The woman stopped directly before him.
+
+For a while, she simply looked at him.
+
+Then she raised her hand and smeared blood across his lips.
+
+Alsbans felt its warmth. Before he could understand what was happening, the redness on his lips began to disappear. It was as though the blood were sinking into his skin, vanishing as if it had never existed.
+
+The woman moved closer.
+
+And kissed him on the lips.
+
+Alsbans still could not move.
+
+When she drew back, she slowly began lifting the cloth that concealed her face. At last, Alsbans thought, he would see her. He would learn who she was, why she had come, and why she had placed blood upon his lips.
+
+But just as her face was about to be revealed, the dream ended.
+
+Alsbans awoke in terror.
+
+He struggled to catch his breath. For several moments, he could not understand where he was. He raised his hands to his face, then ran his fingers across his lips.
+
+There was no blood.
+
+The woman was gone.
+
+There was only the night.
+
+And those green eyes he could not drive from his mind.
+
+***
+
+Alsbans did not want to believe it had been an ordinary dream.
+
+Throughout his life, he had encountered things he could not explain. What he had learned from the wizards of Trixalisse had taught him that things people could neither see nor understand were sometimes far more important than they appeared.
+
+Perhaps this dream meant something too.
+
+He spoke to an interpreter of dreams.
+
+He described the woman, her green eyes, the blood she had placed upon his lips, the kiss that followed, and how he had awakened just before seeing her face.
+
+The interpreter listened and eventually told him it was a meaningless dream.
+
+Alsbans was not satisfied.
+
+He asked someone else.
+
+This time, he received an entirely different answer.
+
+Two people had heard the same dream, yet each had given it a different meaning. Alsbans no longer knew whom to believe.
+
+At last, he stopped searching for its meaning in the words of others.
+
+Perhaps he was the only one who could understand it.
+
+But such thoughts were difficult to pursue on the road to Legacy. His people needed food, water, and rest. Every day demanded new decisions, and behind every decision stood people who had placed their trust in him.
+
+One day, while the people were resting, Alsbans sat beneath a tree.
+
+He was thinking.
+
+He tried to remember the woman's eyes. He wondered why the blood had disappeared and what the kiss might have meant.
+
+Eventually, exhaustion overcame him.
+
+He rested his head against the tree.
+
+And fell asleep.
+
+The woman stood before him once again.
+
+The same coverings.
+
+The same green eyes.
+
+The same helpless stillness.
+
+She approached, placed blood upon his lips, and watched it disappear. Then she kissed him and began lifting the cloth to reveal her face.
+
+Alsbans awoke again.
+
+This time, he was certain. His mind had lived through exactly the same vision twice.
+
+He tried to recall what the wizards had taught him. He searched his memory for everything he had learned about dreams, visions, and the workings of the human mind, hoping that some forgotten piece of knowledge might offer an explanation.
+
+But no matter how hard he tried, he found nothing.
+
+The woman remained a stranger.
+
+And Alsbans had begun to wonder about someone whose face he had never even seen.
+
+***
+
+That day, he called out to his people.
+
+They needed rest.
+
+They caught fish. Those who were hungry ate, and those who were thirsty drank. Bodies weakened by the long journey recovered a little of their strength.
+
+When night came, everyone withdrew to their sleeping places.
+
+Alsbans remained beside the stream.
+
+Alone.
+
+He watched the flowing water, occasionally following the small movements that appeared upon its surface. In the silence of the night, the sound of the current should have brought him peace, yet it only made the questions in his mind more difficult to ignore.
+
+He did not want to sleep.
+
+He was afraid of seeing the woman again.
+
+And yet he wanted to see her again.
+
+Being caught between two opposing feelings was nothing new to Alsbans. Throughout his life, he had loved things he feared and feared losing the people he loved. He had longed to belong to places he was eventually forced to leave.
+
+Now he dreaded the return of a woman he did not know, while finding himself unable to rest without discovering who she was.
+
+As these thoughts occupied him, he noticed a small fish in the stream.
+
+It was swimming alone.
+
+No other fish accompanied it. It moved through the water with small motions, occasionally stopping before continuing on its way.
+
+Alsbans began watching it.
+
+Then a much larger fish appeared.
+
+It approached the smaller one and swallowed it in a single movement.
+
+Everything happened so quickly that Alsbans barely had time to blink.
+
+But then something strange happened.
+
+The larger fish released the smaller one.
+
+As though it had simply changed its mind about eating.
+
+After a while, the little fish continued swimming as if nothing had happened. It seemed not even to understand that it had been swallowed. As though it had passed through a dark night and awakened to a new morning, it simply returned to its life.
+
+It began searching for food again.
+
+Alsbans watched the water for a long time.
+
+*Perhaps human beings were not so different from animals after all.*
+
+One creature could end another's life, then choose not to. And the one spared might continue living without ever understanding what had nearly happened to it.
+
+Was the human world really any different?
+
+Some killed. Some showed mercy. Some survived. Others departed from the world without ever knowing why they had lived or why they had died.
+
+Alsbans watched until the little fish disappeared from sight.
+
+Perhaps the dream he had spent so many days thinking about was no different.
+
+Perhaps it meant nothing.
+
+Perhaps a person did not need to search for a secret behind everything he saw.
+
+That night, Alsbans decided he would no longer concern himself with the dream.
+
+He would believe that the green-eyed woman was nothing more than a meaningless vision.
+
+But it would not be long before he discovered that this decision had been a mistake.
+
+***
+
+Alsbans loved looking at the stars at night.
+
+Beneath them, he often thought about his past and his future.
+
+When he thought about the past, he often cried.
+
+For when he looked back, most of what he remembered was loss. The mother and father he had never known, the Trixalisse he had left behind, Jelin, Cesa, and Kesal…
+
+Each remained somewhere along the road of his life.
+
+Sometimes his entire past seemed to consist of paths separating from one another. No matter which one he followed in his memory, it always seemed to end in farewell.
+
+But when he thought about the future, he felt hope.
+
+Perhaps one day he would find a place where he truly belonged.
+
+Perhaps he and his people would reach somewhere they could live without fear.
+
+Perhaps, after all the suffering he had endured, life still held a happiness he had never known.
+
+His past had taught him to weep.
+
+His future taught him to hope.
+
+One night, Alsbans decided to do one of the things he loved most.
+
+While everyone slept, he walked deep into the forest.
+
+The voices of his people faded behind him.
+
+He found a quiet place among the trees and closed his eyes.
+
+He listened.
+
+To the rustling of leaves.
+
+To the distant cries of animals.
+
+To the sounds of living creatures moving through the darkness, their voices blending with one another.
+
+Sometimes Alsbans imagined that death might be something like this.
+
+One day, his body would return to the soil, and the world in which he had lived would take him back into itself. He would no longer exist as a separate being. He would become part of the world to which he had always belonged.
+
+The thought did not bring him only fear.
+
+Sometimes it brought him peace.
+
+For while a person lived, he could feel separated from the world around him. But perhaps in death, there would be no separation at all.
+
+On mornings when he slept in the forest, Alsbans sometimes awoke to find animals nearby.
+
+Sometimes a snake.
+
+Sometimes wolves.
+
+Sometimes other creatures.
+
+It was almost as though they were protecting him.
+
+Alsbans did not know whether they truly meant to protect him. Yet in their presence he found a kind of silence he had been unable to find among people for a long time.
+
+The animals did not ask him who he was.
+
+They did not remind him of his past.
+
+They did not demand that he explain himself.
+
+For them, his presence was enough.
+
+***
+
+One morning, when Alsbans returned to his people, he brought them good news.
+
+"We are almost there, my people."
+
+Heads lifted.
+
+"Almost where?"
+
+"The end of our road."
+
+Several people stared at him in disbelief.
+
+"Legacy?"
+
+Alsbans nodded.
+
+"Yes. I believe we are no longer far away."
+
+The people struggled to believe him.
+
+They had been walking for days. Some had nearly forgotten how much time had passed. The babies still suffered from hunger, the elderly still struggled to keep up, and everyone carried their exhaustion with them.
+
+But they were alive.
+
+After everything they had endured, they were still alive.
+
+And they still had hope.
+
+Someone called from the crowd.
+
+"How do you know, Alsbans? How can you tell that we are getting close?"
+
+Alsbans gestured toward the land around them.
+
+"Look at the earth."
+
+The people looked down.
+
+"It is greener."
+
+Then he pointed toward the water.
+
+"There are more fish. Food is easier to find than before. The life around us is changing."
+
+The crowd listened.
+
+"Where there is abundance and order, life is often more beautiful. Where life flourishes, living becomes easier."
+
+Someone asked:
+
+"And what are we, Alsbans, in such a world?"
+
+Alsbans thought for a moment.
+
+Then he answered:
+
+"We are a small mistake within that order."
+
+Some exchanged puzzled looks.
+
+He continued:
+
+"Sometimes, to become part of an order, you must first pass through its mistakes. We are among those mistakes."
+
+He paused.
+
+"Along this road, we have starved, we have feared, and we have lost one another. But we are still here."
+
+Then he extended his hand toward the path ahead.
+
+"Come, my people. We are almost there. Let us continue our journey."
+
+The people began walking again.
+
+Before, whenever exhaustion overcame them, they would stop and rest for a long time.
+
+This time, things were different.
+
+The belief that the end of their journey was approaching had given them new strength. They walked farther. They stopped less often. Their exhaustion had not disappeared, but now they believed every step was carrying them closer to somewhere.
+
+Hope did not take away their hunger.
+
+But sometimes it carried a person farther than hunger ever would.
+
+***
+
+The following morning, a man appeared before them.
+
+"Have you lost your way, people of Fenis?"
+
+At the sound of his voice, heads turned.
+
+A stranger stood before them.
+
+He held a red rose in his hand.
+
+And he was plucking its petals, one by one.
+
+Those who looked at him could not determine his age.
+
+He was not very old.
+
+Nor was he very young.
+
+Yet he did not seem middle-aged either.
+
+It was as though every age existed within him at once. One moment he appeared young; the next, he looked like someone who had lived for countless years.
+
+The people stepped back in fear.
+
+Some of the young men reached for their swords. Others seized wooden clubs.
+
+"Who are you?"
+
+The man did not answer.
+
+He plucked another petal from the rose.
+
+Alsbans came forward through the crowd.
+
+"Stop!"
+
+The young men stepped back.
+
+Alsbans looked at the stranger.
+
+"What is happening here?"
+
+Someone answered:
+
+"This man is standing directly in our path, Alsbans."
+
+Alsbans turned toward him.
+
+"Who are you?"
+
+A faint expression crossed the stranger's face.
+
+"Ah, Alsbans. You know me very well."
+
+Alsbans frowned.
+
+"No. I do not know you. Who are you?"
+
+The man plucked another petal.
+
+"I am someone who has come to tell you to turn back, Alsbans."
+
+Angry voices rose from the crowd.
+
+"You cannot stand in our way!"
+
+"Get out of our path!"
+
+"We are not turning back!"
+
+Alsbans raised his hand.
+
+"Silence!"
+
+The crowd slowly quieted.
+
+He turned toward the man once more.
+
+"If you have come to stop us, then you will tell me why."
+
+The stranger looked at the rose in his hand.
+
+"Alsbans, do you know who writes history?"
+
+Alsbans did not answer.
+
+The man continued:
+
+"The gods write history in the most beautiful way, Alsbans."
+
+Another petal fell to the ground.
+
+"And I am a stain caught within that history, within that fate."
+
+Alsbans's expression changed.
+
+The stranger looked directly into his eyes.
+
+"I have heard about the agreements you made with the gods."
+
+A new uneasiness spread through the crowd.
+
+*Agreements?*
+
+*What agreements?*
+
+*What had Alsbans said to the gods?*
+
+Alsbans answered sharply:
+
+"I made no agreements. I only heard what was told to me."
+
+The man shook his head slightly.
+
+"No, Alsbans."
+
+He paused.
+
+"You believed a few words that would allow you to justify yourself while killing people from your own nation."
+
+Whispers rose from the crowd.
+
+Some stared at the stranger in astonishment.
+
+Others looked toward Alsbans.
+
+After what had happened in Peranit, wounds remained in the hearts of the people. The stranger's words had touched those wounds.
+
+For the first time, some began to wonder whether Alsbans was hiding something from them.
+
+The stranger spoke again.
+
+"Tell me, Alsbans. Have you told everyone the truth?"
+
+Alsbans remained silent.
+
+"Have you told them who you are?"
+
+The man watched him.
+
+"What you are?"
+
+The crowd fell quiet.
+
+Alsbans took a step forward.
+
+"Even if I die at the end of this road, my people will make it through."
+
+The stranger watched him.
+
+Alsbans continued:
+
+"I do not even know who I am. How could you possibly know?"
+
+His voice rose.
+
+"Go on, then. Tell me. Who am I?"
+
+For a long time, the man simply looked at him.
+
+Then he lowered his head.
+
+"Ah, Alsbans…"
+
+He turned away.
+
+"So this was my final task."
+
+He had plucked every petal from the red rose.
+
+He dropped what remained of it to the ground.
+
+Alsbans was surprised.
+
+"Giving up so soon?"
+
+The man turned back toward him.
+
+"I came here knowing what would happen, Alsbans."
+
+He did not take his eyes off him.
+
+"I came so that what must happen would happen."
+
+Then he spoke one final time.
+
+"Tell her that I love her very much."
+
+And he vanished.
+
+Alsbans stood motionless.
+
+Then he shouted:
+
+"Who?"
+
+There was no answer.
+
+"WHO?"
+
+He looked around.
+
+The man was gone.
+
+The red rose he had dropped remained upon the ground, but the one who had carried it seemed never to have been there at all.
+
+Alsbans began searching the surrounding area.
+
+His people searched as well.
+
+Day passed.
+
+Night came.
+
+Then another day.
+
+Another night.
+
+They continued searching, but the man could not be found.
+
+***
+
+As time passed, uneasiness began growing among the people of Fenis once more.
+
+The stranger's words had not been forgotten.
+
+*The agreements you made with the gods…*
+
+*Have you told everyone the truth?*
+
+*Have you told them who you are?*
+
+People spoke among themselves, questioning Alsbans's past all over again.
+
+Some began to suspect that he was leading them into a trap.
+
+Others, after what had happened in Peranit, found it difficult to trust his every decision.
+
+But Alsbans did not abandon his determination to lead them to Legacy.
+
+They continued walking.
+
+Eventually, great mountains rose before them.
+
+The road grew increasingly difficult.
+
+The people were exhausted.
+
+That night, while Alsbans slept, several people woke him.
+
+He opened his eyes and saw members of the Fenis people standing before him.
+
+They held swords in their hands.
+
+Alsbans sat up.
+
+"What has happened?"
+
+One of them spoke.
+
+"From now on, we want you to go ahead of us."
+
+Alsbans looked at them.
+
+"I already walk at the front."
+
+"No. You will go before us."
+
+"How far before?"
+
+"One night."
+
+Alsbans fell silent.
+
+He looked again at the swords in their hands.
+
+Then he raised his eyes.
+
+"Do you no longer trust me?"
+
+One answered:
+
+"If you want our trust, you will do this."
+
+Another spoke:
+
+"You are our leader, Alsbans. Then lead the way."
+
+Alsbans studied them for a while.
+
+"So you want me to find out whether the road is safe before you take it."
+
+"We want you to travel one night ahead of us. True kings do this."
+
+Alsbans lowered his head.
+
+Then he answered:
+
+"Very well."
+
+The people exchanged glances.
+
+Alsbans continued:
+
+"But understand this. What you are doing is rebellion."
+
+The man before him immediately objected.
+
+"No. We are not rebelling. We simply want you to travel one night ahead of us."
+
+Alsbans did not argue any further.
+
+He rose to his feet.
+
+And began walking.
+
+***
+
+He walked.
+
+And walked.
+
+Now he traveled one night ahead of his people.
+
+Behind him was Fenis.
+
+Before him lay a road he did not know.
+
+He was alone again.
+
+Whenever he thought he had finally found somewhere he belonged, it seemed that place would slowly begin to move away from him.
+
+He had been alone when he left Trixalisse.
+
+He had been alone when he arrived in Fenis.
+
+There, he had found a family.
+
+He had found a brother.
+
+He had found people who would believe in him.
+
+Then he had lost his brother, witnessed the death of his leader, and fought against members of his own people to protect those he had sworn to save.
+
+And now, the very people for whom he had endured all of it no longer trusted him.
+
+Once again, an emptiness opened inside him.
+
+But Alsbans continued walking.
+
+Because he loved them.
+
+Whether they believed in him or not did not make their hunger, their fear, or their lives any less important.
+
+Those who distrusted him were still the people of Fenis.
+
+So were those who had once welcomed him among them.
+
+So were those who had turned against him.
+
+And whatever happened, Alsbans would lead them to Legacy.
+
+One night ahead of them.
+
+Completely alone.
+
+And still their leader.
 
