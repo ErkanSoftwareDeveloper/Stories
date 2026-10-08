@@ -6293,7 +6293,7 @@ A people did not always need an enemy from outside to be destroyed.
 
 Sometimes, the greatest danger was already growing inside those who sat around the same fire.
 
-## Chapter 7: The Legend of Alsbans — The Road to Legacy
+## Chapter 7: The Road to Legacy
 
 In the darkness of the night, Alsbans saw a woman.
 
