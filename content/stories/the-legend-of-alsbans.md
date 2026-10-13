@@ -7001,3 +7001,444 @@ Completely alone.
 
 And still their leader.
 
+*I am tired of this...*
+
+Alsbans spoke quietly to himself as he walked.
+
+*I am tired of walking. Tired of asking people, one by one, to trust me. No matter what I do, I always end up having to explain myself to them again.*
+
+For a moment, he stopped and looked back at the road stretching behind him.
+
+*After everything they have done, I still love them. Because a leader must always think of what is best for his people, whatever happens. That is what I have done. What I have always tried to do.*
+
+But even his own words no longer comforted him.
+
+The trust he had once seen in people's eyes had given way to suspicion. He had set out to save them from Meras, struggled to find food for them, and been forced to fight members of his own people. Now those same people, whom he was trying to protect, had made him walk a full night ahead of them.
+
+Still, Alsbans continued.
+
+It was not easy to stop loving someone.
+
+Especially when you had come to call those people your own.
+
+***
+
+One morning, when he opened his eyes, he felt that his spirit was more exhausted than his body.
+
+For a while, he lay without moving.
+
+There was more than sleeplessness in his eyes now. There was weariness, a weariness that had grown into something close to resentment. He was tired of walking, tired of thinking, tired of having every decision questioned and of explaining, again and again, what he believed was right.
+
+Voices reached him from a distance.
+
+“Get moving, Alsbans!”
+
+He lifted his head and looked in their direction for a moment. Then he slowly rose to his feet.
+
+He did not answer them.
+
+He began walking again.
+
+As he made his way through the forest, a tree caught his attention.
+
+It was unlike the others.
+
+Its leaves appeared to be red. Sunlight filtered through its branches, casting an unfamiliar color over the earth beneath it. The beauty of the leaves made the silence around the tree seem even more pronounced.
+
+Alsbans stopped.
+
+He had seen countless trees in his life: the towering giants of Trixalisse, the green forests of Humpellia, and all the trunks beneath which he had rested along the journey.
+
+But there was something different about this one.
+
+Its beauty seemed almost to invite him closer.
+
+He approached slowly and examined its branches. Then a small glimmer among the roots caught his eye.
+
+He bent down.
+
+Gold lay scattered across the ground.
+
+Not one piece, nor two, but countless pieces tucked between the roots, lying on the soil and half-hidden beneath fallen leaves.
+
+Alsbans picked one up and studied it.
+
+His expression changed when he recognized the markings.
+
+These were Meras's coins.
+
+He raised his head.
+
+First, he looked to his right.
+
+Then to his left.
+
+Only then did he notice the other things surrounding the tree.
+
+Soldiers' helmets.
+
+Broken armor, partly buried in the earth.
+
+And bodies that no longer moved.
+
+Soldiers of Meras.
+
+Alsbans straightened slowly.
+
+Many soldiers had died around this tree. Some lay close to its roots; others had fallen beside the scattered gold, their helmets resting among the coins.
+
+But something troubled him.
+
+This did not look like a battlefield.
+
+It lacked the disorder he would have expected after a great battle. It was almost as though all the soldiers had died here for the same reason, claimed by something they had not been able to fight.
+
+*Why would so many soldiers die beneath a single tree?*
+
+He looked at the gold again.
+
+*Had the very thing that brought them here also brought about their deaths?*
+
+As he considered this, he noticed movement before him.
+
+He looked up.
+
+And saw a figure standing directly in his path.
+
+A winged Humpellian.
+
+The figure wore red garments, had snow-white hair and yellow-toned skin. Wings extended behind his body, setting him apart from every person Alsbans had ever encountered.
+
+Alsbans immediately reached for his sword.
+
+“Who are you?”
+
+The stranger replied calmly.
+
+“I am the guardian of this tree, Alsbans.”
+
+Alsbans kept his hand on the hilt.
+
+“Did you kill these soldiers?”
+
+Instead of answering, the figure turned his attention to the tree.
+
+“This tree, Alsbans, represents the greatest hunger we all carry.”
+
+Alsbans narrowed his eyes and listened.
+
+“People do not hunger for bread alone. Sometimes they hunger for something so deeply that they are willing to lose everything they possess to obtain it.”
+
+The guardian looked up at the red leaves.
+
+“Upon every leaf of this tree lies the thing you and I despise most.”
+
+Alsbans frowned.
+
+“Gold.”
+
+The figure turned back to him.
+
+“You are afraid of me, Alsbans.”
+
+“I am not afraid of you.”
+
+“If I wished, I could defeat you. You know that, don't you?”
+
+“I did not come here to fight you.”
+
+“And yet you are afraid.”
+
+The stranger took a step closer.
+
+“I can smell your fear, Alsbans. You have no idea what I am capable of.”
+
+Alsbans's face hardened.
+
+He was tired of being threatened, too.
+
+He drew his sword.
+
+“Then show me!”
+
+Gripping the sword with both hands, he pointed it at the figure.
+
+“If you say you can defeat me, what are you waiting for? Show me your power!”
+
+He stepped forward.
+
+“I am ready!”
+
+The winged figure did not move.
+
+For a while, he simply regarded Alsbans.
+
+Then he spoke.
+
+“My name is Inos.”
+
+Alsbans fell silent.
+
+“I rule these lands, Alsbans. I am the guardian of this tree and the territory surrounding it.”
+
+Inos looked down at the gold.
+
+“You and your people may pass through my lands.”
+
+He paused.
+
+“But you will not touch a single piece of my treasure.”
+
+Alsbans listened carefully.
+
+“If even one of you touches it, I will come for all of you. For you, Alsbans, and for them.”
+
+A brief silence settled over the forest.
+
+Slowly, Alsbans lowered his sword and returned it to its sheath.
+
+“They will touch it, Inos.”
+
+Inos's expression changed.
+
+Alsbans continued.
+
+“They will. When they see your gold, they will want to take it. And when I tell them not to, they will fight me for it.”
+
+He glanced toward the bodies of Meras's soldiers.
+
+“I do not know exactly what happened here. But I know my people.”
+
+Inos answered him.
+
+“Then there is no place for you in my lands, leader of Fenis.”
+
+His wings opened slightly.
+
+“Take your people and go.”
+
+Alsbans frowned, then turned away.
+
+He did not argue.
+
+He did not draw his sword again.
+
+He began to walk.
+
+He had taken only a few steps when Inos called after him.
+
+“Alsbans!”
+
+He stopped.
+
+“Why did you not try?”
+
+Alsbans looked back.
+
+Inos continued.
+
+“Why did you not try to lead your people through? Perhaps none of them would have touched my gold.”
+
+Alsbans regarded him for a long time before answering.
+
+“Inos, understand one thing. I am not a lover blinded by love.”
+
+Inos listened, surprised.
+
+“I will not let my eyes go blind.”
+
+Alsbans raised his voice.
+
+“I do not know everything, Inos. I will not pretend otherwise.”
+
+He took a step toward him.
+
+“Sometimes I listen for a long time and speak very little. Sometimes I know what is right and still remain silent. Sometimes I listen to someone for hours and cannot persuade them of a single thing.”
+
+His voice grew stronger.
+
+“But I know my people, Inos!”
+
+Inos said nothing.
+
+“I know the good in them. And I know the evil in them, too!”
+
+Anger and sorrow mingled in Alsbans's expression.
+
+“I have seen how people become blind to those they love. I have seen how love can make them overlook wrongdoing, how belief can carry them into terrible acts.”
+
+He shook his head.
+
+“I will not do that, Inos.”
+
+For a moment he was quiet.
+
+“I love my people. But loving them does not mean closing my eyes to the truth.”
+
+Inos watched him closely.
+
+“I know what kind of people they are. I have seen what hunger can make them do, and how they treat one another when fear takes hold.”
+
+Alsbans's voice rose again.
+
+“I am their leader! I must protect them. But I do not have to believe they are perfect in order to do it!”
+
+He drew a deep breath.
+
+“I need friends more than enemies, Inos.”
+
+He looked once more at the bodies around the tree.
+
+“And I cannot change a truth I already know simply because I wish it were different.”
+
+Inos remained silent for a long time.
+
+His wings were still.
+
+He considered the words of the man before him: a man who wanted to protect his people without denying their faults, who loved them without allowing that love to blind him.
+
+At last, Inos turned toward the tree.
+
+He approached one of its most beautiful places and took a tiny piece of gold from it.
+
+Holding the piece in his palm, he wrote his own name upon it.
+
+**Inos.**
+
+Then he returned to Alsbans and extended his hand.
+
+“Take it, my friend.”
+
+Alsbans looked at the gold in surprise.
+
+“What is this for?”
+
+Inos answered.
+
+“I want you to know that you are among the good.”
+
+Alsbans accepted the gold.
+
+A smile appeared on Inos's face.
+
+“Long live goodness!”
+
+He spread his wings and flew away from Alsbans.
+
+***
+
+Alsbans looked at the small piece of gold in his hand.
+
+It was different from all the treasure he had seen lying beneath the tree.
+
+He had not stolen it.
+
+He had not fought for it.
+
+He had not put anyone's life in danger to possess it.
+
+It had been given to him.
+
+As a gift.
+
+But something far more important than gold occupied his thoughts.
+
+His people.
+
+Suddenly, he turned around and began to run.
+
+He hurried back through the trees, following the path he had come by, using every bit of strength he had to reach the people of Fenis.
+
+At last, he saw them.
+
+“TURN BACK!”
+
+The people spun toward him in alarm.
+
+“Alsbans?”
+
+“Get away from here!”
+
+Confused, the people began to retreat. No one understood what had happened.
+
+Alsbans stepped in front of the crowd.
+
+“This is not our road. We will not pass through here!”
+
+Someone objected.
+
+“Why?”
+
+“We will take another way.”
+
+“What do you mean, another way? We have been walking for so long!”
+
+Unease spread through the crowd.
+
+“The road is right in front of us!”
+
+“Why should we turn back?”
+
+Alsbans's explanation did not satisfy them.
+
+Some exchanged glances. Others thought he had made yet another decision they could not understand.
+
+One person began walking forward.
+
+Alsbans immediately drew his sword.
+
+“STOP!”
+
+The person froze.
+
+Alsbans raised his voice.
+
+“I said we are not going that way!”
+
+The crowd stared at him in disbelief.
+
+“Why, Alsbans?”
+
+“Tell us the reason!”
+
+“What are you hiding?”
+
+Alsbans did not lower his sword.
+
+He looked across his people.
+
+They were tired.
+
+They were hungry.
+
+They wanted answers from him.
+
+And now, once again, they were questioning his decision.
+
+Alsbans spoke.
+
+“If I am the leader of this people, then my words must mean something!”
+
+The crowd slowly fell quiet.
+
+“I am telling you we will not go that way, because that road will bring us harm.”
+
+He stepped forward.
+
+“I have to make decisions for your good. You do not have to like every decision I make. But if you challenge me every single time, how am I supposed to protect you?”
+
+His voice grew stern.
+
+“If I am still the leader of Fenis, then my words will be obeyed!”
+
+He pointed his sword toward the road ahead.
+
+“No one will go that way!”
+
+He paused.
+
+Then, one last time, he shouted:
+
+**“IF I SAY WE ARE NOT GOING, THEN WE ARE NOT GOING!”**
+
+
