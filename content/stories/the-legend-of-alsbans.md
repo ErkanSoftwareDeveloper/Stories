@@ -3,7 +3,7 @@ title: "The Legend of Alsbans"
 slug: "legend-of-alsbans"
 description: "In the green forests of Humpellia and the towering dark of Trixalisse, Alsbans grows from loss into legend. His story moves through ancient wizards, broken families, war against Meras, and the hard search for a place to belong."
 publishedAt: "2025-12-18"
-updatedAt: "2026-10-08"
+updatedAt: "2026-10-15"
 status: "published"
 coverImage: "/images/stories/alsbans-cover.png"
 coverAlt: "A cloaked figure lifting a newborn beneath a sky filled with stars."
@@ -7441,4 +7441,780 @@ Then, one last time, he shouted:
 
 **“IF I SAY WE ARE NOT GOING, THEN WE ARE NOT GOING!”**
 
+“We are going, Alsbans!”
 
+The words rose from the crowd and broke the silence of the forest.
+
+“You can no longer tell us what to do!”
+
+Alsbans looked at the people standing before him. Only moments earlier, he had been trying to keep them away from danger. Now they were turning against him again.
+
+“We will never see you as our true leader!”
+
+A sword was drawn.
+
+Then another.
+
+Before long, most of the people facing Alsbans had weapons in their hands.
+
+For a while, he could not speak.
+
+He knew those swords. Once, they had been raised against the soldiers of Meras. The people holding them had accepted him as their leader and followed him along the long road to Legacy.
+
+Now those same blades were pointed at him.
+
+“So you no longer see me as your leader. Is that it?”
+
+No one answered.
+
+Alsbans took a step forward.
+
+“Why?”
+
+His voice grew louder.
+
+“Because I tried to protect you? Because I wanted to keep you from harm?”
+
+The crowd erupted.
+
+“You are a stranger!”
+
+“You are not even one of us!”
+
+“You lying piece of filth!”
+
+Voices collided in the air.
+
+“You made a deal with the gods!”
+
+“You have been killing us slowly!”
+
+“You are lying because you do not want us to go in there! You are hiding something from us!”
+
+Someone pushed forward.
+
+“Who knows what is waiting in that forest? Perhaps you want to keep it all for yourself!”
+
+Alsbans stopped answering.
+
+The accusations kept coming, but he only looked at the faces before him.
+
+*You are not one of us.*
+
+He had heard words like those before.
+
+Once, in anger, Cesa had said something similar. But Cesa had apologized in the end. Before dying, he had reminded Alsbans that he belonged among them.
+
+Now Cesa was gone.
+
+Kesal was gone too.
+
+And most of the people of Fenis were telling Alsbans that he was not one of them.
+
+A thought passed through his mind.
+
+*Perhaps they are right.*
+
+Perhaps he had never truly belonged.
+
+He had lived among them, shared their food, and fought for them. But none of those things could change where he had been born.
+
+Alsbans did not allow his sadness to show.
+
+His expression hardened.
+
+Then he slowly lowered his sword.
+
+He let it go.
+
+The crowd watched him in surprise.
+
+“Go,” he said.
+
+No one moved.
+
+Alsbans lifted his head.
+
+“If you do not believe me, then go.”
+
+There was no anger left in his voice.
+
+“If my words mean nothing to you, then follow the road you have chosen.”
+
+For a moment, the crowd remained still.
+
+Then people gathered their weapons and began walking toward the forest.
+
+Alsbans did not try to stop them.
+
+He did not shout after them.
+
+He only watched them leave.
+
+Of all the people who had once followed him, only two remained at his side.
+
+Mos.
+
+And Tap.
+
+***
+
+Alsbans struggled to remain standing.
+
+Mos and Tap came to him.
+
+“Come, brother,” Mos said.
+
+Alsbans did not answer.
+
+Tap moved to his other side.
+
+They placed his arms across their shoulders and supported his weight between them. Slowly, they helped him walk to a place where he could sit.
+
+Alsbans kept looking toward the forest.
+
+The people who had followed him only a short while ago had now chosen to leave him behind.
+
+Mos sat beside him.
+
+“Alsbans…”
+
+There was no reply.
+
+Tap glanced at Mos, and Mos looked back at him.
+
+Neither knew what to say.
+
+Sometimes there were no words that could comfort a person, especially one who had spent his entire life searching for a place to belong and had found himself alone each time he believed that search was over.
+
+So Mos and Tap remained beside him.
+
+It was all they could do.
+
+***
+
+As the people of Fenis moved deeper into the forest, the great tree with red leaves appeared before them.
+
+First, they noticed the glimmers scattered across the ground.
+
+Then they saw the gold.
+
+It was everywhere.
+
+Between the roots, beneath the fallen leaves, across the earth itself.
+
+They could hardly believe their eyes.
+
+These were people who had endured hunger and the crushing weight of a long journey. Now, before them, lay more treasure than they could have imagined.
+
+Some fell to their knees.
+
+Some began to laugh.
+
+Others thought immediately of Alsbans.
+
+“So this is why he did not want us to come!”
+
+“He was keeping all of it from us!”
+
+“Liar!”
+
+Their anger grew.
+
+“We will kill you, Alsbans!”
+
+“You filthy liar!”
+
+To them, Alsbans was no longer a leader who had tried to protect them.
+
+He was a stranger who had wanted to keep the treasure for himself.
+
+And they believed they had finally proved it.
+
+They reached for the gold.
+
+The moment their hands touched it, a figure appeared before them.
+
+Inos.
+
+Dressed in red, with white hair and wings rising behind him, he stood before the tree.
+
+The people had no time to understand who he was.
+
+Death began.
+
+Inos attacked.
+
+People screamed.
+
+Some tried to flee.
+
+Others reached for their swords.
+
+None could stop him.
+
+He killed them one by one.
+
+The hands that had reached for the gold would never hold it again.
+
+Their cries rang through the trees.
+
+Then Inos buried the dead beneath the earth.
+
+The forest swallowed the people of Fenis who had entered it.
+
+***
+
+The screams reached Alsbans.
+
+He lifted his head.
+
+For a moment, he could not understand what he was hearing.
+
+Then he tried to stand.
+
+“No…”
+
+Another scream rang out.
+
+His face changed.
+
+“NO!”
+
+He forced himself to his feet.
+
+But his strength was gone.
+
+Before he could take more than a few steps, he fell to the ground.
+
+Mos and Tap rushed to him.
+
+Alsbans pressed his hands into the earth.
+
+“No… No, please…”
+
+He stared toward the forest.
+
+He could hear his people.
+
+But he could not reach them.
+
+He buried his face in his hands.
+
+And began to cry.
+
+“It is my fault…”
+
+Mos knelt beside him.
+
+“Alsbans…”
+
+“IT IS MY FAULT!”
+
+His voice echoed among the trees.
+
+“I could not protect them!”
+
+He struggled to breathe.
+
+“The children…”
+
+For a moment, he could say no more.
+
+“The elderly… All of them…”
+
+Tears fell onto the soil.
+
+“I was supposed to save them.”
+
+Mos and Tap tried to lift him.
+
+Alsbans shook his head.
+
+“My fault. Mine…”
+
+At the beginning of the journey, he had promised his people that no harm would come to them.
+
+Now most of them were gone.
+
+In Peranit, he had watched his own people kill one another.
+
+This time, he had tried to lead them away from danger, but he had failed to convince them.
+
+The people he had sworn to protect had died close enough for him to hear their screams, yet beyond his reach.
+
+Mos placed a hand on his shoulder.
+
+“Come, brother.”
+
+Alsbans did not answer.
+
+Tap took his other arm.
+
+Together, they lifted him.
+
+Alsbans was in no condition to keep walking.
+
+His body had weakened, and his mind seemed crushed beneath the weight of what had happened.
+
+Before long, he fell ill.
+
+Mos and Tap carried him in turns as they continued the journey.
+
+For a while, Mos carried him.
+
+Then Tap.
+
+Then Mos again.
+
+Yet of the three, Alsbans seemed to bear the heaviest burden.
+
+It was not upon his shoulders.
+
+It was within him.
+
+***
+
+When night fell, they stopped on a mountainside.
+
+Mos and Tap laid Alsbans down where he could rest.
+
+Darkness settled around them.
+
+After the long journey, both men were exhausted.
+
+Mos looked at Alsbans.
+
+He lay almost motionless.
+
+“What do you think, Tap?”
+
+Tap raised his head.
+
+“Will Alsbans wake up?”
+
+Tap studied him for a while.
+
+“I do not know, Mos.”
+
+He listened to Alsbans breathing.
+
+“But he seems to be coming back to himself, little by little.”
+
+Mos took a deep breath.
+
+“I hope he wakes.”
+
+Tap looked at him.
+
+Mos continued.
+
+“Without him, this journey will be terribly difficult.”
+
+Tap said nothing.
+
+They both knew what remained of the people of Fenis.
+
+There were only three of them now.
+
+And one could barely regain consciousness.
+
+***
+
+Later that night, Mos rose to his feet.
+
+He looked toward the sky.
+
+The stars shone above the mountain.
+
+For a while, he watched them.
+
+Then he heard a faint movement behind him.
+
+Alsbans had stirred.
+
+Mos hurried to his side.
+
+“Alsbans?”
+
+No answer came.
+
+As Mos bent to check on him, he noticed something in his clothing.
+
+Gold.
+
+There was a piece of gold in Alsbans’s pocket.
+
+Mos examined it carefully.
+
+*So Alsbans had gone after the gold too.*
+
+The thought settled in his mind.
+
+But another question followed almost immediately.
+
+*Then why had he survived?*
+
+The others had died after touching the treasure.
+
+Why was Alsbans still alive?
+
+Mos could find no answer.
+
+At that moment, shouting rose from the forest.
+
+Mos lifted his head.
+
+The voices were drawing closer.
+
+“Tap!”
+
+There was no reply.
+
+Mos shouted louder.
+
+“Tap, get up!”
+
+Tap woke with a start.
+
+“What happened?”
+
+“We have to protect Alsbans!”
+
+Tap sprang to his feet.
+
+Both men seized their swords.
+
+They turned toward the forest.
+
+First came movement in the dark between the trees.
+
+Then figures.
+
+Then more of them.
+
+Hundreds of soldiers emerged from the forest.
+
+Soldiers of Meras.
+
+“We found you, you filthy rats!”
+
+Their shouts echoed around the mountain.
+
+Mos and Tap looked at each other.
+
+The men before them were far too numerous for two swords to defeat.
+
+But Alsbans lay behind them.
+
+Mos raised his sword.
+
+Tap did the same.
+
+They looked into each other’s eyes.
+
+“Let us fight, brother.”
+
+Mos nodded.
+
+“Let us fight.”
+
+And they began running toward the soldiers of Meras.
+
+But after only a few steps, Mos realized something was wrong.
+
+No one was beside him.
+
+Tap was not running forward.
+
+Mos turned his head.
+
+Tap had turned away.
+
+He was fleeing.
+
+Before Mos could understand what was happening, the first soldiers fell upon him.
+
+He raised his sword.
+
+He blocked one strike.
+
+Then another.
+
+But he could not stop every blade coming at him at once.
+
+He was wounded.
+
+He stumbled back.
+
+And when he turned, he saw Tap running deeper into the forest.
+
+“Tap!”
+
+Tap did not stop.
+
+Mos shouted again.
+
+“WHY, TAP?”
+
+There was more than anger in his voice.
+
+He could scarcely believe it.
+
+Only moments earlier, they had made a promise.
+
+They would fight together.
+
+They would protect Alsbans together.
+
+Now Mos stood alone.
+
+Tap shouted as he ran:
+
+“I CAN’T!”
+
+His voice trembled.
+
+“I can’t do it, Mos!”
+
+For a moment, he looked back.
+
+He saw that Mos had been wounded.
+
+The man he called his brother was fighting alone among the soldiers of Meras.
+
+Tap wanted to stop.
+
+But his fear was stronger.
+
+And he kept running.
+
+The last Mos saw of him was his figure vanishing among the trees.
+
+“We promised each other, Tap!”
+
+No answer came.
+
+Pain twisted Mos’s face.
+
+“WE PROMISED!”
+
+No one was coming to help him now.
+
+He understood that.
+
+He raised his sword once more.
+
+“No!”
+
+He turned back toward the soldiers.
+
+He did not retreat.
+
+Mos fought well.
+
+He handled his sword with skill, parrying the attacks that came at him and struggling to remain on his feet despite his wounds.
+
+But there were too many soldiers.
+
+He blocked one blow, only to face two more.
+
+Little by little, his strength deserted him.
+
+At last, he could fight no longer.
+
+He fell.
+
+His sword slipped from his hand.
+
+He raised his head.
+
+The sky was still full of stars.
+
+For a while, he watched them.
+
+Tap was gone.
+
+Alsbans still needed help.
+
+Most of the people of Fenis were already dead.
+
+Mos knew all of it.
+
+Yet even in his final moments, he did not forget whom he had fought for.
+
+His lips parted.
+
+“For the people of Fenis…”
+
+He closed his eyes.
+
+And died.
+
+***
+
+The soldiers of Meras came to Alsbans.
+
+They found him lying on the ground.
+
+He did not move.
+
+The soldiers gathered around him.
+
+For a while, they simply stared.
+
+Then they began to laugh.
+
+“So you are the one who defied us!”
+
+Another mocked him.
+
+“Look at him! Is this really the man who caused all that trouble?”
+
+Their laughter grew.
+
+Alsbans gave no answer.
+
+One soldier drew his sword.
+
+“Then let us finish it here.”
+
+He raised the blade.
+
+But just as he was about to drive it into Alsbans, something glimmered on the ground.
+
+He stopped.
+
+Bent down.
+
+And picked up the gold.
+
+He examined the writing upon it.
+
+**Inos.**
+
+While the soldier tried to read the name, the others grew impatient.
+
+“What are you waiting for?”
+
+“Strike him!”
+
+“Why have you stopped?”
+
+The soldier turned the gold in his hand.
+
+“Inos…”
+
+He paused.
+
+“What is this? Some kind of gold?”
+
+And at that very moment—
+
+Inos appeared.
+
+***
+
+Wings spread wide.
+
+The white-haired figure in red stood before the soldiers.
+
+The men of Meras stumbled back in astonishment.
+
+But Inos gave them no time to recover.
+
+The battle began.
+
+The soldiers drew their swords.
+
+Inos moved against them.
+
+He killed one.
+
+Then another.
+
+The soldiers surrounded him.
+
+Countless weapons turned toward him.
+
+But Inos did not stop.
+
+A great battle raged.
+
+As the soldiers of Meras fell one after another, Inos was wounded too.
+
+Pain coursed through his body.
+
+Still, he did not retreat.
+
+Because Alsbans lay behind him.
+
+Inos had given him a piece of his own gold.
+
+He had called him his friend.
+
+And now these soldiers had come to kill that friend.
+
+Inos fought on.
+
+Despite his wounds, he pressed into the soldiers' ranks.
+
+He would not allow them to reach Alsbans.
+
+At last, every soldier of Meras lay dead.
+
+The sounds of battle faded from the forest.
+
+Inos stood motionless for a while.
+
+He was wounded.
+
+But he was alive.
+
+Then he turned.
+
+And walked toward Alsbans.
+
+***
+
+Alsbans was still lying on the ground.
+
+Inos knelt beside him.
+
+He looked at the young man before him.
+
+Only a short time ago, Alsbans had stood before him with a drawn sword, declaring that he was not afraid. He had spoken of knowing his people well enough to recognize even their faults.
+
+Now he lay helpless.
+
+In pain.
+
+Inos reached toward him.
+
+“I can see that you are suffering, Alsbans.”
+
+He fell silent for a moment.
+
+Then he spoke softly.
+
+“I will save you, brother.”
+
+He took the piece of gold.
+
+His own name was written upon it.
+
+He placed it back in Alsbans’s pocket.
+
+Then he carefully lifted him.
+
+They could not remain there.
+
+Alsbans needed help.
+
+Inos had decided to take him away.
+
+He opened his wings.
+
+And, wounded himself, he carried Alsbans toward the realm beneath the earth.
+
+**Petracisa.**
