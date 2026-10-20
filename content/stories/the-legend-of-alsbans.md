@@ -3,7 +3,7 @@ title: "The Legend of Alsbans"
 slug: "legend-of-alsbans"
 description: "In the green forests of Humpellia and the towering dark of Trixalisse, Alsbans grows from loss into legend. His story moves through ancient wizards, broken families, war against Meras, and the hard search for a place to belong."
 publishedAt: "2025-12-18"
-updatedAt: "2026-10-15"
+updatedAt: "2026-10-20"
 status: "published"
 coverImage: "/images/stories/alsbans-cover.png"
 coverAlt: "A cloaked figure lifting a newborn beneath a sky filled with stars."
@@ -8218,3 +8218,878 @@ He opened his wings.
 And, wounded himself, he carried Alsbans toward the realm beneath the earth.
 
 **Petracisa.**
+
+## Chapter 8: Petracisa
+
+Alsbans opened his eyes.
+
+For a while, he could not understand where he was. He tried to look around, but every movement of his head reminded him how little strength remained in his body.
+
+The last things he remembered were tangled together.
+
+Shouting.
+
+Swords.
+
+People dying.
+
+And the darkness that followed.
+
+“Where am I?”
+
+Even the sound of his own voice felt unfamiliar.
+
+He tried to stand. But when he moved, he realized that his arms were bound.
+
+Ropes held his wrists tightly together.
+
+At first he struggled to understand what had happened. Then, in anger, he pulled against the bindings. When he realized he could not free himself that way, he looked around.
+
+There was a knife nearby.
+
+With difficulty, he reached for it and began cutting through the ropes around his wrists. After some effort, his hands were free.
+
+He stood.
+
+His legs trembled beneath him.
+
+He remained still for a moment, waiting for his strength to return, and then began to examine the place around him.
+
+Everything was empty.
+
+Yet it did not look like a place in which nothing had ever lived.
+
+It was as though countless living beings had once been here—speaking, moving, going about their lives—only to leave it all behind at once.
+
+All that remained was silence.
+
+Alsbans found no peace in that silence.
+
+For an empty place was not necessarily an abandoned one.
+
+Sometimes, to understand how lonely a place had become, one needed only to imagine how much life had once filled it.
+
+Then he heard a voice.
+
+“Brother, are you awake?”
+
+Alsbans turned sharply.
+
+Inos was coming inside.
+
+Alsbans stared at him in surprise.
+
+“Inos?”
+
+“Yes, brother.”
+
+Alsbans thought for a moment.
+
+Then he looked around again.
+
+“Where is everyone?”
+
+Inos's expression did not change.
+
+“Everyone is dead, Alsbans.”
+
+Alsbans went still.
+
+Inos continued.
+
+“And one person betrayed you, brother.”
+
+Anger appeared in Alsbans's eyes.
+
+“You…”
+
+Inos watched him.
+
+“You killed my people!”
+
+His voice echoed through the empty place.
+
+“You killed them, Inos!”
+
+Inos remained calm.
+
+“You know I had to obey the rules, Alsbans.”
+
+“You didn't have to!”
+
+Alsbans raised his voice.
+
+“You could have spared them!”
+
+He took a step toward Inos.
+
+“You didn't have to kill innocent people!”
+
+Inos gave a short laugh.
+
+“Innocent?”
+
+Alsbans fell silent.
+
+Inos turned fully toward him.
+
+“Do you believe they were innocent, Alsbans?”
+
+He waited for an answer.
+
+“The people who sold you out? The ones who said they had no bond with you? The ones who were waiting for the right moment to kill you?”
+
+Alsbans tried to answer.
+
+But no words came.
+
+Inos continued.
+
+“Loving them does not mean they were good people, brother.”
+
+The words lingered in Alsbans's mind.
+
+He remembered what the turtle had asked him.
+
+*Do you believe everyone among your people is good, Alsbans?*
+
+*Do you believe you truly know all of them?*
+
+He had not understood why the turtle had asked those questions.
+
+Now he did not want to understand.
+
+*Did I ever truly know my people?*
+
+*Did I believe they were good?*
+
+*Or did I believe it only because I wanted them to be?*
+
+Inos approached and asked him to come outside.
+
+But Alsbans stepped back.
+
+“No.”
+
+“Alsbans…”
+
+“I'm not going out.”
+
+Inos watched him for a moment.
+
+“You cannot remain here alone, brother.”
+
+Alsbans lifted his head.
+
+“I want to be alone.”
+
+Inos did not answer.
+
+“Please, Inos.”
+
+His voice was quieter now.
+
+“Leave me alone.”
+
+Inos waited a little longer.
+
+Then he turned and left.
+
+Alsbans was alone once more.
+
+***
+
+When the door closed, everything he had been holding inside began to rise again.
+
+Anger.
+
+Guilt.
+
+Fear.
+
+And something heavier than all of them.
+
+Helplessness.
+
+Suddenly, he seized whatever was in front of him and hurled it to the ground.
+
+Something shattered.
+
+Then something else.
+
+Alsbans could no longer stop himself.
+
+“Enough!”
+
+He began breaking everything within reach.
+
+“Enough of this!”
+
+But nothing changed.
+
+After each crash, the same silence returned.
+
+Eventually, his strength gave out and he sank to his knees.
+
+He buried his face in his hands.
+
+And began to cry.
+
+Once, when he cried, Jelin had been there.
+
+Later, there had been Cesa.
+
+And Kesal.
+
+Now there was no one.
+
+No one to see his tears. No one to ask why he was crying.
+
+After a while, he felt pain in his hand.
+
+He saw that he had cut his finger.
+
+A shard of broken glass had wounded him.
+
+He looked at the blood.
+
+How much blood had he seen in his life?
+
+The blood of others.
+
+His own blood.
+
+The blood of the dead.
+
+And now, in a world that seemed to remind him of nothing but suffering, even this small wound had lost its meaning.
+
+Alsbans lay down on the floor.
+
+He closed his eyes.
+
+But the silence did not last.
+
+“Forgive me, Alsbans!”
+
+It was Tap's voice.
+
+Alsbans kept his eyes shut.
+
+“Forgive me!”
+
+It sounded as though Tap were standing beside him.
+
+Then other voices came.
+
+*You are the chosen one, Alsbans.*
+
+*You are the chosen one.*
+
+The voices multiplied.
+
+From every direction came the same words.
+
+*The chosen one.*
+
+*The chosen one.*
+
+Alsbans opened his eyes at once.
+
+“NOT ME!”
+
+He struggled to his feet.
+
+“I am not the chosen one!”
+
+He began breaking the objects around him again.
+
+“I don't want to be the chosen one!”
+
+His voice trembled.
+
+“Why did you choose me?”
+
+In his anger, his foot caught against something.
+
+He fell to the ground.
+
+He no longer had the strength to stand.
+
+For a while, he remained where he had fallen.
+
+He was breathing.
+
+But it felt as though he had lost all the strength it took to go on living.
+
+He closed his eyes.
+
+Tap's voice returned.
+
+*Forgive me, Alsbans.*
+
+Then the others.
+
+*You are the chosen one.*
+
+Alsbans pressed his hands over his ears.
+
+But the voices were not coming from outside.
+
+They were inside his mind.
+
+No matter how hard he tried, he could not escape them.
+
+***
+
+When Inos entered again, he looked around in astonishment.
+
+Everything was in disarray.
+
+Broken objects lay scattered across the floor.
+
+Alsbans lay among them.
+
+He did not even have the strength to call Inos's name.
+
+Inos hurried to him.
+
+“Alsbans!”
+
+He knelt beside him.
+
+“What happened here, brother?”
+
+Alsbans did not answer.
+
+“Are you all right?”
+
+After a while, Alsbans opened his eyes.
+
+He saw Inos.
+
+And spoke in an exhausted voice.
+
+“I will stay here, brother.”
+
+Inos listened.
+
+“Thank you…”
+
+Alsbans paused.
+
+“You didn't abandon me.”
+
+Inos could see both the anger and the grief that Alsbans carried within him.
+
+The man before him had not merely grown tired of battles.
+
+Life itself had worn him down.
+
+Inos did not force him to leave.
+
+He promised to bring him something to eat every day.
+
+Alsbans nodded.
+
+Then he fell silent again.
+
+***
+
+Days passed.
+
+Nights passed.
+
+In Petracisa, time slowly began to lose its meaning for Alsbans.
+
+Inos kept his promise.
+
+He brought food every day.
+
+But he no longer came inside.
+
+He would open the door and leave what he had brought.
+
+Alsbans would take it.
+
+Then the door would close again.
+
+He ate inside.
+
+He drank inside.
+
+Whenever he woke, he was in the same place.
+
+Whenever he slept, he was there too.
+
+Once, in Trixalisse, he had been imprisoned in a cave.
+
+Back then, Jelin had put him there.
+
+He had wanted to escape.
+
+He had wanted to free himself from ropes, stones, and closed spaces.
+
+Now no one stood between him and the door.
+
+Yet he would not leave.
+
+This time, he had imprisoned himself.
+
+And sometimes the prison a person built with his own hands was harder to escape than one in which someone else had locked him.
+
+***
+
+After a while, Alsbans began to write.
+
+At first, he only thought.
+
+Then he began turning his thoughts into words.
+
+When he had nothing to write on, he carved them into the walls.
+
+He wrote poems.
+
+Everything he carried inside, everything he could not tell another person, became words that perhaps only he would ever read.
+
+One day, he carved these lines:
+
+*“Those who have never truly lived, even once, have never lived at all.*
+
+*For a person who has never seen the truth only imagines that they are alive.*
+
+*A false life is not worth living.”*
+
+He stared at what he had written for a long time.
+
+*What did it mean to truly live?*
+
+Alsbans did not know.
+
+He had grown up among people who did not know who he was.
+
+When he was older, he had lost the people he thought he knew.
+
+Once he had been a slave.
+
+Then he had become free.
+
+Once he had been alone.
+
+Then he had become the leader of a people.
+
+Now he was alone again.
+
+Which of these lives had been real?
+
+Which one belonged to him?
+
+On another part of the wall, he carved his own name.
+
+**ALSBANS**
+
+He looked at it for a long time.
+
+Then he began writing beneath it.
+
+*“I know that my name is Alsbans.”*
+
+He stopped.
+
+*“But I do not know who gave me that name.”*
+
+He ran a hand over the wall.
+
+And continued.
+
+*“I do not know who my mother and father were.*
+
+*I know that I grew up without them.*
+
+*Perhaps they are alive.*
+
+*Perhaps they are dead.*
+
+*I do not even know that much.”*
+
+For a while, he stopped.
+
+Writing these things meant facing questions he had spent years being afraid to ask himself.
+
+But he continued.
+
+*“I have no one.*
+
+*I spent part of my childhood in Trixalisse.*
+
+*Jelin found me when I was still a baby.*
+
+*When she found me, neither my mother nor anyone who knew me was there.*
+
+*The only thing anyone knew was that I had been wrapped in a torn piece of cloth.*
+
+*It was stained with blood.*
+
+*And it smelled of smoke.”*
+
+Alsbans lowered his hand.
+
+He thought about that piece of cloth.
+
+Whose blood had stained it?
+
+Why had it been torn?
+
+Why had it smelled of smoke?
+
+How could a person know so little about the beginning of his own life?
+
+He carved more words into the wall.
+
+*“Was I abandoned?*
+
+*Or was someone trying to save me?”*
+
+There was a terrible difference between those possibilities.
+
+In one, he had been an unwanted child.
+
+In the other, perhaps someone had lost everything so that he might live.
+
+But Alsbans did not know which was true.
+
+He kept writing.
+
+For days, he carved his thoughts into the walls.
+
+What he remembered.
+
+What he did not know.
+
+The questions he had asked himself for years.
+
+At last, there was no space left to write.
+
+Every wall was covered with words.
+
+Alsbans looked at the last empty place.
+
+He thought for a long time.
+
+And wrote one final question.
+
+**“Who am I?”**
+
+Then he lowered his hand.
+
+There was nowhere left to write.
+
+Perhaps there was nothing left for him to say, either.
+
+***
+
+That night, Alsbans dreamed again.
+
+The green-eyed woman stood before him.
+
+As always, her face was concealed.
+
+This time, Alsbans was not surprised to see her.
+
+He spoke wearily.
+
+“You again?”
+
+But before the woman could approach, everything changed.
+
+All the images around him vanished.
+
+Suddenly, Alsbans found himself surrounded by darkness.
+
+There was no ground to see, no sky above.
+
+Only darkness.
+
+Then he heard voices.
+
+From every direction.
+
+Different voices, yet somehow speaking together.
+
+Alsbans knew who they were.
+
+The gods.
+
+He lifted his head.
+
+“Why?”
+
+There was no answer.
+
+“WHY DID YOU CHOOSE ME?”
+
+His words echoed through the darkness.
+
+He kept shouting.
+
+“Come before me!”
+
+He turned in every direction.
+
+“Show yourselves!”
+
+But nothing appeared.
+
+The gods did not reveal themselves.
+
+Instead, a voice answered.
+
+“Enough, Alsbans.”
+
+Alsbans fell silent.
+
+The voice continued.
+
+“Stop blaming us.”
+
+He held his breath.
+
+“We did not choose you.”
+
+Alsbans looked up.
+
+The voices went on.
+
+“Nor did you choose yourself.”
+
+He had no words.
+
+“Time chose you, Alsbans.”
+
+Another voice spoke.
+
+“And life…”
+
+The words came out of the darkness.
+
+“Life, over which even we have no power.”
+
+Alsbans listened.
+
+“It was life that chose you.”
+
+Silence followed.
+
+Then the voices rose again.
+
+“Know this: you are the chosen one, Alsbans.”
+
+“But you still cannot see yourself as someone chosen.”
+
+Tears gathered in Alsbans's eyes.
+
+“Because you hold yourself responsible for every loss you have suffered.”
+
+Another voice spoke.
+
+“Forgive yourself, Alsbans.”
+
+Alsbans lowered his head.
+
+“Give yourself a chance.”
+
+The voices were not harsh.
+
+Yet they left him nowhere to hide.
+
+“Make peace with yourself.”
+
+Alsbans closed his eyes.
+
+“Whatever happens, it is you who must live this life.”
+
+“And you who must make something beautiful of it.”
+
+After a while, the final words came.
+
+“No matter how unhappy you become, Alsbans, life will not stop.”
+
+“Nor will we stop time.”
+
+“Even while you suffer, others will go on laughing. Even those who see your sorrow will continue living their own moments of happiness.”
+
+“The world will not come to a halt because of your pain.”
+
+The voices began to fade.
+
+“Forgive yourself, Alsbans.”
+
+“And make peace with who you are.”
+
+Then the darkness grew silent.
+
+***
+
+Alsbans opened his eyes at once.
+
+He was in Petracisa.
+
+In the same place.
+
+Surrounded by the same silence.
+
+For a while, he did not move.
+
+Then he turned his head.
+
+On the wall before him were the last words he had written.
+
+**“Who am I?”**
+
+Alsbans stared at the question for a long time.
+
+Once, whenever he asked himself who he was, he searched his past for an answer.
+
+His mother.
+
+His father.
+
+Where he had come from.
+
+Who had found him.
+
+Why he had been left alone.
+
+But now, for the first time, he thought of other things.
+
+The things he had done in his life.
+
+The people he had tried to save.
+
+Those he had loved.
+
+Those he had lost.
+
+He had not always made the right decisions.
+
+Sometimes he had been wrong.
+
+Sometimes he had been afraid.
+
+Sometimes anger had overcome him.
+
+Sometimes he had failed to protect those who trusted him.
+
+But one thing he knew.
+
+He had done everything he could.
+
+He had wanted to save his people.
+
+He had wanted to repay the kindness of those who accepted him with kindness of his own.
+
+He had never wanted to lose the people he loved.
+
+And despite all his failures, he had never set out to choose evil.
+
+Alsbans closed his eyes.
+
+This time, when he remembered his past, he did not turn his anger against himself.
+
+He thought of the child who had been left alone.
+
+The child who had grown up in Trixalisse without knowing why he was there.
+
+The Alsbans who wanted to be loved, wanted to belong, wanted to find somewhere he could call his own.
+
+He remembered the young man who had once been so hungry that he had stolen food.
+
+The day he became free.
+
+Cesa.
+
+Kesal.
+
+The people of Fenis.
+
+And everything he had lived through.
+
+For the first time, he did not judge himself only by his mistakes.
+
+He did not blame himself for growing up without a family.
+
+He was not ashamed of failing to know things no one had ever told him.
+
+He still grieved for the people he could not protect.
+
+He still missed those he had lost.
+
+But he began to understand that he did not have to carry their deaths as his punishment forever.
+
+He could not change the past.
+
+But he could change the way he looked at the Alsbans who had lived through it.
+
+Tears ran down his face.
+
+This time, sorrow was not the only reason he cried.
+
+For the first time in years, he was beginning to show himself the mercy he had waited to receive from others.
+
+He forgave himself.
+
+He accepted the person he was.
+
+With everything he did not know.
+
+With his fears.
+
+His regrets.
+
+His love.
+
+And all his losses.
+
+Alsbans looked at the wall once more.
+
+**“Who am I?”**
+
+He no longer waited for someone else to answer that question.
+
+Not Jelin.
+
+Not the people of Fenis.
+
+Not even the gods.
+
+He no longer needed someone to tell him who he was.
+
+For the person he had searched for all these years had been living within his own life all along.
+
+That child's name had been Alsbans.
+
+That young man's name had been Alsbans.
+
+The slave, the free man, the brother, and the leader had all been Alsbans too.
+
+None of them was separate from the others.
+
+They were all him.
+
+And that day, in the silence of Petracisa, something happened that no people applauded, no god appeared to witness, and no one else was there to see.
+
+For the first time in his life, Alsbans made peace with himself.
+
+He no longer needed others to believe in him before he could believe in his own existence.
+
+He had forgiven himself.
+
+He had accepted himself.
+
+And perhaps, after everything he had endured, he had finally reached the hardest place of all.
+
+**Himself.**
+
+For Alsbans, that day was a great one.
+
+For at last, he had become the true Alsbans.
+
