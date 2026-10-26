@@ -3,7 +3,7 @@ title: "The Legend of Alsbans"
 slug: "legend-of-alsbans"
 description: "In the green forests of Humpellia and the towering dark of Trixalisse, Alsbans grows from loss into legend. His story moves through ancient wizards, broken families, war against Meras, and the hard search for a place to belong."
 publishedAt: "2025-12-18"
-updatedAt: "2026-10-20"
+updatedAt: "2026-10-26"
 status: "published"
 coverImage: "/images/stories/alsbans-cover.png"
 coverAlt: "A cloaked figure lifting a newborn beneath a sky filled with stars."
@@ -9093,3 +9093,456 @@ For Alsbans, that day was a great one.
 
 For at last, he had become the true Alsbans.
 
+For days, Inos had brought food to Alsbans.
+
+Each time, he opened the door, left what he had brought, and departed without disturbing him. Alsbans remained inside, ate his meal, and withdrew once more into his silence.
+
+But that day, something had changed.
+
+When Inos arrived with food as usual, he found Alsbans waiting by the door.
+
+He stopped in surprise.
+
+Alsbans looked at him with the faintest smile.
+
+"Inos, is this how friends treat their guests?"
+
+For a moment, Inos said nothing.
+
+Alsbans continued.
+
+"I've been here for days. You bring me food and leave, but you haven't once shown me the place where you live."
+
+He held out his hand.
+
+"Come on, then. Show me around."
+
+Inos smiled.
+
+"Come, brother."
+
+He rested a hand on Alsbans's shoulder.
+
+"Come. Let me show you Petracisa."
+
+***
+
+They began walking together.
+
+For the first time in days, Alsbans stepped outside the place where he had shut himself away.
+
+As they passed through the vast spaces of Petracisa, he studied his surroundings carefully. Everything was quiet. Places that had clearly once held life now stood without a single human voice.
+
+Emptiness stretched as far as he could see.
+
+Yet it was not merely the emptiness of an abandoned place.
+
+It was as though the absence of those who had lived there could still be felt.
+
+Inos led him to the square.
+
+Alsbans looked around.
+
+"Does no one truly live here anymore?"
+
+Inos stopped in the middle of the square.
+
+"You can see for yourself, Alsbans. This place is empty."
+
+He gazed around in silence for a moment.
+
+"But not in my eyes."
+
+Alsbans turned to him, puzzled.
+
+"What do you mean, Inos?"
+
+Inos answered slowly.
+
+"You see an empty square. I see the people who were born beneath this earth and buried beneath it."
+
+Alsbans listened.
+
+"People who never saw the sunlight, Alsbans. People who lived without ever knowing the beauty of the world above."
+
+Inos looked across the deserted square.
+
+"We were born here. We grew up here. We lived here. And most of us never even considered that another world might exist beyond the one we knew."
+
+He fell silent for a moment.
+
+"Because we were all chasing the same thing."
+
+Alsbans asked, "What thing?"
+
+Inos looked at him.
+
+"Gold."
+
+Then he continued.
+
+"Jewels. Emeralds. Everything precious hidden deep within the earth."
+
+He began walking across the square.
+
+"We had the finest emeralds, Alsbans. The brightest gold. We possessed more than a person could dream of owning in an entire lifetime."
+
+He shook his head.
+
+"But it was never enough."
+
+Alsbans followed him without speaking.
+
+"We always wanted more. No matter how much gold we found, we believed there must be more buried beneath us. When we obtained one jewel, we searched for a finer one. When we discovered a treasure, we began thinking about the next."
+
+Inos stopped.
+
+"And do you know the strangest part, Alsbans?"
+
+"What was it?"
+
+"Not one of us ever thought to dig upward."
+
+Alsbans looked at him.
+
+Inos went on.
+
+"Everyone dug downward. Deeper. And deeper still. They kept forcing their way farther into the earth for the sake of a little more gold."
+
+He raised his head.
+
+"And anyone who dug upward was called a fool."
+
+Inos repeated the words he remembered from long ago.
+
+*'What do you expect to find up there? There's nothing but stone!'*
+
+Then he turned back to Alsbans.
+
+"That was what they said."
+
+For a moment, he was quiet.
+
+"Because to them, the only things of value were those hidden underground. They could not believe that any other kind of beauty might exist."
+
+***
+
+Inos stopped walking.
+
+Alsbans noticed the change in his expression.
+
+A moment earlier, Inos had spoken calmly of the past. Now he seemed to be returning to a memory much farther away.
+
+"One day, war broke out among us, Alsbans."
+
+Alsbans said nothing.
+
+Inos looked toward the square.
+
+"Every place you see around you was once filled with gold."
+
+He lifted his hand and gestured across the deserted ground.
+
+"There was gold everywhere. Jewels everywhere. No one needed to live in poverty."
+
+His voice grew heavier.
+
+"And still, they could not be happy."
+
+He did not speak for a while.
+
+"Because they never looked at what they already had, Alsbans. They saw only what they did not yet possess."
+
+Alsbans lowered his head.
+
+Inos continued.
+
+"In the end, they began fighting not for what was theirs, but for what belonged to someone else."
+
+The silence of the square stretched around them.
+
+"Everyone wanted more. No one was content with what they held. One person's gold became, in another person's eyes, a treasure that had to be taken."
+
+Inos drew a deep breath.
+
+"And they began killing one another."
+
+Alsbans looked around again.
+
+He was beginning to understand why the square stood empty.
+
+But Inos had not finished.
+
+"That was the day I realized something, Alsbans."
+
+"What did you realize?"
+
+"That happiness did not come from possessing more."
+
+Inos turned toward him.
+
+"Happiness was learning how to be happy with what you already had."
+
+He paused.
+
+"I was younger then. And for the first time, I understood that I thought differently from the others."
+
+Alsbans listened closely.
+
+"While everyone was killing one another, I made a decision."
+
+Inos lifted his head.
+
+"I would no longer dig downward."
+
+A faint smile crossed his face.
+
+"I would dig upward."
+
+***
+
+"Upward?" Alsbans asked.
+
+"Yes, brother."
+
+Inos looked into the distance.
+
+"Finding more gold had lost all meaning for me. No matter how wealthy I became, I understood that the things I owned would never make me happy."
+
+He continued.
+
+"Because wealth was not what I was looking for."
+
+"Then what was?"
+
+"Freedom."
+
+Alsbans fell silent.
+
+Inos's voice softened.
+
+"The freedom to do what I wished. To choose my own path. To live without becoming a slave to the things I possessed."
+
+He lowered his head slightly.
+
+"Sometimes a person believes he has everything, Alsbans, without realizing that the things he owns have begun to rule him."
+
+Alsbans considered his words.
+
+Inos went on.
+
+"Everyone searched for happiness among beautiful and precious things. But I had already learned to be happy with what was in my hands."
+
+He paused.
+
+"And once I had found that happiness, I began to feel something else."
+
+Alsbans asked, "What did you feel?"
+
+"Curiosity."
+
+For the first time, genuine joy appeared on Inos's face as he remembered his past.
+
+"I no longer wondered about gold. I wanted no more jewels. I had seen enough of what lay below."
+
+He lifted his head.
+
+"I wanted to know what lay above."
+
+***
+
+Inos raised a hand.
+
+"Look up, Alsbans."
+
+Alsbans followed his gaze.
+
+Inos pointed toward an opening high overhead.
+
+"Do you see that hole?"
+
+Alsbans studied it.
+
+"Yes."
+
+"I dug it."
+
+Alsbans turned toward him in surprise.
+
+Inos smiled.
+
+"For years."
+
+Then he continued.
+
+"While everyone else tried to reach farther down, I dug toward the surface. Every day, a little more. Every time, a little higher."
+
+His hand still pointed toward the opening.
+
+"I kept going without anyone noticing. I did not want them to know what I was doing, because they could not see the possibility I saw."
+
+He paused.
+
+"I dug, Alsbans. I dug without stopping."
+
+Alsbans looked toward the opening once more.
+
+Inos continued.
+
+"And through all those years, the people here went on killing one another."
+
+He looked across the square.
+
+"In the places you now see standing empty, people were dying for gold. Those who wanted to increase their possessions ended by losing the life they already had."
+
+Inos looked up again.
+
+"But I kept digging."
+
+Neither spoke for a while.
+
+Then Inos smiled slowly.
+
+"At last, I reached the outside, Alsbans."
+
+Alsbans looked at him.
+
+"And do you know what I thought?"
+
+"What?"
+
+"That I had reached heaven."
+
+Inos's eyes turned toward somewhere far away.
+
+"I had never seen sunlight in my life. I knew nothing of the beauty of the surface. I had believed the world consisted of nothing more than the stone, gold, and jewels I had always known."
+
+He paused.
+
+"But when I came out, everything was different."
+
+Alsbans listened.
+
+"It was so beautiful..."
+
+Inos shook his head slightly.
+
+"I thought I had died."
+
+Then he smiled.
+
+"It was as though I had entered heaven without dying."
+
+***
+
+Inos's smile slowly faded.
+
+For a while, he looked across the empty square.
+
+"But when I reached the outside, I did not forget what had happened here, Alsbans."
+
+Alsbans waited in silence.
+
+"I did not forget the dead."
+
+Inos continued.
+
+"I carried the bodies of everyone who had died out from beneath this earth."
+
+He paused.
+
+"I brought them all to the surface."
+
+Alsbans raised his head.
+
+Inos looked at him.
+
+"Do you remember the tree, Alsbans? The one with the red leaves?"
+
+The tree returned at once to Alsbans's mind.
+
+The red leaves.
+
+The gold scattered across the earth.
+
+The bodies of Meras's soldiers.
+
+And Inos.
+
+"I remember."
+
+Inos nodded.
+
+"I buried them beneath that tree."
+
+Alsbans remained silent.
+
+Inos continued.
+
+"And I buried all the gold with them."
+
+Alsbans looked at him in astonishment.
+
+"All of it?"
+
+"Yes, brother."
+
+Inos turned toward the square.
+
+"Every piece of gold that was here."
+
+After a moment, he spoke again.
+
+"Everything they had longed to possess throughout their lives, I finally laid in the earth beside them."
+
+A deep silence filled the square.
+
+Inos's voice had grown solemn.
+
+"Because that gold had never brought them happiness."
+
+He paused.
+
+"Instead, it had blinded them so completely that they could no longer see the happiness they already held."
+
+Alsbans thought about his words.
+
+He remembered the bodies of Meras's soldiers beneath the red-leaved tree. He had wondered why the gold was there, and what the tree was meant to represent.
+
+Now he understood that the tree did not shelter treasure alone.
+
+A past lay buried beneath it.
+
+The hunger of an entire people.
+
+Their desires.
+
+And their dead.
+
+Inos spoke once more.
+
+"That was the day I made a promise to myself, Alsbans."
+
+Alsbans turned toward him.
+
+"What promise?"
+
+Inos's expression hardened.
+
+"That I would never again allow those blinded by hunger for gold to live in this world."
+
+Alsbans fell silent.
+
+Inos continued.
+
+"Those who cannot see beauty, who cannot value what they already possess, who destroy the lives of others in their hunger for more—I would not allow them to commit the same evil again."
+
+He paused.
+
+"And I did not leave that promise as a vow to myself alone."
+
+Alsbans watched him closely.
+
+Inos spoke his final words.
+
+"I received a promise from the gods themselves, Alsbans."
