@@ -3,7 +3,7 @@ title: "The Legend of Alsbans"
 slug: "legend-of-alsbans"
 description: "In the green forests of Humpellia and the towering dark of Trixalisse, Alsbans grows from loss into legend. His story moves through ancient wizards, broken families, war against Meras, and the hard search for a place to belong."
 publishedAt: "2025-12-18"
-updatedAt: "2026-10-26"
+updatedAt: "2026-10-27"
 status: "published"
 coverImage: "/images/stories/alsbans-cover.png"
 coverAlt: "A cloaked figure lifting a newborn beneath a sky filled with stars."
@@ -9546,3 +9546,243 @@ Alsbans watched him closely.
 Inos spoke his final words.
 
 "I received a promise from the gods themselves, Alsbans."
+
+For a while, Inos said nothing.
+
+In Petracisa's deserted square, nothing remained of those who had once lived there except their memories. In a place where people had spent their lives searching for gold and jewels, where they had killed one another without ever learning the value of what they already possessed, only two people now stood.
+
+Alsbans looked at Inos.
+
+The one who had spoken to him about happiness, who had told him how gold could blind a person, now carried a different kind of sorrow in his eyes.
+
+Inos lowered his head slightly.
+
+"Perhaps there is a world where I have a family too, Alsbans."
+
+Alsbans said nothing.
+
+"Perhaps there is a world where I am happy."
+
+Inos's voice trembled.
+
+"Perhaps, before all of this, I could have lived another life."
+
+Tears began to run down his cheeks. Inos, who had lived for so long in Petracisa's silence, who had witnessed the deaths of his entire people and spent years alone, could no longer hold them back.
+
+He stepped closer to Alsbans, rested his head on his shoulder, and began to weep.
+
+Alsbans remained quiet. He did not try to stop him. He did not tell him to be strong, or speak of tears as though they were a weakness.
+
+He knew something about this kind of sorrow.
+
+Sometimes what a person needed was not for the pain to end, but for there to be someone before whom it did not have to be hidden.
+
+Alsbans placed a hand on Inos's shoulder.
+
+"Keep crying, brother."
+
+Inos did not lift his head.
+
+"Let out everything you've been carrying. I'm here."
+
+Inos wept harder, and Alsbans stayed beside him.
+
+That day mattered to them both, because each knew the pain of having no one. They knew what it meant to wake with nobody nearby; to have something to say and no one to listen; to remember the past without having a home to return to.
+
+Inos had spent years surrounded by gold before freeing himself from it. Alsbans had spent years searching for a place to belong, only to lose it each time he thought he had found one.
+
+Their lives had been different, but their loneliness was not strange to one another.
+
+That day, Alsbans shared Inos's grief. And for the first time in years, Inos was able to carry that grief in the presence of another person.
+
+---
+
+The next morning, Alsbans went walking through Petracisa.
+
+He no longer wanted to remain in the place where he had shut himself away for so many days. He passed through the square Inos had shown him, looking more closely at the vast underground world where people had once lived.
+
+As he walked, Petracisa's silence began to seem different to him.
+
+Before, he had seen only an abandoned place. Now he thought of the people Inos had described: those born without ever seeing sunlight, those who spent their lives searching for riches beneath the earth, and those who died surrounded by the gold they had collected.
+
+He walked a little farther, then stopped.
+
+Before him stood a great green banner.
+
+It rose within Petracisa's silence, unlike anything around it. Alsbans approached and saw that something was written upon it.
+
+**ALAMONISA**
+
+He studied the letters for a long time, trying to remember whether he had ever heard the word. He had learned many things from the wizards of Trixalisse, but he did not know what this inscription meant.
+
+He turned around.
+
+"Inos!"
+
+A short while later, Inos came to him.
+
+"What is it, brother?"
+
+Alsbans pointed at the banner.
+
+"What is that banner, Inos?"
+
+Inos lifted his head. His expression changed as he looked at the green cloth.
+
+"Ah, Alsbans..."
+
+For a moment, he said nothing.
+
+"There is a very old story about this banner."
+
+"What kind of story?" Alsbans asked.
+
+Inos walked toward it.
+
+"According to the legends, one day a chosen person will appear."
+
+Alsbans's eyes widened.
+
+"That person will come here, pass through Petracisa, and take this banner."
+
+He paused.
+
+"And then bring justice to the universe."
+
+Alsbans fell silent.
+
+Inos continued looking at the banner.
+
+"That is how the story is told, brother. They say someone will come who will put an end to all this evil."
+
+Alsbans remembered the voices of the gods.
+
+*You are the chosen one, Alsbans.*
+
+But he said nothing.
+
+"The legends say this person will possess tremendous power," Inos went on. "Such power that no one will be able to stand against them."
+
+Alsbans listened closely.
+
+"And Meras..."
+
+Inos's voice grew heavy.
+
+"According to the legends, that person will be the only one capable of defeating Meras."
+
+Alsbans looked at the banner for a while.
+
+"Then what does Alamonisa mean?"
+
+Inos shook his head.
+
+"I don't know, brother."
+
+Alsbans was surprised.
+
+"Not even you?"
+
+"No. The legends say only the chosen one knows what that word means."
+
+He paused.
+
+"Some legends even say Alamonisa is the chosen one's name."
+
+Alsbans looked again at the inscription.
+
+*Alamonisa.*
+
+He repeated the word silently.
+
+The gods had told him that he was the chosen one. Yet he did not even know what a chosen person was supposed to be. He had failed to protect his own people. For years, he had been unable to forgive himself.
+
+And now, before him, stood the banner of someone who was said to bring justice to the entire universe.
+
+Alsbans turned toward Inos.
+
+"Do you believe it?"
+
+"Believe what?"
+
+"That someone like that will really come."
+
+Inos gave a faint smile, but there was no hope in it.
+
+"If such a person truly existed, they should have come long ago, Alsbans."
+
+He gazed at the banner.
+
+"So much evil has been done. So many people have died. So much time has passed."
+
+Slowly, he shook his head.
+
+"It's too late now, brother."
+
+His voice dropped.
+
+"Everything is already over."
+
+Alsbans did not reply.
+
+As he listened, another thought grew within him.
+
+*What if it isn't over yet?*
+
+He remembered what the gods had told him: that his fate had been erased, that he could rewrite it himself, and that he was the chosen one.
+
+Alsbans knew this now.
+
+But Inos did not.
+
+He looked at his friend for a moment, then decided to tell him the truth.
+
+"Inos..."
+
+Inos turned.
+
+"Yes, brother?"
+
+Alsbans drew a breath.
+
+"There's something I need to tell you."
+
+He was just about to speak when they heard voices.
+
+Both fell silent.
+
+Petracisa's stillness had been broken. Shouts rang out in the distance, growing louder. Then came the sounds of armed men approaching.
+
+Meras's soldiers had arrived.
+
+Alsbans immediately looked at Inos. The smile disappeared from Inos's face.
+
+For a moment, they looked at one another.
+
+This was no longer the time to talk.
+
+Inos handed Alsbans a sword.
+
+Alsbans took it.
+
+Once, he had been forced to fight Meras's soldiers alone. He had lost the people he tried to protect and watched those he loved die.
+
+But now Inos stood beside him.
+
+Inos, who had saved him from death, brought him to Petracisa, and shared his loneliness.
+
+The one Alsbans called his brother.
+
+Inos turned to him.
+
+"The time has come, brother."
+
+Alsbans tightened his grip on the sword.
+
+They stood shoulder to shoulder.
+
+Meras's soldiers were before them.
+
+And this time, Alsbans was not alone.
+
+**Two brothers stood ready to fight the soldiers of Meras together.**
