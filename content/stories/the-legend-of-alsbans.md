@@ -3,7 +3,7 @@ title: "The Legend of Alsbans"
 slug: "legend-of-alsbans"
 description: "In the green forests of Humpellia and the towering dark of Trixalisse, Alsbans grows from loss into legend. His story moves through ancient wizards, broken families, war against Meras, and the hard search for a place to belong."
 publishedAt: "2025-12-18"
-updatedAt: "2026-10-27"
+updatedAt: "2026-11-01"
 status: "published"
 coverImage: "/images/stories/alsbans-cover.png"
 coverAlt: "A cloaked figure lifting a newborn beneath a sky filled with stars."
@@ -9786,3 +9786,665 @@ Meras's soldiers were before them.
 And this time, Alsbans was not alone.
 
 **Two brothers stood ready to fight the soldiers of Meras together.**
+
+## Chapter 9: The Fall of Petracisa
+
+First came the sounds.
+
+Then the ground began to tremble.
+
+Deep beneath Petracisa, the footsteps overhead grew louder and louder, breaking the silence of the underground world. Every step shook the earth. There were so many soldiers marching above them that their approach felt like an earthquake.
+
+Meras's soldiers were coming.
+
+And their numbers were far beyond any army Alsbans and Inos had faced before.
+
+Inos listened. He drew his wings slightly back and turned to Alsbans.
+
+“What are we going to do, brother?”
+
+Alsbans gripped his sword before answering.
+
+“There are too many of them, Alsbans. Can you hear them? Even the ground above us is shaking.”
+
+Alsbans raised his blade.
+
+“We fight, Inos.”
+
+Inos stared at him.
+
+“Fight?”
+
+“Yes.”
+
+“But brother, we cannot defeat them. We do not even know how many there are!”
+
+Alsbans met his eyes.
+
+“I said we fight.”
+
+There was neither anger nor fear in his voice this time. Only the resolve of a man who had made his decision.
+
+Inos fell silent.
+
+Alsbans looked toward the entrance.
+
+“First, seal the entrance.”
+
+Inos lifted his head.
+
+“What?”
+
+“They are almost upon us. If they come through an open passage, we will not withstand them. We block it, and we wait for them to reach us.”
+
+Inos thought for a moment, then nodded.
+
+They set to work together.
+
+They dragged great stones into the passage and piled them across the entrance to Petracisa. Whatever they could find, they used. They filled the remaining gaps with smaller rocks until the way inside was almost entirely sealed.
+
+But blocking the entrance would not be enough.
+
+Alsbans studied the enormous stones above the passage.
+
+An idea came to him.
+
+“We stop them here.”
+
+Inos looked at him.
+
+“How?”
+
+Alsbans pointed upward.
+
+“When they try to force their way through, those rocks will fall on them.”
+
+Inos followed his gaze, then looked back at Alsbans.
+
+He understood.
+
+Together they positioned the stones and prepared a trap. To enter, the soldiers would have to move the obstacles blocking the passage. But the moment they did, the boulders above would come loose and crush those standing beneath them.
+
+When everything was ready, the two of them concealed themselves.
+
+And waited.
+
+The footsteps overhead continued.
+
+The trembling grew stronger.
+
+The soldiers were drawing near.
+
+“Brother,” Inos whispered.
+
+Alsbans turned.
+
+“What is it?”
+
+“Remember this. When the footsteps stop, they will attack.”
+
+Alsbans nodded.
+
+After a while, the sound of marching began to fade.
+
+First the distant footsteps ceased.
+
+Then those closest to them.
+
+Until at last there was complete silence.
+
+Alsbans held his breath.
+
+Inos kept his eyes on the entrance.
+
+Nothing moved. For an instant, it was as though the entire army had vanished.
+
+Then the first blow struck.
+
+**BOOM!**
+
+The great stones shuddered.
+
+Another blow followed.
+
+Then another.
+
+Meras's soldiers had begun hammering at the entrance with all their strength. Dust spilled through the cracks, and each impact sent a tremor through the walls of Petracisa.
+
+Alsbans looked at Inos.
+
+“Are you ready, brother?”
+
+Inos turned to him.
+
+“Ready.”
+
+---
+
+At last, the entrance gave way.
+
+The great stones shifted out of place.
+
+And just as Meras's soldiers began to force their way inside, the trap sprang.
+
+The boulders waiting above came crashing down.
+
+The soldiers at the front had no chance to escape. They were crushed beneath the falling rock. Those behind tried to stop, but hundreds more were pressing forward, pushing them into the passage.
+
+Screams echoed through Petracisa.
+
+Dust swallowed the entrance.
+
+Alsbans and Inos emerged from their hiding place.
+
+The trap had worked.
+
+But behind the fallen stones stood more soldiers.
+
+And behind them, still more.
+
+And more beyond those.
+
+Meras's army was not stopping. Each man who fell was immediately replaced by another.
+
+Soldiers poured in with torches, longbows, and swords in their hands.
+
+“ALSBANS!”
+
+The cries rang through the underground halls.
+
+“ALSBANS!”
+
+Some shouted his name while others advanced with their weapons raised.
+
+Alsbans turned toward the voice.
+
+He saw one of the soldiers calling for him.
+
+He did not hesitate.
+
+With all his strength, he hurled his sword toward the man.
+
+The blade cut through the air and struck him. The soldier fell where he stood.
+
+Inos began tearing loose heavy stones and hurling them at the attackers.
+
+Each stone opened a gap in their ranks.
+
+And each gap filled again almost at once.
+
+Alsbans and Inos exchanged a glance.
+
+Then they ran together toward the entrance.
+
+Traps alone would no longer hold the enemy back.
+
+The battle had begun.
+
+---
+
+Nothing remained of Petracisa's ancient silence.
+
+The clash of steel, the cries of men, and the thunder of falling stone filled the underground world.
+
+Alsbans fought the soldiers in front of him, keeping all his attention on the next strike, the next blade, the next opening that might keep him alive.
+
+Inos fought beside him. He lifted great stones and flung them into the enemy, driving back anyone who came too close.
+
+Together they pushed toward the entrance.
+
+But no matter how many soldiers they killed, more took their places.
+
+The dead fell to the ground, and those behind them marched over their bodies to continue the assault.
+
+The stones were stained with blood.
+
+As the fighting went on, bodies and torn flesh covered the passage. There was scarcely a clean place left to stand at the entrance of Petracisa.
+
+Alsbans began to struggle for breath.
+
+Inos's movements, too, were growing heavier.
+
+Still, they fought.
+
+Then one of the soldiers raised his bow.
+
+The arrow flew.
+
+By the time Inos sensed the danger, it was too late.
+
+The arrow struck his wing.
+
+“AAAH!”
+
+His cry rang through the passage.
+
+He staggered, blood running down his wounded wing.
+
+Alsbans turned at once.
+
+“INOS!”
+
+But Inos did not retreat.
+
+If anything, the pain made him angrier.
+
+He charged the soldiers again, striking down those in his path despite the wound. One by one he forced them back until he reached the entrance.
+
+There he killed the remaining soldiers in the passage, dragged a massive stone across the opening, and sealed it once more.
+
+Outside, the soldiers immediately began pounding against the barrier.
+
+Inos bent forward and tried to move his wounded wing.
+
+Pain twisted his face.
+
+He could no longer fly.
+
+Alsbans rushed to him.
+
+“Inos!”
+
+Inos raised his head.
+
+“Are you all right, brother?”
+
+Before answering, Inos looked toward the entrance.
+
+The stones were trembling again.
+
+The army was preparing to break through a second time.
+
+Alsbans looked at his wing.
+
+“You are wounded. I have to help you.”
+
+Inos raised a hand.
+
+“No.”
+
+“Your wing—”
+
+“Listen to me, Alsbans.”
+
+Alsbans fell silent.
+
+Inos pointed upward.
+
+“Do you see that place?”
+
+Alsbans looked where he was pointing.
+
+“Yes.”
+
+“Up there. On the left.”
+
+Inos's voice hardened.
+
+“Go there and start digging.”
+
+Alsbans stared at him.
+
+“Why?”
+
+“Do as I say!”
+
+For a moment, Alsbans did not move. Inos had never shouted at him like that before.
+
+“Inos, what are you planning?”
+
+Inos glanced toward the entrance. The blows were growing stronger.
+
+“I will take care of things down here, brother. You have to go.”
+
+“And what about you?”
+
+Inos answered:
+
+“They are not after me, Alsbans.”
+
+He paused.
+
+“They are after you.”
+
+Alsbans watched him.
+
+“We can trap them all inside here. You reach the surface and deal with those who remain outside.”
+
+Alsbans shook his head.
+
+“I do not like this plan.”
+
+Inos did not look away.
+
+“We have no other choice.”
+
+Another blow struck the entrance.
+
+One of the stones shifted.
+
+Inos raised his voice.
+
+“Go, brother!”
+
+Alsbans looked at him for another moment.
+
+Then he turned and ran to the place Inos had shown him.
+
+---
+
+Alsbans began digging upward.
+
+He broke through the earth and stone before him, trying to open a way to the surface. His hands grew more tired with every blow, but he did not stop.
+
+Below, the pounding at the entrance continued.
+
+Inos waited alone.
+
+Blood still ran from his wing.
+
+He kept his eyes fixed on the barrier.
+
+After a while, Alsbans called down.
+
+“Inos!”
+
+Inos looked up.
+
+“What is it, brother?”
+
+“The way is opening!”
+
+Inos looked toward him.
+
+The moment had come.
+
+He turned to the stones at the entrance and began pulling them loose.
+
+Together with the soldiers' blows from outside, the barrier collapsed.
+
+The entrance opened wide.
+
+Meras's soldiers surged inside.
+
+There were no great stones left to stop their advance.
+
+The men shouted as they poured through.
+
+Inos turned.
+
+And ran.
+
+With his wounded wing, he could not fly, but he ran as fast as he could.
+
+“GO, BROTHER!”
+
+Alsbans heard him and kept digging upward.
+
+Below, more and more soldiers entered Petracisa.
+
+First hundreds.
+
+Then hundreds more.
+
+The vast underground chambers began to fill with men.
+
+Before long, wherever one looked, there were only Meras's soldiers.
+
+They shoved and trampled one another, pushing forward over those who fell.
+
+Their numbers were so great that almost nothing else could be seen inside.
+
+Every voice was shouting the same name.
+
+“ALSBANS!”
+
+“DEATH TO ALSBANS!”
+
+“DEATH!”
+
+The words thundered against Petracisa's walls.
+
+As Inos ran, he glanced behind him.
+
+Most of the army had entered.
+
+And getting back out would not be easy.
+
+He raised his head toward the opening Alsbans was digging.
+
+His brother was almost through.
+
+Inos stopped.
+
+For a moment, he watched Alsbans climbing toward the surface.
+
+Then he closed his eyes and took a deep breath.
+
+---
+
+At last, Alsbans broke through to the outside.
+
+The moment he reached the surface, he turned back.
+
+“Inos!”
+
+He looked down through the opening.
+
+There was Inos.
+
+Still inside Petracisa.
+
+And behind him, countless soldiers of Meras.
+
+“COME, BROTHER!”
+
+Inos raised his head.
+
+“I am staying here, Alsbans!”
+
+Alsbans could scarcely believe what he was hearing.
+
+“WHAT?”
+
+“Do not worry about me!”
+
+Inos's voice rose from below.
+
+“Go to Legacy! Save yourself!”
+
+Alsbans shook his head.
+
+“No!”
+
+Inos looked up at him.
+
+Alsbans shouted:
+
+“I WILL NOT GO WITHOUT YOU, BROTHER!”
+
+Inos's expression softened.
+
+For a while, he looked at Alsbans.
+
+Then he spoke.
+
+“Go, Alsbans.”
+
+Alsbans leaned forward as if he meant to climb back down.
+
+Inos shouted again.
+
+“GO!”
+
+He paused.
+
+“Nothing will happen to me, brother!”
+
+Alsbans kept his eyes on him.
+
+Inos called up one last time.
+
+“I promise!”
+
+Alsbans could not move.
+
+Throughout his life, he had heard so many promises.
+
+Promises from those who said they would return.
+
+From those who said they would protect him.
+
+From those who said they would never leave.
+
+And now Inos was making him a promise too.
+
+But there was such resolve in his brother's voice that Alsbans understood arguing would change nothing.
+
+Inos turned away.
+
+He looked toward the pillars supporting Petracisa.
+
+Years ago, he had dug upward through this earth to find freedom.
+
+He had dug without stopping.
+
+To escape.
+
+And now, beneath that same earth, he would use the freedom he had found so another person might live.
+
+He gripped his pickaxe tightly.
+
+He approached one of the supporting pillars.
+
+And struck with all his strength.
+
+The first pillar shifted.
+
+Then the others.
+
+A terrible sound rose from deep within Petracisa.
+
+The ground shook.
+
+Great pieces began to break from the ceilings.
+
+Before the soldiers could understand what was happening, rocks were falling upon them.
+
+Inos struck again.
+
+And the supports of Petracisa gave way.
+
+---
+
+Alsbans felt the tremor first.
+
+Then he heard the sound.
+
+The roar rising from underground seemed to come from the heart of the mountain itself.
+
+Dust poured upward through the opening.
+
+Alsbans stumbled backward.
+
+“Inos?”
+
+There was no answer.
+
+The earth continued to collapse.
+
+The depths of Petracisa were closing, one after another.
+
+The cries of Meras's soldiers vanished into the thunder of falling stone.
+
+Alsbans rushed toward the opening.
+
+“INOS!”
+
+He shouted with all the strength he had left.
+
+“INOS!”
+
+But no answer came from below.
+
+The hole began filling with falling earth.
+
+The place where he had seen his brother only moments before disappeared.
+
+Alsbans fell to his knees.
+
+“No…”
+
+He stared at the ground.
+
+“Inos, please…”
+
+A final tremendous crash sounded.
+
+And Petracisa collapsed completely.
+
+The great underground realm where countless people had once lived, where gold and jewels had been gathered, where Inos had spent years digging toward the surface, was buried beneath the earth.
+
+Along with Meras's soldiers.
+
+And Inos.
+
+Alsbans could not tear his eyes away from the ruins.
+
+“INOS!”
+
+His voice faded into the emptiness.
+
+He shouted again.
+
+Still, no answer came.
+
+He did not know whether Inos was alive or dead.
+
+All he knew was that the soldiers who had gone down with him could no longer be seen.
+
+But the battle was not over.
+
+---
+
+Alsbans heard voices behind him.
+
+He turned.
+
+The soldiers of Meras who had not entered Petracisa were still outside.
+
+And now they had seen him.
+
+“THERE HE IS!”
+
+The soldiers raised their swords.
+
+“ALSBANS!”
+
+Alsbans slowly stood.
+
+He looked back at the collapsed ground one more time.
+
+He did not want to leave his brother there.
+
+But the voices of the soldiers closing in behind him were growing louder.
+
+He shut his eyes.
+
+Then opened them again.
+
+He turned away.
+
+And began to run.
+
+Meras's soldiers pursued him.
+
+Alsbans did not stop.
+
+He ran.
+
+Behind him lay the ruins of Petracisa.
+
+And beneath those ruins, one of the few people who had ever called him brother.
+
+**Alsbans kept running.**
