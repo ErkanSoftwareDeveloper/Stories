@@ -3,7 +3,7 @@ title: "The Legend of Alsbans"
 slug: "legend-of-alsbans"
 description: "In the green forests of Humpellia and the towering dark of Trixalisse, Alsbans grows from loss into legend. His story moves through ancient wizards, broken families, war against Meras, and the hard search for a place to belong."
 publishedAt: "2025-12-18"
-updatedAt: "2026-11-01"
+updatedAt: "2026-11-02"
 status: "published"
 coverImage: "/images/stories/alsbans-cover.png"
 coverAlt: "A cloaked figure lifting a newborn beneath a sky filled with stars."
@@ -9786,7 +9786,6 @@ Meras's soldiers were before them.
 And this time, Alsbans was not alone.
 
 **Two brothers stood ready to fight the soldiers of Meras together.**
-
 ## Chapter 9: The Fall of Petracisa
 
 First came the sounds.
@@ -9803,7 +9802,7 @@ Inos listened. He drew his wings slightly back and turned to Alsbans.
 
 “What are we going to do, brother?”
 
-Alsbans gripped his sword before answering.
+Alsbans gripped his sword but remained silent.
 
 “There are too many of them, Alsbans. Can you hear them? Even the ground above us is shaking.”
 
@@ -9970,6 +9969,8 @@ The blade cut through the air and struck him. The soldier fell where he stood.
 Inos began tearing loose heavy stones and hurling them at the attackers.
 
 Each stone opened a gap in their ranks.
+
+Alsbans seized one of those openings, rushed to the fallen soldier, and pulled his sword free before returning to Inos's side.
 
 And each gap filled again almost at once.
 
