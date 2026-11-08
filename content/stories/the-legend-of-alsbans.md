@@ -3,7 +3,7 @@ title: "The Legend of Alsbans"
 slug: "legend-of-alsbans"
 description: "In the green forests of Humpellia and the towering dark of Trixalisse, Alsbans grows from loss into legend. His story moves through ancient wizards, broken families, war against Meras, and the hard search for a place to belong."
 publishedAt: "2025-12-18"
-updatedAt: "2026-11-02"
+updatedAt: "2026-11-09"
 status: "published"
 coverImage: "/images/stories/alsbans-cover.png"
 coverAlt: "A cloaked figure lifting a newborn beneath a sky filled with stars."
@@ -10449,3 +10449,457 @@ Behind him lay the ruins of Petracisa.
 And beneath those ruins, one of the few people who had ever called him brother.
 
 **Alsbans kept running.**
+
+## Chapter 10: The Unspoken Truths
+
+He no longer had his sword. He had nothing with which to defend himself. Behind him were Meras's soldiers, the ruins of Petracisa, and Inos, buried somewhere beneath those ruins.
+
+Yet he trusted Inos.
+
+He remembered the promise his brother had made.
+
+*"Nothing will happen to me, brother. I promise!"*
+
+Alsbans wanted to believe those words. For if he did not, he would have to accept that he had lost someone he loved yet again.
+
+The soldiers' voices rose behind him.
+
+"He must have gone this way!"
+
+"Search everywhere!"
+
+"He can't have gone far!"
+
+Alsbans did not stop.
+
+He ran as long as his legs would carry him, then walked when he could run no more. His feet ached. His body begged for rest. Still, he kept moving.
+
+He could feel that Legacy was close.
+
+He had come so far. He had lost so many people. After so much suffering, he could not turn back now.
+
+Perhaps a few days remained. Perhaps only a few hours. He did not know.
+
+But he felt he was getting closer.
+
+---
+
+Night had fallen when Alsbans came upon a cave.
+
+Its entrance was quiet. The place seemed abandoned. No human voices came from within, and nothing stirred in the darkness.
+
+He stepped inside.
+
+For a while, he stood motionless. Then he turned to look behind him.
+
+Far away, torches moved through the night.
+
+Meras's soldiers were still searching for him.
+
+Alsbans watched the flames for a moment.
+
+Then, without warning, he shouted:
+
+"I AM ALSBANS!"
+
+His voice struck the cave walls and came back to him.
+
+"IF YOU'RE LOOKING FOR ME, COME AND FIND ME!"
+
+He paused, then shouted again.
+
+"I'M HERE!"
+
+The echoes repeated his words until they seemed to come from every direction.
+
+He had spent years running.
+
+He had run from death, from those who wanted to hurt him, sometimes from those who loved him, and sometimes from his own past.
+
+Now he was tired.
+
+Anger rose in him. There were more things he wanted to scream, but the words would not come. His knees gave way, and he sank to the ground.
+
+In the distance, the torches continued to move. The soldiers had not given up their search.
+
+Alsbans was no longer afraid.
+
+Perhaps they would find him. Perhaps he would wake to see Meras's soldiers standing over him. Perhaps he would never wake at all.
+
+For once, he did not try to change any of it.
+
+He found a place near the mouth of the cave and leaned his back against a large stone.
+
+He looked up at the sky.
+
+Then he whispered to himself:
+
+"If I truly write my own fate…"
+
+He fell silent for a moment.
+
+"Then this is how I choose to write it tonight."
+
+He closed his eyes.
+
+And slept.
+
+---
+
+It was the same dream again.
+
+When Alsbans opened his eyes, a woman stood before him.
+
+Her entire body was covered. A veil concealed her face.
+
+Only her eyes were visible.
+
+**Green eyes.**
+
+He recognized them at once.
+
+He had seen those eyes before.
+
+The woman began walking slowly toward him.
+
+Alsbans tried to move, but he could not.
+
+He tried to raise his arms, to make his legs obey him. No matter how fiercely he struggled, his body would not respond.
+
+At last, the woman stood directly in front of him.
+
+There was blood on her hand.
+
+Without a word, she lifted it and brushed the blood across his lips.
+
+But the instant it touched him, the blood disappeared.
+
+Alsbans could not understand what had happened.
+
+The woman continued to look at him.
+
+He searched her green eyes for some sign of who she was. Yet however closely he looked, he could not remember her.
+
+She moved nearer.
+
+And kissed him on the lips.
+
+Still he could not move.
+
+Slowly, she stepped back. Then she raised her hands to the veil covering her face.
+
+Alsbans's heart began to race.
+
+*This time I'll see her.*
+
+The veil began to lift.
+
+*This time I'll finally know who she is.*
+
+The cloth shifted, inch by inch.
+
+And just as her face was about to appear—
+
+---
+
+Alsbans opened his eyes.
+
+He had awakened again.
+
+For a while, he lay there without speaking. Then he covered his face with his hands.
+
+"Enough…"
+
+He shook his head.
+
+"The same thing. Again."
+
+He no longer wanted to count how many times he had dreamed it. Always the same woman, the same green eyes, the same blood and the same kiss.
+
+And every time, he woke just as he was about to see her face.
+
+Alsbans drew a long breath and stood.
+
+But when he turned toward the entrance, he froze.
+
+It was blocked.
+
+The opening through which he had watched the night outside was closed off.
+
+He hurried toward it and pressed his hands against the stones. He tried to force his way out.
+
+Nothing moved.
+
+"What's going on?"
+
+He tried again.
+
+The result was the same.
+
+Then he shouted:
+
+"IS ANYONE THERE?"
+
+No one answered.
+
+"HEY! CAN ANYONE HEAR ME?"
+
+Only his own voice returned.
+
+Alsbans began searching the cave. He examined the walls, feeling for cracks and narrow openings through which he might escape.
+
+He looked everywhere.
+
+But he found no way out.
+
+Worst of all, he had no idea who had sealed the entrance.
+
+Had it been Meras's soldiers?
+
+Or someone else?
+
+He did not know.
+
+At last, he stopped.
+
+He was hungry.
+
+It had been a long time since he had eaten properly. His stomach was empty, and what little strength remained in his body was fading.
+
+As he searched the cave again, he noticed a little rainwater collected in a hollow of a piece of wood.
+
+He bent down at once and tried to drink it carefully.
+
+There was not much, but it eased his thirst a little.
+
+Then he let himself fall to the ground.
+
+He stared at the ceiling.
+
+"Why am I here?"
+
+He did not know whom he was asking.
+
+The gods?
+
+Fate?
+
+Or himself?
+
+For a while, he lay lost in thought.
+
+Then he noticed something tiny moving across the ground.
+
+An ant.
+
+Alsbans sat up and watched it crawl.
+
+After a moment, he reached out and gently picked it up.
+
+He was so hungry that he considered eating even this tiny creature.
+
+He was just about to bring it to his mouth when a voice called out:
+
+"Stop, Alsbans!"
+
+He flinched and lowered his hand at once.
+
+"What?"
+
+He looked around.
+
+"Who said that?"
+
+"Don't eat it, Alsbans!"
+
+Alsbans sprang to his feet.
+
+"Who are you?"
+
+"It's me, Alsbans!"
+
+"Who?"
+
+"Look up!"
+
+He raised his head.
+
+High in the cave wall was a small opening. A little bird was peering through it, looking straight at him.
+
+Alsbans stared for a moment.
+
+Then he threw his hands into the air.
+
+"ANOTHER GOD?"
+
+His voice rose in exasperation.
+
+"ENOUGH! JUST LEAVE ME ALONE!"
+
+The bird looked startled.
+
+"I'm not a god, Alsbans."
+
+He fell silent.
+
+The bird fluttered down from the opening and landed on his shoulder.
+
+"I'm a bird."
+
+Alsbans turned his head and looked at the small creature perched beside his face.
+
+"A bird?"
+
+"Yes."
+
+"Then how can you speak?"
+
+The bird tilted its head.
+
+"Isn't it more interesting that you can understand me?"
+
+Alsbans thought about that.
+
+The bird went on:
+
+"You can speak our language, Alsbans."
+
+"I can?"
+
+"Yes. All of us can understand you."
+
+Alsbans could not hide his surprise.
+
+He remembered the talking turtle he had met before. But now there was an ordinary-looking little bird in front of him.
+
+And he could speak with it.
+
+He watched the bird for a moment, then smiled.
+
+For the first time in what felt like ages, a small happiness stirred inside him.
+
+Perhaps he was trapped in a cave. Perhaps Meras's soldiers were still searching for him outside.
+
+But at least there was someone he could talk to.
+
+Weary, Alsbans sat down on the ground.
+
+"Do you know who shut me in here?"
+
+"I don't know, Alsbans."
+
+"You didn't see anything?"
+
+"No. But your shouting woke all of us up."
+
+Alsbans lowered his head.
+
+The bird continued:
+
+"By the way, my name is Nipem."
+
+Alsbans looked at it again.
+
+"Nipem?"
+
+"Yes."
+
+He smiled faintly.
+
+"It's good to meet you, Nipem."
+
+"And you, Alsbans."
+
+They were quiet for a little while.
+
+Then Alsbans felt the hunger gnawing at his stomach again.
+
+"Nipem?"
+
+"Yes?"
+
+"Could you bring me something to eat?"
+
+The bird answered without hesitation.
+
+"Of course, Alsbans!"
+
+His face brightened.
+
+"But you'll have to wait a little."
+
+"That's all right, Nipem. I'll wait."
+
+Nipem took flight from his shoulder, rose toward the little opening, and disappeared.
+
+---
+
+Alsbans was alone again.
+
+But somehow, the loneliness did not feel quite as heavy this time.
+
+He waited for Nipem to return.
+
+After a while, he heard wings fluttering above him.
+
+He looked up.
+
+Nipem had come back.
+
+And he was not alone.
+
+Other birds were with him.
+
+They flew into the cave and gathered near Alsbans, setting their offerings on the ground before him.
+
+He sat up eagerly.
+
+But when he saw what they had brought, he hesitated.
+
+Earthworms.
+
+Little grubs.
+
+And more worms.
+
+The birds had brought whatever food they could find.
+
+Alsbans stared at it, then turned to Nipem.
+
+Nipem seemed rather pleased with himself.
+
+Alsbans said nothing.
+
+He did not complain or ask what the creatures were.
+
+He knew the birds had gone to this trouble for him.
+
+He was hungry.
+
+And there was nothing else to eat.
+
+He reached out and picked up the first worm.
+
+For a moment, he studied it.
+
+Then, reluctantly, he ate it.
+
+He took another.
+
+And another.
+
+He did not enjoy the taste. But enduring his hunger would have been worse.
+
+Nipem and the other birds watched as he ate.
+
+Alsbans accepted each little offering and kept eating.
+
+Once, he had struggled to feed the people of Fenis. He had carried the responsibility of leading hundreds of lives. Now he was sitting in a dark cave, surviving on worms brought to him by birds.
+
+But this time, there were no people beside him preparing to abandon him.
+
+No soldiers trying to kill him.
+
+Only small birds who wanted to help.
+
+And one of them was named **Nipem**.
