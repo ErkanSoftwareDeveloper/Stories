@@ -3,7 +3,7 @@ title: "The Legend of Alsbans"
 slug: "legend-of-alsbans"
 description: "In the green forests of Humpellia and the towering dark of Trixalisse, Alsbans grows from loss into legend. His story moves through ancient wizards, broken families, war against Meras, and the hard search for a place to belong."
 publishedAt: "2025-12-18"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-12"
 status: "published"
 coverImage: "/images/stories/alsbans-cover.png"
 coverAlt: "A cloaked figure lifting a newborn beneath a sky filled with stars."
@@ -10903,3 +10903,575 @@ No soldiers trying to kill him.
 Only small birds who wanted to help.
 
 And one of them was named **Nipem**.
+
+Alsbans had finished the last of the food Nipem had brought him.
+
+He was still trapped inside the cave. Apart from the faint light filtering through the little openings above, there was almost nothing to see. Yet he was no longer entirely alone.
+
+Nipem was there, watching him attentively.
+
+Alsbans looked toward the sealed entrance for a while before speaking.
+
+“Nipem, why is this cave closed?”
+
+The little bird stirred his wings.
+
+“Because when Meras's soldiers were approaching, the great giants sealed the entrance, Alsbans.”
+
+Alsbans turned to him in surprise.
+
+“Great giants?”
+
+“Yes.”
+
+“What giants?”
+
+“The ones who own this place.”
+
+Alsbans straightened.
+
+“Own this place? Then why did they trap me in here?”
+
+“I don't know, Alsbans. But you can speak to them, too.”
+
+Alsbans considered this.
+
+“We'll try to help you,” Nipem continued. “But the stones blocking the entrance are so enormous that no animal could lift them.”
+
+Alsbans nodded and sat upon a large stone.
+
+Once, he had tried to make people listen to him. When they refused to believe him, nothing he said could change their minds. Now a tiny bird was doing everything he could to help.
+
+*What a strange world,* he thought. *Sometimes the kindness you cannot find among people comes from the smallest living creature.*
+
+He sat lost in thought until Nipem fluttered onto his shoulder.
+
+“You've grown so much, Alsbans.”
+
+Alsbans froze.
+
+He turned his head.
+
+“What did you say?”
+
+“You've grown so much.”
+
+Alsbans sprang to his feet.
+
+“Wait a moment…”
+
+His heart began to race.
+
+“Do you know me?”
+
+Nipem looked at him as though the answer were obvious.
+
+“Of course I do, Alsbans.”
+
+Alsbans leaned closer.
+
+“How do you know me, Nipem?”
+
+“Your story is known throughout the animal kingdom.”
+
+For a moment, Alsbans could not speak.
+
+All his life he had struggled to discover who he was. He had asked questions, examined the scattered memories of his childhood, and tried to piece together a past that had never belonged fully to him. And now a bird was telling him that his story was already known.
+
+“Tell me, Nipem.”
+
+There was a seriousness in his voice that silenced even the little bird.
+
+“Please. Tell me everything you know.”
+
+Nipem hesitated.
+
+“I will, Alsbans. But it wouldn't be right for me to tell it alone.”
+
+Alsbans frowned.
+
+“What do you mean?”
+
+“All of us must tell it.”
+
+“All of you?”
+
+Nipem spread his wings.
+
+And soon the silence of the cave began to break.
+
+Birds entered through the narrow openings overhead. The fluttering of bats filled the darkness. Snakes emerged from between the stones and slithered across the floor toward Alsbans.
+
+He watched in astonishment as creatures he had scarcely noticed gathered around him. Birds settled on the rocks; bats took their places above; snakes coiled and lifted their heads to look at him.
+
+Then one of the animals spoke in wonder.
+
+“So you are the chosen one.”
+
+Another voice followed.
+
+“Alsbans…”
+
+Some approached with curiosity. Others watched from farther away.
+
+Standing amid their gaze, Alsbans remembered how those words—*the chosen one*—had once filled him with anger. But he did not answer them now. There was something he needed to know more than anything else.
+
+He raised a hand.
+
+“You all know me, don't you?”
+
+“Yes, Alsbans,” Nipem replied.
+
+Alsbans drew a deep breath.
+
+“Then tell me.”
+
+He paused.
+
+“Who am I?”
+
+---
+
+Nipem moved forward.
+
+“You are the only son of Talis and Melania, Alsbans.”
+
+Alsbans's expression changed.
+
+Two names.
+
+Two names he had never known in all his life.
+
+“Talis…”
+
+Then he repeated the other.
+
+“Melania…”
+
+Nipem nodded.
+
+“Your father's name was Talis. Your mother's name was Melania.”
+
+Alsbans silently repeated them to himself. Two people he had only ever been able to imagine now had names.
+
+“Go on, Nipem.”
+
+“Many years ago, there was a village in Humpellia.”
+
+Alsbans listened closely.
+
+“It was called Tefalis.”
+
+“Tefalis…”
+
+“Yes. One of the most beautiful villages in Humpellia.”
+
+Nipem paused.
+
+“Your family lived there, Alsbans.”
+
+Alsbans closed his eyes.
+
+*Tefalis.*
+
+For the first time, he knew the name of the place where he had been born.
+
+“Meras's soldiers would come to the village and take the men away to war,” Nipem continued. “The people were forced to fight for Meras.”
+
+Alsbans's face hardened.
+
+“One night the soldiers returned. But this time your father stood against them. Talis declared that no one would fight for Meras anymore.”
+
+A silence followed.
+
+“Because your grandfather had gone with those soldiers before him.”
+
+Alsbans stared at the bird.
+
+“My grandfather?”
+
+A snake emerged farther from the stones and spoke.
+
+“Yes, Alsbans.”
+
+He lifted his head.
+
+“Your grandfather's name was Uzak.”
+
+Alsbans felt his breathing slow.
+
+Another name.
+
+His father, Talis.
+
+His mother, Melania.
+
+His grandfather, Uzak.
+
+*So I had a family after all.*
+
+The snake continued.
+
+“Uzak was a great man. When the village faced a massacre, he made a difficult decision to prevent it.”
+
+Alsbans listened without moving.
+
+“When Meras's soldiers threatened Tefalis, Uzak agreed to take the village men with him and fight for Meras.”
+
+“So he went to save his village?”
+
+“Yes, Alsbans.”
+
+Alsbans lowered his head.
+
+“What happened to him?”
+
+The snake was quiet for a moment.
+
+“No one ever saw him again.”
+
+Alsbans looked up.
+
+“No one?”
+
+“No. After Uzak left Tefalis, he was never seen again.”
+
+Alsbans sat down upon the stone.
+
+He stared at the earth before him. He had never met this man, and he did not know where he had gone or whether he was even dead. But at last he knew that he had a grandfather.
+
+*Uzak.*
+
+Then he lifted his head and asked the question he had carried for years.
+
+“What about my mother and father?”
+
+Nipem looked at him.
+
+“What would you like to know, Alsbans?”
+
+“Are they alive?”
+
+The creatures fell silent.
+
+Nipem stepped forward slowly.
+
+“No, Alsbans.”
+
+He paused.
+
+“Neither of them is alive.”
+
+---
+
+Alsbans did not move.
+
+He did not shout or argue. His face barely changed.
+
+Deep down, he had prepared himself for this answer. He had spent years longing to find his parents, yet somewhere along the way he had learned to accept that they might no longer be living.
+
+On the day he made peace with himself in Petracisa, he had resolved not to blame himself for what he could never change.
+
+He knew he could not change the past now.
+
+But he could learn it.
+
+And he wanted to know.
+
+“How did they die?”
+
+Nipem lowered his head.
+
+“One night Meras's soldiers attacked Tefalis.”
+
+Alsbans watched him without blinking.
+
+“Your father fought, Alsbans. He fought like an honorable warrior.”
+
+The bird's voice grew heavy.
+
+“The people who defended the village fought beside him. They resisted to their very last drop of blood.”
+
+Alsbans drew a slow breath.
+
+“And my mother?”
+
+Nipem went quiet, then continued.
+
+“Your mother took you and fled.”
+
+Alsbans felt his fingers begin to tremble.
+
+“She carried you into a cave and tried to hide you where the soldiers could never find you.”
+
+A pause.
+
+“She fought for you, Alsbans.”
+
+His eyes filled with tears.
+
+“But she could not survive.”
+
+Nipem's voice was scarcely above a whisper.
+
+“Before she died, she hid you inside a narrow opening.”
+
+Alsbans held his breath.
+
+“And so the soldiers would not find you…”
+
+For a moment, Nipem could say no more.
+
+“She covered that opening with her own body.”
+
+A profound silence settled over the cave.
+
+Alsbans remained standing. He did not bow his head. Yet tears began to roll down his cheeks.
+
+Now he understood why he had been found alone as an infant. Why he had been wrapped in a torn, bloodstained cloth. Why that cloth had smelled of smoke.
+
+For years he had asked himself the same question.
+
+*Did they abandon me?*
+
+Now he knew.
+
+He had not been abandoned.
+
+His mother had tried to save him, and she had given her life so he might live.
+
+Alsbans closed his eyes for a while. Then, in a voice so quiet it was almost lost in the silence, he asked:
+
+“Did she love me?”
+
+Nipem did not answer immediately.
+
+Alsbans opened his eyes.
+
+His voice trembled this time.
+
+“My mother…”
+
+He struggled to continue.
+
+“Did she love me, Nipem?”
+
+The little bird came closer.
+
+“She loved you very much, Alsbans.”
+
+Fresh tears slipped down his face.
+
+“Very much?”
+
+“Very much.”
+
+Nipem continued softly.
+
+“She loved you more than you could know.”
+
+Alsbans was silent for a long time.
+
+He lifted his head and struggled to steady his breathing. Tears still streaked his cheeks, but he stood upright.
+
+What he had learned had wounded him deeply. Yet he no longer had to live without knowing where he came from.
+
+He had had a mother.
+
+He had had a father.
+
+And both had fought so that he could survive.
+
+---
+
+After a while, Alsbans looked around at the animals.
+
+“You may go.”
+
+Nipem turned toward him in surprise.
+
+“Alsbans?”
+
+“Thank you for everything you've told me.”
+
+The animals exchanged glances.
+
+Nipem stepped forward.
+
+“We are at your command—”
+
+But Alsbans interrupted him.
+
+“Find the giants for me.”
+
+Nipem raised his head.
+
+“The giants?”
+
+“Yes.”
+
+Alsbans gestured toward the sealed cave entrance.
+
+“Find the giants who closed this place and bring them here.”
+
+Nipem bowed his head.
+
+“As you wish, sir.”
+
+Then the birds began to take flight, one by one. The bats moved toward the openings, and the snakes disappeared between the stones.
+
+Before long, the cave was quiet again.
+
+Alsbans was alone.
+
+But just before leaving, Nipem stopped and looked back at him.
+
+The young man was still standing. From a distance he appeared calm. Yet Nipem could see the pain gathering in his eyes.
+
+He did not return to comfort him. He understood that Alsbans wanted to be alone.
+
+And so he left.
+
+---
+
+Once everyone was gone, Alsbans felt the strength leave his legs.
+
+He slowly sat upon the ground.
+
+For a while he stared at the earth.
+
+Then he covered his face with his hands.
+
+And wept.
+
+There was no need to appear strong now. No one to answer to. No people to protect or lead. No one waiting for him to offer hope.
+
+In that moment, he was simply a man who had never known his mother or father.
+
+“Talis…”
+
+For the first time, he spoke his father's name while alone.
+
+Then he whispered:
+
+“Melania…”
+
+His mother's name echoed through the cave.
+
+Alsbans shut his eyes.
+
+*So you loved me.*
+
+He continued to weep.
+
+*So you didn't leave me behind.*
+
+He lowered his head between his knees.
+
+For years he had wondered why no one seemed to want him. He had been forced to leave Trixalisse. The people of Fenis had first accepted him, then rejected him. Those he loved had died or gone away, one after another.
+
+After so many losses, he had sometimes wondered whether he was a person worthy of love at all.
+
+Yet now he knew that, at the very beginning of his life, two people had loved him more than anything else.
+
+And Meras had taken them away.
+
+Alsbans clenched his fists.
+
+“Meras…”
+
+His voice grew harder.
+
+“So it was you who killed my family.”
+
+He paused.
+
+“So it was you who turned me into a dead man walking…”
+
+Slowly, he rose to his feet. Tears still ran down his face.
+
+“Meras!”
+
+His voice rang against the walls.
+
+“HEAR ME!”
+
+He struggled for breath, then shouted again.
+
+“YOU ARE THE ONE WHO TOOK MY FAMILY FROM ME!”
+
+There was no one beside him, but the creatures beyond the openings, between the stones, and outside the cave could hear his voice.
+
+Alsbans continued.
+
+“LET EVERYONE HEAR ME!”
+
+He lifted his head.
+
+“ONE DAY I WILL HAVE A FAMILY OF MY OWN!”
+
+His voice shook.
+
+“AND NONE OF MY CHILDREN WILL GROW UP WITHOUT A MOTHER OR A FATHER!”
+
+His words echoed through the cave, and the animals outside heard them too.
+
+Alsbans stood there for a long while, breathing heavily. Anger still burned within him. Merely thinking of Meras made his blood boil.
+
+But he realized something.
+
+*If I surrender to my anger, Meras will still be the one ruling my life.*
+
+He remembered what he had learned in Petracisa: to forgive himself, to make something beautiful of his own life, and to go on living no matter what happened.
+
+He knew he could not erase his anger.
+
+But he did not have to obey it.
+
+He could never recover what Meras had stolen. He could not bring his mother back or meet his father again.
+
+Yet he could refuse to give Meras his future as well.
+
+One day he could build a family of his own. He could love his children. He could give them the childhood he had never known.
+
+And perhaps that, too, would be an answer to the devastation Meras had left behind.
+
+Alsbans took a deep breath.
+
+His fists loosened.
+
+He was no longer shouting.
+
+Slowly, he sat beside the stone again and closed his eyes, trying to calm himself.
+
+For the first time in a long while, when he looked toward the future, he did not see only war and death.
+
+He imagined a family.
+
+Someone he could love.
+
+A life they might share.
+
+Children who would never have to feel as alone as he had felt.
+
+Then he thought of the woman.
+
+The woman from his dreams, whose face he had never seen, whose green eyes were the only part of her he knew.
+
+Alsbans smiled faintly.
+
+The dream no longer troubled him as it once had. On the contrary, seeing those eyes made him happy.
+
+He slowly lay back against the stone and tried to sleep.
+
+Perhaps he would dream the same dream again. Perhaps he would awaken once more before he could see her face.
+
+But this time he was not afraid to sleep.
+
+He knew now that his revenge upon Meras would not come only from killing him.
+
+**One day, by building a family of his own and giving life again to the love Meras had stolen from him, he would have his revenge in another way as well.**
+
+Alsbans closed his eyes.
+
+And tried to sleep.
